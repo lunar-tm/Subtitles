@@ -1,4433 +1,5591 @@
 ﻿1
-00:00:45,718 --> 00:00:51,423
-<font face="Comic Sans MS">The first thing you need
-to know about Rose is, uh...</font>
+00:00:45,769 --> 00:00:50,769
+Subtitles by explosiveskull
 
 2
-00:00:52,858 --> 00:00:54,827
-<font face="Comic Sans MS">she ain't exactly human.</font>
+00:00:58,718 --> 00:01:04,423
+GRANT: <i>The first thing you need
+to know about Rose is, uh...</i>
 
 3
-00:00:59,999 --> 00:01:05,638
-<font face="Comic Sans MS">Her parents were,
-at least until the lights fell.</font>
+00:01:05,858 --> 00:01:07,827
+<i>she ain't exactly human.</i>
 
 4
-00:01:11,677 --> 00:01:15,413
-<font face="Comic Sans MS">From there,
-it gets complicated.</font>
+00:01:12,999 --> 00:01:18,638
+<i>Her parents were,
+at least until the lights fell.</i>
 
 5
-00:01:15,447 --> 00:01:16,614
-<font face="Comic Sans MS"><i>Jarrod?</i></font>
+00:01:21,306 --> 00:01:23,375
+(RUMBLING)
 
 6
-00:01:17,950 --> 00:01:20,552
-<font face="Comic Sans MS">They harvested
-her father's mind.</font>
+00:01:24,677 --> 00:01:28,413
+<i>From there,
+it gets complicated.</i>
 
 7
-00:01:22,420 --> 00:01:24,222
-<font face="Comic Sans MS">They couldn't erase his will.</font>
+00:01:28,447 --> 00:01:29,614
+Jarrod?
 
 8
-00:01:26,926 --> 00:01:30,663
-<font face="Comic Sans MS">He sacrificed his life
-to save Rose.</font>
+00:01:30,950 --> 00:01:33,552
+GRANT: <i>They harvested
+her father's mind.</i>
 
 9
-00:01:30,696 --> 00:01:32,497
-<font face="Comic Sans MS">But there was another.</font>
+00:01:35,420 --> 00:01:37,222
+<i>They couldn't erase his will.</i>
 
 10
-00:01:32,530 --> 00:01:34,967
-<font face="Comic Sans MS">A father
-in search of his son...</font>
+00:01:37,924 --> 00:01:39,892
+(ELAINE YELLS)
 
 11
-00:01:35,000 --> 00:01:38,536
-<font face="Comic Sans MS">...took her in as his own.</font>
+00:01:39,926 --> 00:01:43,663
+<i>He sacrificed his life
+to save Rose.</i>
 
 12
-00:01:38,570 --> 00:01:43,909
-<font face="Comic Sans MS">Something in that blue light
-made little Rose grow fast.</font>
+00:01:43,696 --> 00:01:45,497
+<i>But there was another.</i>
 
 13
-00:01:44,609 --> 00:01:45,811
-<font face="Comic Sans MS">Too fast.</font>
+00:01:45,530 --> 00:01:47,967
+<i>A father in search of his son...</i>
 
 14
-00:01:45,845 --> 00:01:50,281
-<font face="Comic Sans MS">Blood transfusions
-helped slow it down.</font>
+00:01:48,000 --> 00:01:51,536
+(BABY ROSE CRYING)
+<i>...took her in as his own.</i>
 
 15
-00:01:50,315 --> 00:01:52,617
-<font face="Comic Sans MS">But that's not all
-she inherited.</font>
+00:01:51,570 --> 00:01:56,909
+<i>Something in that blue light
+made little Rose grow fast.</i>
 
 16
-00:01:56,689 --> 00:02:01,493
-<font face="Comic Sans MS">Her powers freed every pilot
-on Earth,</font>
+00:01:57,609 --> 00:01:58,811
+<i>Too fast.</i>
 
 17
-00:02:01,526 --> 00:02:03,996
-<font face="Comic Sans MS">reuniting families...</font>
+00:01:58,845 --> 00:02:03,281
+<i>Blood transfusions
+helped slow it down.</i>
 
 18
-00:02:04,830 --> 00:02:07,833
-<font face="Comic Sans MS">and creating new ones.</font>
+00:02:03,315 --> 00:02:05,617
+<i>But that's not all
+she inherited.</i>
 
 19
-00:02:07,867 --> 00:02:13,038
-<font face="Comic Sans MS">Over the next 10 years,
-Rose and her brother turned the tide...</font>
+00:02:07,019 --> 00:02:08,721
+(WHIZZING)
 
 20
-00:02:13,072 --> 00:02:15,440
-<font face="Comic Sans MS"><i>Ready?</i></font>
+00:02:09,689 --> 00:02:14,493
+<i>Her powers freed every pilot
+on Earth,</i>
 
 21
-00:02:15,473 --> 00:02:21,781
-<font face="Comic Sans MS">...until the Harvesters unveiled
-their ultimate weapon, the Armada Vessel.</font>
+00:02:14,526 --> 00:02:16,996
+<i>reuniting families...</i>
 
 22
-00:02:21,814 --> 00:02:28,486
-<font face="Comic Sans MS">Said to harvest all life on
-our planet with a single blast.</font>
+00:02:17,830 --> 00:02:20,833
+<i>and creating new ones.</i>
 
 23
-00:02:35,027 --> 00:02:38,731
-<font face="Comic Sans MS">We had one chance
-left to stop it.</font>
+00:02:20,867 --> 00:02:26,038
+<i>Over the next 10 years,
+Rose and her brother turned the tide...</i>
 
 24
-00:02:38,764 --> 00:02:43,769
-<font face="Comic Sans MS">The Red Fleet cleared a path
-and Rose had her shot.</font>
+00:02:26,072 --> 00:02:28,440
+Ready?
+(TRENT SPEAKING ALIEN)
 
 25
-00:02:47,006 --> 00:02:48,573
-<font face="Comic Sans MS">But she froze.</font>
+00:02:28,473 --> 00:02:34,781
+GRANT: <i>...until the Harvesters unveiled
+their ultimate weapon, the Armada Vessel.</i>
 
 26
-00:02:50,810 --> 00:02:52,343
-<font face="Comic Sans MS">No one knows why.</font>
+00:02:34,814 --> 00:02:41,486
+<i>Said to harvest all life on
+our planet with a single blast.</i>
 
 27
-00:02:54,680 --> 00:02:59,450
-<font face="Comic Sans MS">But it was just long enough
-for everything to fall apart.</font>
+00:02:48,027 --> 00:02:51,731
+<i>We had one chance
+left to stop it.</i>
 
 28
-00:03:01,754 --> 00:03:05,925
-<font face="Comic Sans MS">One of our ships got caught
-in the crossfire.</font>
+00:02:51,764 --> 00:02:56,769
+<i>The Red Fleet cleared a path
+and Rose had her shot.</i>
 
 29
-00:03:07,993 --> 00:03:10,830
-<font face="Comic Sans MS">To save all mankind,</font>
+00:03:00,006 --> 00:03:01,573
+<i>But she froze.</i>
 
 30
-00:03:10,863 --> 00:03:16,601
-<font face="Comic Sans MS">she had to kill
-thousands of her own men.</font>
+00:03:03,810 --> 00:03:05,343
+<i>No one knows why.</i>
 
 31
-00:03:27,847 --> 00:03:32,117
-<font face="Comic Sans MS"><i>The price of victory
-was too much for her to bear.</i></font>
+00:03:07,680 --> 00:03:12,450
+<i>But it was just long enough
+for everything to fall apart.</i>
 
 32
-00:03:33,719 --> 00:03:36,722
-<font face="Comic Sans MS"><i>Rose turned her back
-on it all.</i></font>
+00:03:14,754 --> 00:03:18,925
+<i>One of our ships got caught
+in the crossfire.</i>
 
 33
-00:03:38,023 --> 00:03:40,025
-<font face="Comic Sans MS"><i>It's been 5 years.</i></font>
+00:03:20,993 --> 00:03:23,830
+<i>To save all mankind,</i>
 
 34
-00:03:41,694 --> 00:03:44,063
-<font face="Comic Sans MS"><i>We haven't seen
-the Harvesters since.</i></font>
+00:03:23,863 --> 00:03:29,601
+<i>she had to kill
+thousands of her own men.</i>
 
 35
-00:03:45,197 --> 00:03:48,499
-<font face="Comic Sans MS"><i>What about Rose?
-Where is she?</i></font>
+00:03:40,847 --> 00:03:45,117
+The price of victory
+was too much for her to bear.
 
 36
-00:03:48,533 --> 00:03:50,703
-<font face="Comic Sans MS"><i>Excuse me, love.</i></font>
+00:03:46,719 --> 00:03:49,722
+Rose turned her back on it all.
 
 37
-00:03:50,736 --> 00:03:52,671
-<font face="Comic Sans MS"><i>I'm looking for Rose Corley.
-Have you seen her?</i></font>
+00:03:51,023 --> 00:03:53,025
+It's been five years.
 
 38
-00:03:53,706 --> 00:03:56,075
-<font face="Comic Sans MS"><i>Popular question these days.</i></font>
+00:03:54,694 --> 00:03:57,063
+We haven't seen
+the Harvesters since.
 
 39
-00:03:56,108 --> 00:04:00,578
-<font face="Comic Sans MS"><i>Evening, ladies and gentlemen.
-Sorry to break up story time.</i></font>
+00:03:58,197 --> 00:04:01,499
+What about Rose?
+Where is she?
 
 40
-00:04:00,612 --> 00:04:02,748
-<font face="Comic Sans MS"><i>I'm looking for this lady,
-Rose Corley.</i></font>
+00:04:01,533 --> 00:04:03,703
+LEON: Excuse me, love.
 
 41
-00:04:04,950 --> 00:04:06,051
-<font face="Comic Sans MS"><i>Have you seen her?</i></font>
+00:04:03,736 --> 00:04:05,671
+I'm looking for Rose Corley.
+Have you seen her?
 
 42
-00:04:09,688 --> 00:04:11,991
-<font face="Comic Sans MS"><i>Hiya, what's your name?</i></font>
+00:04:06,706 --> 00:04:09,075
+Popular question these days.
 
 43
-00:04:12,024 --> 00:04:13,591
-<font face="Comic Sans MS"><i>- Kate.
-- Hi, Kate.</i></font>
+00:04:09,108 --> 00:04:13,578
+Evening, ladies and gentlemen.
+Sorry to break up story time.
 
 44
-00:04:14,693 --> 00:04:16,594
-<font face="Comic Sans MS"><i>You haven't seen her around,
-have you?</i></font>
+00:04:13,612 --> 00:04:15,748
+I'm looking for this lady,
+Rose Corley.
 
 45
-00:04:16,629 --> 00:04:19,430
-<font face="Comic Sans MS"><i>She might look a little bit older.
-Maybe a lot.</i></font>
+00:04:17,950 --> 00:04:19,051
+Have you seen her?
 
 46
-00:04:20,933 --> 00:04:23,702
-<font face="Comic Sans MS"><i>- No, not lately...
-- Not ever.</i></font>
+00:04:22,688 --> 00:04:24,991
+Hiya, what's your name?
 
 47
-00:04:25,603 --> 00:04:27,505
-<font face="Comic Sans MS"><i>I wasn't
-talking to you, Popeye.</i></font>
+00:04:25,024 --> 00:04:26,591
+- Kate.
+- Hi, Kate.
 
 48
-00:04:29,775 --> 00:04:31,810
-<font face="Comic Sans MS"><i>So which is it,
-not lately or not ever?</i></font>
+00:04:27,693 --> 00:04:29,594
+You haven't seen her around,
+have you?
 
 49
-00:04:38,616 --> 00:04:40,719
-<font face="Comic Sans MS"><i>You know, reward's up
-to a million.</i></font>
+00:04:29,629 --> 00:04:32,430
+She might look a little bit older.
+Maybe a lot.
 
 50
-00:04:43,554 --> 00:04:45,724
-<font face="Comic Sans MS"><i>More than enough to
-get out of this shithole.</i></font>
+00:04:33,933 --> 00:04:36,702
+- No, not lately...
+- Not ever.
 
 51
-00:04:45,758 --> 00:04:48,027
-<font face="Comic Sans MS"><i>Find yourself
-a nice little gated complex.</i></font>
+00:04:38,603 --> 00:04:40,505
+I wasn't talking to you, Popeye.
 
 52
-00:04:50,829 --> 00:04:53,799
-<font face="Comic Sans MS"><i>Just keep your eye open,
-eh, old man?</i></font>
+00:04:42,775 --> 00:04:44,810
+So which is it,
+not lately or not ever?
 
 53
-00:05:01,240 --> 00:05:02,775
-<font face="Comic Sans MS"><i>Asshole.</i></font>
+00:04:51,616 --> 00:04:53,719
+You know, reward's up
+to a million.
 
 54
-00:05:02,808 --> 00:05:05,978
-<font face="Comic Sans MS"><i>Anyone seen Rose Corley,
-this girl here?</i></font>
+00:04:56,554 --> 00:04:58,724
+More than enough to
+get out of this shithole.
 
 55
-00:05:07,846 --> 00:05:10,149
-<font face="Comic Sans MS"><i>- Kev, have you checked these guys?
-- On it.</i></font>
+00:04:58,758 --> 00:05:01,027
+Find yourself
+a nice little gated complex.
 
 56
-00:05:14,219 --> 00:05:16,121
-<font face="Comic Sans MS"><i>All right, mate.
-I'm looking for this girl.</i></font>
+00:05:03,829 --> 00:05:06,799
+Just keep your eye open,
+eh, old man?
 
 57
-00:05:16,689 --> 00:05:17,690
-<font face="Comic Sans MS"><i>No?</i></font>
+00:05:14,240 --> 00:05:15,775
+Asshole.
 
 58
-00:05:18,724 --> 00:05:19,825
-<font face="Comic Sans MS"><i>Rose Corley?</i></font>
+00:05:15,808 --> 00:05:18,978
+LEON: Anyone seen Rose Corley,
+this girl here?
 
 59
-00:05:20,993 --> 00:05:23,128
-<font face="Comic Sans MS"><i>- Caught anything?
-- No, nothing.</i></font>
+00:05:20,846 --> 00:05:23,149
+Kev, have you checked these guys?
+KEV: On it.
 
 60
-00:06:11,176 --> 00:06:13,812
-<font face="Comic Sans MS"><i>I just need a refill, Doc.
-Then I'm gone.</i></font>
+00:05:27,219 --> 00:05:29,139
+LEON: All right, mate.
+I'm looking for this girl.
 
 61
-00:06:13,846 --> 00:06:17,582
-<font face="Comic Sans MS"><i>Jesus, what the hell.
-You couldn't have chosen a worse time.</i></font>
+00:05:29,689 --> 00:05:30,690
+No?
 
 62
-00:06:20,085 --> 00:06:21,286
-<font face="Comic Sans MS"><i>You owe me one.</i></font>
+00:05:31,724 --> 00:05:32,825
+Rose Corley?
 
 63
-00:06:23,989 --> 00:06:25,190
-<font face="Comic Sans MS"><i>Get in here.</i></font>
+00:05:33,993 --> 00:05:36,128
+Caught anything?
+SOLDIER: No, nothing.
 
 64
-00:06:31,764 --> 00:06:34,033
-<font face="Comic Sans MS"><i>You weren't kidding.</i></font>
+00:05:45,671 --> 00:05:47,572
+(ROCK SONG PLAYING)
 
 65
-00:06:34,066 --> 00:06:35,600
-<font face="Comic Sans MS"><i>Nasty bug
-going around.</i></font>
+00:05:56,749 --> 00:06:01,220
+<i>♪ I don't know what
+We're supposed to be</i>
 
 66
-00:06:35,634 --> 00:06:37,803
-<font face="Comic Sans MS"><i>Dublin's already
-been quarantined.</i></font>
+00:06:01,253 --> 00:06:06,558
+<i>♪ But I know we lost it
+Along the way</i>
 
 67
-00:06:41,640 --> 00:06:45,044
-<font face="Comic Sans MS"><i>I know it's only a band-aid,
-but the hyper-oxygenated blood seems</i></font>
+00:06:06,591 --> 00:06:08,828
+<i>♪ To something better</i>
 
 68
-00:06:45,077 --> 00:06:47,880
-<font face="Comic Sans MS"><i>to have slowed down
-your cell replication.</i></font>
+00:06:08,861 --> 00:06:13,265
+<i>♪ Something so much
+More than pleasure</i>
 
 69
-00:06:47,913 --> 00:06:50,049
-<font face="Comic Sans MS"><i>Except, this shit
-keeps getting worse.</i></font>
+00:06:13,299 --> 00:06:17,103
+<i>♪ That we seek,
+So blind inside... ♪</i>
 
 70
-00:06:50,482 --> 00:06:53,752
-<font face="Comic Sans MS"><i>Your firing hand.</i></font>
+00:06:17,136 --> 00:06:18,871
+(PILOTS GROWLING)
 
 71
-00:06:53,786 --> 00:06:57,990
-<font face="Comic Sans MS"><i>Concentrated exposure increases
-the effects of ageing, I'm afraid.</i></font>
+00:06:24,176 --> 00:06:26,812
+ROSE: I just need a refill, Doc.
+Then I'm gone.
 
 72
-00:06:58,023 --> 00:07:00,125
-<font face="Comic Sans MS"><i>I can always replace it,
-like Huana's.</i></font>
+00:06:26,846 --> 00:06:30,582
+Jesus, what the hell.
+You couldn't have chosen a worse time.
 
 73
-00:07:01,760 --> 00:07:04,196
-<font face="Comic Sans MS"><i>How is the old Chief
-holding up?</i></font>
+00:06:33,085 --> 00:06:34,286
+You owe me one.
 
 74
-00:07:04,229 --> 00:07:06,131
-<font face="Comic Sans MS"><i>He's not doing
-too well, either.</i></font>
+00:06:36,989 --> 00:06:38,190
+Get in here.
 
 75
-00:07:06,165 --> 00:07:08,867
-<font face="Comic Sans MS"><i>His transplants got
-infected by this new virus.</i></font>
+00:06:41,961 --> 00:06:44,730
+(MAN COUGHING)
 
 76
-00:07:08,901 --> 00:07:12,671
-<font face="Comic Sans MS"><i>Had to replace his leg again,
-poor old bugger.</i></font>
+00:06:44,764 --> 00:06:47,033
+(PILOTS GROWLING)
+ROSE: You weren't kidding.
 
 77
-00:07:12,704 --> 00:07:14,973
-<font face="Comic Sans MS"><i>Well, I'd like to keep
-my cuticles if I can.</i></font>
+00:06:47,066 --> 00:06:48,600
+DR. MAL: Nasty bug going around.
 
 78
-00:07:15,007 --> 00:07:17,042
-<font face="Comic Sans MS"><i>Don't knock it till you try it,
-young lady.</i></font>
+00:06:48,634 --> 00:06:50,803
+Dublin's already
+been quarantined.
 
 79
-00:07:18,077 --> 00:07:19,211
-<font face="Comic Sans MS"><i>Sure, Doc.</i></font>
+00:06:54,640 --> 00:06:58,044
+I know it's only a band-aid,
+but the hyper-oxygenated blood seems
 
 80
-00:07:22,414 --> 00:07:23,916
-<font face="Comic Sans MS"><i>Let me show you something.</i></font>
+00:06:58,077 --> 00:07:00,880
+to have slowed down
+your cell replication.
 
 81
-00:07:24,950 --> 00:07:26,885
-<font face="Comic Sans MS"><i>Ray, here,
-was our first case.</i></font>
+00:07:00,913 --> 00:07:03,049
+Except, this shit
+keeps getting worse.
 
 82
-00:07:28,253 --> 00:07:29,888
-<font face="Comic Sans MS"><i>What are the symptoms?</i></font>
+00:07:03,482 --> 00:07:06,752
+Your firing hand.
 
 83
-00:07:29,922 --> 00:07:34,693
-<font face="Comic Sans MS"><i>Thyroxine levels are way up. And the bodies
-are eating themselves from the inside.</i></font>
+00:07:06,786 --> 00:07:10,990
+Concentrated exposure increases
+the effects of ageing, I'm afraid.
 
 84
-00:07:34,726 --> 00:07:38,964
-<font face="Comic Sans MS"><i>I'm working on an anti-viral,
-but it's unlike anything I've seen before.</i></font>
+00:07:11,023 --> 00:07:13,125
+I can always replace it,
+like Huana's.
 
 85
-00:07:41,333 --> 00:07:43,735
-<font face="Comic Sans MS"><i>What you doing that for?
-Where's the girl? Where is she?</i></font>
+00:07:14,760 --> 00:07:17,196
+How is the old Chief holding up?
 
 86
-00:07:43,769 --> 00:07:44,803
-<font face="Comic Sans MS"><i>Backdoor.</i></font>
+00:07:17,229 --> 00:07:19,131
+He's not doing too well, either.
 
 87
-00:07:46,939 --> 00:07:48,140
-<font face="Comic Sans MS"><i>Relax!</i></font>
+00:07:19,165 --> 00:07:21,867
+His transplants got
+infected by this new virus.
 
 88
-00:07:53,278 --> 00:07:55,080
-<font face="Comic Sans MS"><i>Come for your monthly
-check-up?</i></font>
+00:07:21,901 --> 00:07:25,671
+Had to replace his leg again,
+poor old bugger.
 
 89
-00:07:57,916 --> 00:07:58,984
-<font face="Comic Sans MS"><i>Stand down.</i></font>
+00:07:25,704 --> 00:07:27,973
+Well, I'd like to keep
+my cuticles if I can.
 
 90
-00:08:09,795 --> 00:08:10,796
-<font face="Comic Sans MS"><i>Freeze!</i></font>
+00:07:28,007 --> 00:07:30,042
+Don't knock it till you try it,
+young lady.
 
 91
-00:08:21,039 --> 00:08:22,674
-<font face="Comic Sans MS"><i>We gotta stop meeting
-like this.</i></font>
+00:07:31,077 --> 00:07:32,211
+Sure, Doc.
 
 92
-00:08:27,146 --> 00:08:28,447
-<font face="Comic Sans MS"><i>Rose Corley...</i></font>
+00:07:35,414 --> 00:07:36,916
+Let me show you something.
 
 93
-00:08:28,480 --> 00:08:29,681
-<font face="Comic Sans MS"><i>Ray, stop!</i></font>
+00:07:37,950 --> 00:07:39,885
+Ray, here,
+was our first case.
 
 94
-00:08:37,289 --> 00:08:38,357
-<font face="Comic Sans MS"><i>Don't shoot!</i></font>
+00:07:39,919 --> 00:07:41,220
+(LOW GRUNTING)
 
 95
-00:08:42,127 --> 00:08:43,729
-<font face="Comic Sans MS"><i>Rose Corley...</i></font>
+00:07:41,253 --> 00:07:42,888
+What are the symptoms?
 
 96
-00:08:45,063 --> 00:08:47,399
-<font face="Comic Sans MS"><i>you're under arrest.</i></font>
+00:07:42,922 --> 00:07:47,693
+Thyroxine levels are way up. And the bodies
+are eating themselves from the inside.
 
 97
-00:08:47,432 --> 00:08:49,835
-<font face="Comic Sans MS"><i>- Rose?
-- Out the way, or I'll arrest you too.</i></font>
+00:07:47,726 --> 00:07:51,964
+I'm working on an anti-viral,
+but it's unlike anything I've seen before.
 
 98
-00:08:49,868 --> 00:08:52,738
-<font face="Comic Sans MS"><i>What charges? What the hell
-is going on here?</i></font>
+00:07:53,165 --> 00:07:54,300
+(OBJECTS CLATTERING)
 
 99
-00:08:52,771 --> 00:08:54,673
-<font face="Comic Sans MS"><i>Whole city's under quarantine.</i></font>
+00:07:54,333 --> 00:07:56,735
+What you doing that for?
+Where's the girl? Where is she?
 
 100
-00:08:59,311 --> 00:09:02,347
-<font face="Comic Sans MS">We have another
-blue shell contained in the infirmary.</font>
+00:07:56,769 --> 00:07:57,803
+Backdoor.
 
 101
-00:09:02,381 --> 00:09:04,149
-<font face="Comic Sans MS">We've locked down
-the whole sector.</font>
+00:07:59,939 --> 00:08:01,140
+Relax!
 
 102
-00:09:20,766 --> 00:09:21,767
-<font face="Comic Sans MS"><i>Did he find you?</i></font>
+00:08:06,278 --> 00:08:08,080
+Come for your monthly check-up?
 
 103
-00:09:23,101 --> 00:09:25,137
-<font face="Comic Sans MS"><i>Your dad.</i></font>
+00:08:10,916 --> 00:08:12,316
+(GUNS COCK)
+SOLDIER: Stand down.
 
 104
-00:09:25,170 --> 00:09:28,373
-<font face="Comic Sans MS"><i>- You don't think I know who Mark Corley is?
-- You don't.</i></font>
+00:08:14,286 --> 00:08:16,155
+(GRUNTING)
 
 105
-00:09:28,407 --> 00:09:32,077
-<font face="Comic Sans MS"><i>Well, I know he's the famous
-founder of the Resistance.</i></font>
+00:08:22,795 --> 00:08:23,796
+Freeze!
 
 106
-00:09:32,110 --> 00:09:37,115
-<font face="Comic Sans MS"><i>And I know he'd probably still be
-alive today... if you hadn't run away.</i></font>
+00:08:34,039 --> 00:08:35,674
+We gotta stop meeting like this.
 
 107
-00:10:02,274 --> 00:10:03,275
-<font face="Comic Sans MS"><i>Let's go.</i></font>
+00:08:40,146 --> 00:08:41,447
+Rose Corley...
+(GROWLING)
 
 108
-00:10:13,051 --> 00:10:14,186
-<font face="Comic Sans MS"><i>Welcome back.</i></font>
+00:08:41,480 --> 00:08:42,681
+ROSE: Ray, stop!
 
 109
-00:10:15,520 --> 00:10:16,922
-<font face="Comic Sans MS"><i>Home sweet home.</i></font>
+00:08:50,289 --> 00:08:51,357
+Don't shoot!
 
 110
-00:10:30,502 --> 00:10:33,238
-<font face="Comic Sans MS"><i>Right here.</i></font>
+00:08:55,127 --> 00:08:56,729
+Rose Corley...
 
 111
-00:10:33,272 --> 00:10:37,943
-<font face="Comic Sans MS"><i>Gotta hand it to you, Corporal.
-Job well done. Drinks are on me.</i></font>
+00:08:58,063 --> 00:09:00,399
+you're under arrest.
 
 112
-00:10:37,976 --> 00:10:39,211
-<font face="Comic Sans MS"><i>Don't forget your wallet
-this time, huh?</i></font>
+00:09:00,432 --> 00:09:02,835
+DR. MAL: Rose?
+Out the way, or I'll arrest you too.
 
 113
-00:10:39,244 --> 00:10:40,412
-<font face="Comic Sans MS"><i>I never
-forget anything.</i></font>
+00:09:02,868 --> 00:09:05,738
+What charges? What the hell
+is going on here?
 
 114
-00:10:40,445 --> 00:10:42,481
-<font face="Comic Sans MS"><i>Except when
-it's your turn to pay.</i></font>
+00:09:05,771 --> 00:09:07,673
+Whole city's under quarantine.
 
 115
-00:10:44,483 --> 00:10:46,852
-<font face="Comic Sans MS"><i>- Careful.
-- I don't take orders from you.</i></font>
+00:09:09,308 --> 00:09:12,278
+(INDISTINCT RADIO CHATTER)
 
 116
-00:10:47,352 --> 00:10:48,487
-<font face="Comic Sans MS"><i>And you are?</i></font>
+00:09:12,311 --> 00:09:15,347
+MAN: (OVER RADIO) <i>We have another
+blue shell contained in the infirmary.</i>
 
 117
-00:10:50,055 --> 00:10:52,291
-<font face="Comic Sans MS"><i>Colonel Owens.</i></font>
+00:09:15,381 --> 00:09:17,149
+<i>We've locked down
+the whole sector.</i>
 
 118
-00:10:52,324 --> 00:10:55,494
-<font face="Comic Sans MS"><i>But save your salute.
-You don't have any rank here anymore.</i></font>
+00:09:19,485 --> 00:09:21,687
+(UPBEAT ELECTRONIC
+MUSIC PLAYING)
 
 119
-00:10:59,398 --> 00:11:01,199
-<font face="Comic Sans MS">You're our best
-weapon, Rose.</font>
+00:09:33,766 --> 00:09:34,767
+Did he find you?
 
 120
-00:11:01,233 --> 00:11:05,937
-<font face="Comic Sans MS"><i>Do you really think I would
-let you just walk away?</i></font>
+00:09:36,101 --> 00:09:38,137
+Your dad.
 
 121
-00:11:06,605 --> 00:11:08,607
-<font face="Comic Sans MS"><i>I thought the war was over.</i></font>
+00:09:38,170 --> 00:09:41,373
+- You don't think I know who Mark Corley is?
+- You don't.
 
 122
-00:11:08,641 --> 00:11:11,276
-<font face="Comic Sans MS"><i>I won it for you at too high
-of a price.</i></font>
+00:09:41,407 --> 00:09:45,077
+Well, I know he's the famous
+founder of the Resistance.
 
 123
-00:11:11,310 --> 00:11:15,447
-<font face="Comic Sans MS"><i>There is only one thing
-harder than winning a war.</i></font>
+00:09:45,110 --> 00:09:50,115
+And I know he'd probably still be
+alive today... if you hadn't run away.
 
 124
-00:11:23,588 --> 00:11:26,358
-<font face="Comic Sans MS"><i>Keeping the peace.</i></font>
+00:09:54,119 --> 00:09:56,255
+(INDUSTRIAL ELECTRONIC
+MUSIC PLAYING)
 
 125
-00:11:26,391 --> 00:11:28,160
-<font face="Comic Sans MS"><i>Wise beyond your years.</i></font>
+00:10:15,274 --> 00:10:16,275
+Let's go.
 
 126
-00:11:32,597 --> 00:11:34,066
-<font face="Comic Sans MS"><i>You remember Violet.</i></font>
+00:10:26,051 --> 00:10:27,186
+Welcome back.
 
 127
-00:11:35,167 --> 00:11:37,269
-<font face="Comic Sans MS"><i>Yeah. 'Sup, Vi?</i></font>
+00:10:28,520 --> 00:10:29,922
+Home sweet home.
 
 128
-00:11:38,136 --> 00:11:39,304
-<font face="Comic Sans MS"><i>Nice ink.</i></font>
+00:10:29,955 --> 00:10:31,056
+(DOOR OPENING)
 
 129
-00:11:43,241 --> 00:11:48,246
-<font face="Comic Sans MS"><i>This is approximately every
-human being alive on Earth.</i></font>
+00:10:34,994 --> 00:10:36,495
+(INDISTINCT RADIO CHATTER)
 
 130
-00:11:49,614 --> 00:11:52,150
-<font face="Comic Sans MS"><i>And this is every freed Pilot.</i></font>
+00:10:43,502 --> 00:10:46,238
+Right here.
 
 131
-00:11:52,184 --> 00:11:55,220
-<font face="Comic Sans MS"><i>For the past 5 years we've
-co-existed, more or less, peacefully.</i></font>
+00:10:46,272 --> 00:10:50,943
+Gotta hand it to you, Corporal.
+Job well done. Drinks are on me.
 
 132
-00:11:55,987 --> 00:11:57,089
-<font face="Comic Sans MS"><i>Until now.</i></font>
+00:10:50,976 --> 00:10:52,232
+Don't forget your wallet
+this time, huh?
 
 133
-00:11:58,090 --> 00:12:00,525
-<font face="Comic Sans MS"><i>The Pilots are dying, Rose.</i></font>
+00:10:52,244 --> 00:10:53,433
+OWENS: I never forget anything.
 
 134
-00:12:00,559 --> 00:12:04,329
-<font face="Comic Sans MS"><i>What you saw today
-is only the beginning.</i></font>
+00:10:53,445 --> 00:10:55,481
+LEON: Except when
+it's your turn to pay.
 
 135
-00:12:04,363 --> 00:12:06,666
-<font face="Comic Sans MS"><i>Soon they'll all revert
-to their base biology,</i></font>
+00:10:57,483 --> 00:10:59,852
+Careful.
+OWENS: I don't take orders from you.
 
 136
-00:12:06,699 --> 00:12:09,601
-<font face="Comic Sans MS"><i>triggering a brutal hunt
-for resources,</i></font>
+00:11:00,352 --> 00:11:01,487
+And you are?
 
 137
-00:12:09,635 --> 00:12:14,539
-<font face="Comic Sans MS"><i>which means they'll go back to
-ripping our bloody brains out.</i></font>
+00:11:03,055 --> 00:11:05,291
+Colonel Owens.
 
 138
-00:12:14,573 --> 00:12:16,375
-<font face="Comic Sans MS"><i>How do you know that for sure?</i></font>
+00:11:05,324 --> 00:11:08,494
+But save your salute.
+You don't have any rank here anymore.
 
 139
-00:12:16,408 --> 00:12:19,211
-<font face="Comic Sans MS"><i>A few isolated cases
-doesn't make a pandemic.</i></font>
+00:11:12,398 --> 00:11:14,199
+RADFORD: <i>You're our best
+weapon, Rose.</i>
 
 140
-00:12:19,244 --> 00:12:22,547
-<font face="Comic Sans MS"><i>We've already lost thousands
-in Dublin.</i></font>
+00:11:14,233 --> 00:11:18,937
+Do you really think I would
+let you just walk away?
 
 141
-00:12:22,581 --> 00:12:26,151
-<font face="Comic Sans MS"><i>If we don't find a solution in the
-next 72 hours, London will be next.</i></font>
+00:11:19,605 --> 00:11:21,607
+I thought the war was over.
 
 142
-00:12:27,586 --> 00:12:31,156
-<font face="Comic Sans MS"><i>However, we may have one.</i></font>
+00:11:21,641 --> 00:11:24,276
+I won it for you at too high
+of a price.
 
 143
-00:12:35,060 --> 00:12:37,562
-<font face="Comic Sans MS"><i>The Armada?</i></font>
+00:11:24,310 --> 00:11:28,447
+There is only one thing
+harder than winning a war.
 
 144
-00:12:37,596 --> 00:12:41,466
-<font face="Comic Sans MS"><i>Harvester ships have resilient core
-drives which repair their tech.</i></font>
+00:11:33,519 --> 00:11:34,820
+(ROSE SIGHS)
 
 145
-00:12:41,500 --> 00:12:44,670
-<font face="Comic Sans MS"><i>But every one of them we've converted
-put together won't be able to stem</i></font>
+00:11:36,588 --> 00:11:39,358
+Keeping the peace.
 
 146
-00:12:44,704 --> 00:12:48,507
-<font face="Comic Sans MS"><i>the tide of 3 billion
-Pilots. The Armadas can.</i></font>
+00:11:39,391 --> 00:11:41,160
+Wise beyond your years.
+(DOOR OPENS)
 
 147
-00:12:48,540 --> 00:12:54,446
-<font face="Comic Sans MS"><i>It's core drive is powerful enough to
-restore every Pilot on Earth for 100 years.</i></font>
+00:11:45,597 --> 00:11:47,066
+You remember Violet.
 
 148
-00:12:55,681 --> 00:12:58,250
-<font face="Comic Sans MS"><i>But I destroyed it
-5 years ago.</i></font>
+00:11:47,099 --> 00:11:48,133
+(VIOLET SPEAKS ALIEN)
 
 149
-00:12:59,251 --> 00:13:00,585
-<font face="Comic Sans MS"><i>Take a closer look.</i></font>
+00:11:48,167 --> 00:11:50,269
+Yeah. 'Sup, Vi?
 
 150
-00:13:05,357 --> 00:13:10,996
-<font face="Comic Sans MS"><i>It's core warped out.
-Right before impact.</i></font>
+00:11:51,136 --> 00:11:52,304
+Nice ink.
 
 151
-00:13:13,131 --> 00:13:15,000
-<font face="Comic Sans MS"><i>And you know where it went?</i></font>
+00:11:52,338 --> 00:11:53,906
+(SPEAKS ALIEN)
 
 152
-00:13:15,033 --> 00:13:18,136
-<font face="Comic Sans MS"><i>We cracked their entire
-navigational database.</i></font>
+00:11:56,241 --> 00:12:01,246
+This is approximately every
+human being alive on Earth.
 
 153
-00:13:18,170 --> 00:13:20,272
-<font face="Comic Sans MS"><i>All the way back to this world.</i></font>
+00:12:02,614 --> 00:12:05,150
+And this is every freed Pilot.
 
 154
-00:13:21,273 --> 00:13:24,242
-<font face="Comic Sans MS"><i>We're calling it Cobalt One.</i></font>
+00:12:05,184 --> 00:12:08,220
+For the past five years we've
+coexisted, more or less, peacefully.
 
 155
-00:13:24,276 --> 00:13:27,612
-<font face="Comic Sans MS"><i>Every question we've ever
-asked... Where are they from?</i></font>
+00:12:08,987 --> 00:12:10,089
+Until now.
 
 156
-00:13:27,647 --> 00:13:31,049
-<font face="Comic Sans MS"><i>Who are they? What do
-they really want?</i></font>
+00:12:11,090 --> 00:12:13,525
+The Pilots are dying, Rose.
 
 157
-00:13:31,082 --> 00:13:35,053
-<font face="Comic Sans MS"><i>All the answers lie on
-that shiny, blue rock.</i></font>
+00:12:13,559 --> 00:12:17,329
+What you saw today
+is only the beginning.
 
 158
-00:13:36,188 --> 00:13:41,293
-<font face="Comic Sans MS"><i>The only way that we can
-defend our hard-fought peace,</i></font>
+00:12:17,363 --> 00:12:19,666
+Soon they'll all revert
+to their base biology,
 
 159
-00:13:41,326 --> 00:13:44,029
-<font face="Comic Sans MS"><i>ensure a secure future
-for all humanity,</i></font>
+00:12:19,699 --> 00:12:22,601
+triggering a brutal hunt
+for resources,
 
 160
-00:13:44,062 --> 00:13:48,033
-<font face="Comic Sans MS"><i>hybrid or otherwise,
-is to get there.</i></font>
+00:12:22,635 --> 00:12:27,539
+which means they'll go back to
+ripping our bloody brains out.
 
 161
-00:13:49,669 --> 00:13:53,538
-<font face="Comic Sans MS"><i>We're embarking on the first
-manned mission to Cobalt One,</i></font>
+00:12:27,573 --> 00:12:29,375
+How do you know that for sure?
 
 162
-00:13:53,572 --> 00:13:57,609
-<font face="Comic Sans MS"><i>and I want you to join us.</i></font>
+00:12:29,408 --> 00:12:32,211
+A few isolated cases
+doesn't make a pandemic.
 
 163
-00:13:57,643 --> 00:14:00,780
-<font face="Comic Sans MS"><i>I've assembled a team.
-The very best our planet has to offer.</i></font>
+00:12:32,244 --> 00:12:35,547
+We've already lost thousands
+in Dublin.
 
 164
-00:14:00,813 --> 00:14:03,683
-<font face="Comic Sans MS"><i>You already know Leon.
-Our hunter.</i></font>
+00:12:35,581 --> 00:12:39,151
+If we don't find a solution in the
+next 72 hours, London will be next.
 
 165
-00:14:03,716 --> 00:14:06,786
-<font face="Comic Sans MS"><i>As of now, he is your personal escort.</i></font>
+00:12:40,586 --> 00:12:44,156
+However, we may have one.
 
 166
-00:14:06,819 --> 00:14:09,187
-<font face="Comic Sans MS"><i>Zhi, here, cracked
-their navigation network.</i></font>
+00:12:48,060 --> 00:12:50,562
+The Armada?
 
 167
-00:14:09,221 --> 00:14:13,693
-<font face="Comic Sans MS">Thanks to him, we can travel
-5 light years in a single day.</font>
+00:12:50,596 --> 00:12:54,466
+Harvester ships have resilient core
+drives which repair their tech.
 
 168
-00:14:13,726 --> 00:14:17,195
-<font face="Comic Sans MS"><i>Colonel Owens. Former Navy Seals.
-Sniper by trade.</i></font>
+00:12:54,500 --> 00:12:57,670
+But every one of them we've converted
+put together won't be able to stem
 
 169
-00:14:17,229 --> 00:14:19,164
-<font face="Comic Sans MS"><i>He can be a bit of a prick sometimes.</i></font>
+00:12:57,704 --> 00:13:01,507
+the tide of three billion
+Pilots. The Armadas can.
 
 170
-00:14:20,700 --> 00:14:23,335
-<font face="Comic Sans MS"><i>But there isn't anyone I'd
-rather have covering my 6.</i></font>
+00:13:01,540 --> 00:13:07,446
+Its core drive is powerful enough to
+restore every Pilot on Earth for 100 years.
 
 171
-00:14:23,368 --> 00:14:24,603
-<font face="Comic Sans MS"><i>Who's she?</i></font>
+00:13:08,681 --> 00:13:11,250
+But I destroyed it
+five years ago.
 
 172
-00:14:24,637 --> 00:14:26,806
-<font face="Comic Sans MS"><i>Alexi ran a counterstrike
-unit in Eastern Europe,</i></font>
+00:13:12,251 --> 00:13:13,585
+Take a closer look.
 
 173
-00:14:26,839 --> 00:14:30,175
-<font face="Comic Sans MS"><i>specializing in target tracking,
-search and destroy.</i></font>
+00:13:18,357 --> 00:13:23,996
+Its core warped out.
+Right before impact.
 
 174
-00:14:30,208 --> 00:14:33,245
-<font face="Comic Sans MS">She could find a needle
-in the proverbial haystack.</font>
+00:13:26,131 --> 00:13:28,000
+And you know where it went?
 
 175
-00:14:35,213 --> 00:14:38,651
-<font face="Comic Sans MS"><i>And execute it with
-extreme prejudice.</i></font>
+00:13:28,033 --> 00:13:31,136
+We cracked their entire
+navigational database.
 
 176
-00:14:45,223 --> 00:14:47,492
-<font face="Comic Sans MS"><i>So, what exactly
-is my role in all this?</i></font>
+00:13:31,170 --> 00:13:33,272
+All the way back to this world.
 
 177
-00:14:47,526 --> 00:14:49,795
-<font face="Comic Sans MS"><i>We need your powers
-to detach the core drive.</i></font>
+00:13:34,273 --> 00:13:37,242
+We're calling it Cobalt One.
 
 178
-00:14:49,829 --> 00:14:52,832
-<font face="Comic Sans MS"><i>Redford,
-I've never done that before.</i></font>
+00:13:37,276 --> 00:13:40,612
+Every question we've ever
+asked... Where are they from?
 
 179
-00:14:52,865 --> 00:14:55,200
-<font face="Comic Sans MS"><i>Well, it's the first manned
-mission to an alien planet.</i></font>
+00:13:40,647 --> 00:13:44,049
+Who are they? What do
+they really want?
 
 180
-00:14:55,233 --> 00:14:56,669
-<font face="Comic Sans MS"><i>There's a lot of new
-for everybody.</i></font>
+00:13:44,082 --> 00:13:48,053
+All the answers lie on
+that shiny, blue rock.
 
 181
-00:14:56,702 --> 00:14:58,771
-<font face="Comic Sans MS"><i>But you'll have all the blood
-transfusions you need</i></font>
+00:13:49,188 --> 00:13:54,293
+The only way that we can
+defend our hard-fought peace,
 
 182
-00:14:58,804 --> 00:15:00,673
-<font face="Comic Sans MS"><i>to keep your powers
-at full strength.</i></font>
+00:13:54,326 --> 00:13:57,029
+ensure a secure future
+for all humanity,
 
 183
-00:15:03,241 --> 00:15:04,644
-<font face="Comic Sans MS"><i>What, are you keeping them
-separate now?</i></font>
+00:13:57,062 --> 00:14:01,033
+hybrid or otherwise,
+is to get there.
 
 184
-00:15:04,677 --> 00:15:06,679
-<font face="Comic Sans MS"><i>They seem
-to prefer it this way.</i></font>
+00:14:02,669 --> 00:14:06,538
+We're embarking on the first
+manned mission to Cobalt One,
 
 185
-00:15:08,213 --> 00:15:11,817
-<font face="Comic Sans MS"><i>But we have found you
-a roommate.</i></font>
+00:14:06,572 --> 00:14:10,609
+and I want you to join us.
 
 186
-00:15:13,686 --> 00:15:14,687
-<font face="Comic Sans MS"><i>Trent?</i></font>
+00:14:10,643 --> 00:14:13,780
+I've assembled a team.
+The very best our planet has to offer.
 
 187
-00:15:17,155 --> 00:15:18,523
-<font face="Comic Sans MS"><i>I'll leave you to it.</i></font>
+00:14:13,813 --> 00:14:16,683
+You already know Leon.
+Our hunter.
 
 188
-00:15:22,494 --> 00:15:25,096
-<font face="Comic Sans MS"><i>Nice to see you, too.</i></font>
+00:14:16,716 --> 00:14:19,786
+As of now, he is your personal escort.
+(GRUNTING)
 
 189
-00:15:27,265 --> 00:15:29,401
-<font face="Comic Sans MS"><i>Jesus. It smells like
-a Pilot brothel in here.</i></font>
+00:14:19,819 --> 00:14:22,187
+Zhi, here, cracked
+their navigation network.
 
 190
-00:15:31,136 --> 00:15:33,104
-<font face="Comic Sans MS"><i>Yeah? Well, I haven't showered
-in, like, a year.</i></font>
+00:14:22,221 --> 00:14:26,693
+<i>Thanks to him, we can travel
+five light years in a single day.</i>
 
 191
-00:15:33,138 --> 00:15:34,139
-<font face="Comic Sans MS"><i>What's your excuse?</i></font>
+00:14:26,726 --> 00:14:30,195
+Colonel Owens. Former Navy Seals.
+Sniper by trade.
 
 192
-00:15:37,509 --> 00:15:38,510
-<font face="Comic Sans MS"><i>What are you working on?</i></font>
+00:14:30,229 --> 00:14:32,269
+He can be a bit of a prick sometimes.
+(GUNSHOTS)
 
 193
-00:15:42,414 --> 00:15:43,415
-<font face="Comic Sans MS"><i>Need a hand?</i></font>
+00:14:33,700 --> 00:14:36,335
+But there isn't anyone I'd
+rather have covering my six.
 
 194
-00:15:44,382 --> 00:15:45,383
-<font face="Comic Sans MS"><i>I brought thumbs.</i></font>
+00:14:36,368 --> 00:14:37,603
+ROSE: Who's she?
 
 195
-00:15:48,320 --> 00:15:49,722
-<font face="Comic Sans MS"><i>You name it,
-I've been there.</i></font>
+00:14:37,637 --> 00:14:39,827
+RADFORD: Alexi ran a counterstrike
+unit in Eastern Europe,
 
 196
-00:15:51,691 --> 00:15:53,759
-<font face="Comic Sans MS"><i>Yeah, L.A. was all right,
-I guess.</i></font>
+00:14:39,839 --> 00:14:43,175
+specializing in target tracking,
+search and destroy.
 
 197
-00:15:56,161 --> 00:15:57,329
-<font face="Comic Sans MS"><i>Well, you could have come.</i></font>
+00:14:43,208 --> 00:14:46,245
+<i>She could find a needle
+in the proverbial haystack.</i>
 
 198
-00:15:58,129 --> 00:16:00,231
-<font face="Comic Sans MS"><i>Don't act like
-you weren't invited.</i></font>
+00:14:48,213 --> 00:14:51,651
+And execute it with
+extreme prejudice.
 
 199
-00:16:03,234 --> 00:16:04,837
-<font face="Comic Sans MS"><i>Reminded me of you and dad,
-actually.</i></font>
+00:14:58,223 --> 00:15:00,492
+ROSE: So, what exactly
+is my role in all this?
 
 200
-00:16:09,507 --> 00:16:11,376
-<font face="Comic Sans MS"><i>Trent, I looked everywhere
-for him, but I...</i></font>
+00:15:00,526 --> 00:15:02,795
+We need your powers
+to detach the core drive.
 
 201
-00:16:19,618 --> 00:16:22,220
-<font face="Comic Sans MS"><i>I can't. It's my fault
-he's missing.</i></font>
+00:15:02,829 --> 00:15:05,832
+(CHUCKLING) Radford,
+I've never done that before.
 
 202
-00:16:24,724 --> 00:16:25,791
-<font face="Comic Sans MS"><i>I can't just give up on him.</i></font>
+00:15:05,865 --> 00:15:08,200
+Well, it's the first manned
+mission to an alien planet.
 
 203
-00:16:27,827 --> 00:16:29,327
-<font face="Comic Sans MS"><i>You work for the people
-who are hunting me.</i></font>
+00:15:08,233 --> 00:15:09,669
+There's a lot of new
+for everybody.
 
 204
-00:16:29,361 --> 00:16:31,864
-<font face="Comic Sans MS"><i>I can't just stop in
-and say hi.</i></font>
+00:15:09,702 --> 00:15:11,771
+But you'll have all the blood
+transfusions you need
 
 205
-00:16:35,433 --> 00:16:38,269
-<font face="Comic Sans MS"><i>Shit. I'm sorry.</i></font>
+00:15:11,804 --> 00:15:13,673
+to keep your powers
+at full strength.
 
 206
-00:16:38,303 --> 00:16:40,372
-<font face="Comic Sans MS"><i>I can't even imagine
-what this is all like for you.</i></font>
+00:15:16,241 --> 00:15:17,665
+What, are you keeping them
+separate now?
 
 207
-00:16:45,243 --> 00:16:47,780
-<font face="Comic Sans MS"><i>And you actually think Redford's
-mission is going to work?</i></font>
+00:15:17,677 --> 00:15:19,679
+They seem to prefer it this way.
 
 208
-00:16:56,956 --> 00:16:59,224
-<font face="Comic Sans MS"><i>It's not that
-I don't wanna help...</i></font>
+00:15:21,213 --> 00:15:24,817
+But we have found you
+a roommate.
 
 209
-00:17:03,561 --> 00:17:05,363
-<font face="Comic Sans MS"><i>I don't know if I can anymore.</i></font>
+00:15:24,851 --> 00:15:26,318
+(ROCK MUSIC PLAYING)
 
 210
-00:17:07,232 --> 00:17:10,970
-<font face="Comic Sans MS"><i>Every time I use this...
-I pay the price.</i></font>
+00:15:26,686 --> 00:15:27,687
+Trent?
 
 211
-00:17:11,003 --> 00:17:13,238
-<font face="Comic Sans MS"><i>Or worse,
-someone else does.</i></font>
+00:15:30,155 --> 00:15:31,523
+I'll leave you to it.
 
 212
-00:17:14,539 --> 00:17:16,408
-<font face="Comic Sans MS"><i>Maybe you're just
-better off without me.</i></font>
+00:15:34,426 --> 00:15:35,460
+(TRENT SPEAKING ALIEN)
 
 213
-00:17:28,754 --> 00:17:30,488
-<font face="Comic Sans MS"><i>Why are they always wet?</i></font>
+00:15:35,494 --> 00:15:38,096
+(YELLS)
+Nice to see you, too.
 
 214
-00:17:42,001 --> 00:17:46,404
-<font face="Comic Sans MS">Rose, always knew.
-It's Rose.</font>
+00:15:40,265 --> 00:15:42,401
+Jesus. It smells like
+a Pilot brothel in here.
 
 215
-00:17:46,438 --> 00:17:48,941
-<font face="Comic Sans MS">'Cause I made a promise.
-You know what that means?</font>
+00:15:44,136 --> 00:15:46,104
+Yeah? Well, I haven't showered
+in, like, a year.
 
 216
-00:17:48,974 --> 00:17:54,345
-<font face="Comic Sans MS"><i>That means, that no matter what happens,
-I'm not going to let anything hurt you.</i></font>
+00:15:46,138 --> 00:15:47,139
+What's your excuse?
 
 217
-00:17:54,847 --> 00:17:56,214
-<font face="Comic Sans MS"><i>Promise?</i></font>
+00:15:50,509 --> 00:15:51,510
+What are you working on?
 
 218
-00:18:00,418 --> 00:18:03,421
-<font face="Comic Sans MS"><i>Yeah, kid. I promise.</i></font>
+00:15:55,414 --> 00:15:56,415
+Need a hand?
 
 219
-00:18:12,631 --> 00:18:14,365
-<font face="Comic Sans MS"><i>Morning, sleeping beauty.</i></font>
+00:15:57,382 --> 00:15:58,383
+I brought thumbs.
 
 220
-00:18:14,399 --> 00:18:17,368
-<font face="Comic Sans MS"><i>- General wants to see you.
-- Why? Wh... Where's Trent?</i></font>
+00:16:01,320 --> 00:16:02,722
+ROSE: You name it,
+I've been there.
 
 221
-00:18:17,402 --> 00:18:18,938
-<font face="Comic Sans MS"><i>He's with the others.
-Waiting for you.</i></font>
+00:16:04,691 --> 00:16:06,759
+Yeah, L.A. was all right,
+I guess.
 
 222
-00:18:18,971 --> 00:18:20,773
-<font face="Comic Sans MS"><i>Hmm.</i></font>
+00:16:09,161 --> 00:16:10,329
+Well, you could have come.
 
 223
-00:18:20,806 --> 00:18:23,008
-<font face="Comic Sans MS"><i>Let them. I gotta shower.</i></font>
+00:16:11,129 --> 00:16:13,231
+Don't act like
+you weren't invited.
 
 224
-00:18:24,944 --> 00:18:27,046
-<font face="Comic Sans MS"><i>- Leave.
-- I'll be outside, then.</i></font>
+00:16:16,234 --> 00:16:17,837
+Reminded me of you and dad,
+actually.
 
 225
-00:18:27,079 --> 00:18:28,379
-<font face="Comic Sans MS"><i>Okay.</i></font>
+00:16:22,507 --> 00:16:24,376
+Trent, I looked everywhere
+for him, but I...
 
 226
-00:18:43,729 --> 00:18:46,598
-<font face="Comic Sans MS"><i>So are you supposed
-to just follow me around?</i></font>
+00:16:32,618 --> 00:16:35,220
+I can't. It's my fault
+he's missing.
 
 227
-00:18:46,632 --> 00:18:48,934
-<font face="Comic Sans MS"><i>That's what I volunteered for.</i></font>
+00:16:37,724 --> 00:16:38,844
+I can't just give up on him.
 
 228
-00:18:48,968 --> 00:18:51,469
-<font face="Comic Sans MS"><i>Wow. Mom and dad
-must be proud.</i></font>
+00:16:40,827 --> 00:16:42,349
+You work for the people
+who are hunting me.
 
 229
-00:18:51,503 --> 00:18:53,538
-<font face="Comic Sans MS"><i>Ah, can't all be as special
-as you, can we?</i></font>
+00:16:42,361 --> 00:16:44,864
+I can't just stop in and say hi.
 
 230
-00:18:57,810 --> 00:18:59,011
-<font face="Comic Sans MS"><i>What happened
-to all the Tankers?</i></font>
+00:16:48,433 --> 00:16:51,269
+Shit. I'm sorry.
 
 231
-00:18:59,044 --> 00:19:00,478
-<font face="Comic Sans MS"><i>Need to conserve power.</i></font>
+00:16:51,303 --> 00:16:53,372
+I can't even imagine
+what this is all like for you.
 
 232
-00:19:00,512 --> 00:19:02,114
-<font face="Comic Sans MS"><i>Can't afford to carry
-all that extra weight.</i></font>
+00:16:58,243 --> 00:17:00,780
+And you actually think Redford's
+mission is going to work?
 
 233
-00:19:02,148 --> 00:19:05,851
-<font face="Comic Sans MS"><i>Still, you never know when a 40
-foot tall bulldozer could come in handy.</i></font>
+00:17:09,956 --> 00:17:12,224
+(SIGHS) It's not that
+I don't wanna help...
 
 234
-00:19:05,885 --> 00:19:07,853
-<font face="Comic Sans MS"><i>The General wants to
-brief you on the bridge.</i></font>
+00:17:16,561 --> 00:17:18,363
+I don't know if I can anymore.
 
 235
-00:19:07,887 --> 00:19:10,622
-<font face="Comic Sans MS"><i>Just keeps getting
-better and better.</i></font>
+00:17:20,232 --> 00:17:23,970
+Every time I use this...
+I pay the price.
 
 236
-00:19:10,656 --> 00:19:14,425
-<font face="Comic Sans MS"><i>For those of you haven't served with
-her, or have been living under a rock,</i></font>
+00:17:24,003 --> 00:17:26,238
+Or worse,
+someone else does.
 
 237
-00:19:14,459 --> 00:19:18,596
-<font face="Comic Sans MS"><i>Rose, here, had been blessed with the
-ability to interact with alien tech,</i></font>
+00:17:27,539 --> 00:17:29,408
+Maybe you're just
+better off without me.
 
 238
-00:19:18,631 --> 00:19:20,666
-<font face="Comic Sans MS"><i>counteract their programming.</i></font>
+00:17:41,754 --> 00:17:43,488
+Why are they always wet?
 
 239
-00:19:20,699 --> 00:19:22,333
-<font face="Comic Sans MS"><i>And having faced
-the Armada already,</i></font>
+00:17:55,001 --> 00:17:59,404
+MARK: <i>Rose, always knew.
+It's Rose.</i>
 
 240
-00:19:22,367 --> 00:19:24,770
-<font face="Comic Sans MS"><i>she has an intimate
-knowledge of our target.</i></font>
+00:17:59,438 --> 00:18:01,941
+<i>'Cause I made a promise.
+You know what that means?</i>
 
 241
-00:19:24,804 --> 00:19:28,540
-<font face="Comic Sans MS"><i>So, let's get her up to speed with the
-mission as quickly as possible. Zhi?</i></font>
+00:18:01,974 --> 00:18:07,345
+That means, that no matter what happens,
+I'm not going to let anything hurt you.
 
 242
-00:19:28,573 --> 00:19:32,678
-<font face="Comic Sans MS"><i>First things first. How many times have
-you actually travelled by wormhole?</i></font>
+00:18:07,847 --> 00:18:09,214
+Promise?
 
 243
-00:19:32,711 --> 00:19:35,714
-<font face="Comic Sans MS"><i>Well, we've travelled
-to the Moon. Mars...</i></font>
+00:18:13,418 --> 00:18:16,421
+Yeah, kid. I promise.
 
 244
-00:19:35,748 --> 00:19:37,482
-<font face="Comic Sans MS"><i>That's a walk in the park
-compared to this.</i></font>
+00:18:18,925 --> 00:18:20,292
+(SCREAM ECHOING)
 
 245
-00:19:37,515 --> 00:19:38,717
-<font face="Comic Sans MS"><i>No one said
-it would be easy, honey.</i></font>
+00:18:20,325 --> 00:18:21,493
+(DOOR OPENING)
 
 246
-00:19:38,751 --> 00:19:39,885
-<font face="Comic Sans MS"><i>Well, no one's talking
-to you, honey.</i></font>
+00:18:23,896 --> 00:18:25,597
+(BANGING ON DOOR)
 
 247
-00:19:40,653 --> 00:19:41,619
-<font face="Comic Sans MS"><i>What about probes?</i></font>
+00:18:25,631 --> 00:18:27,387
+Morning, sleeping beauty.
+(SIGHS WEARILY)
 
 248
-00:19:41,654 --> 00:19:43,255
-<font face="Comic Sans MS"><i>Any successful unmanned
-missions to Cobalt?</i></font>
+00:18:27,399 --> 00:18:30,368
+- General wants to see you.
+- Why? Wh... Where's Trent?
 
 249
-00:19:43,289 --> 00:19:46,091
-<font face="Comic Sans MS"><i>No. We've sent them, but it'll be
-5 years before we receive a signal back...</i></font>
+00:18:30,402 --> 00:18:31,938
+He's with the others.
+Waiting for you.
 
 250
-00:19:46,125 --> 00:19:48,627
-<font face="Comic Sans MS"><i>So, aside from our nav
-holograms, we have no real intel</i></font>
+00:18:31,971 --> 00:18:33,773
+(PILOT'S FOOTSTEPS THUDDING)
+Hmm. (SIGHS)
 
 251
-00:19:48,661 --> 00:19:49,328
-<font face="Comic Sans MS"><i>what this planet's
-actually like?</i></font>
+00:18:33,806 --> 00:18:36,008
+Let them. I gotta shower.
 
 252
-00:19:49,361 --> 00:19:53,666
-<font face="Comic Sans MS"><i>As we exit the wormhole, we'll launch a
-satellite probe and do a full planetary scan.</i></font>
+00:18:36,876 --> 00:18:37,910
+(STUTTERS)
 
 253
-00:19:53,699 --> 00:19:56,068
-<font face="Comic Sans MS"><i>Mmm. And what happens
-when we run into Harvesters?</i></font>
+00:18:37,944 --> 00:18:40,046
+- Leave.
+- I'll be outside, then.
 
 254
-00:19:56,101 --> 00:19:57,535
-<font face="Comic Sans MS"><i>We blend in.</i></font>
+00:18:40,079 --> 00:18:41,379
+ROSE: Okay.
 
 255
-00:19:57,569 --> 00:20:01,006
-<font face="Comic Sans MS"><i>We change the ship back to its old
-blue color. Along with our Pilots.</i></font>
+00:18:56,729 --> 00:18:59,598
+So are you supposed
+to just follow me around?
 
 256
-00:20:01,040 --> 00:20:04,944
-<font face="Comic Sans MS"><i>Trent and Violet will pose as
-a derelict ship returning home.</i></font>
+00:18:59,632 --> 00:19:01,934
+That's what I volunteered for.
 
 257
-00:20:04,977 --> 00:20:08,379
-<font face="Comic Sans MS"><i>Okay, relax.</i></font>
+00:19:01,968 --> 00:19:04,469
+Wow. Mom and dad
+must be proud.
 
 258
-00:20:08,413 --> 00:20:11,382
-<font face="Comic Sans MS"><i>Once we touch down, your team
-will infiltrate the Armada Vessel,</i></font>
+00:19:04,503 --> 00:19:06,538
+Ah, can't all be as special
+as you, can we?
 
 259
-00:20:11,416 --> 00:20:15,486
-<font face="Comic Sans MS"><i>under the radar, locate and
-commandeer the core drive and then...</i></font>
+00:19:06,571 --> 00:19:07,907
+(BEEPS)
 
 260
-00:20:15,520 --> 00:20:17,089
-<font face="Comic Sans MS"><i>get the hell out of dodge.</i></font>
+00:19:10,810 --> 00:19:12,032
+What happened
+to all the Tankers?
 
 261
-00:20:22,628 --> 00:20:23,629
-<font face="Comic Sans MS"><i>That's it?</i></font>
+00:19:12,044 --> 00:19:13,478
+OWENS: Need to conserve power.
 
 262
-00:20:24,596 --> 00:20:25,597
-<font face="Comic Sans MS"><i>That's all you got?</i></font>
+00:19:13,512 --> 00:19:15,136
+Can't afford to carry
+all that extra weight.
 
 263
-00:20:27,700 --> 00:20:29,969
-<font face="Comic Sans MS"><i>- Oh, so you have half a plan.
-- Yeah, at best.</i></font>
+00:19:15,148 --> 00:19:18,851
+ROSE: Still, you never know when a 40
+foot tall bulldozer could come in handy.
 
 264
-00:20:31,837 --> 00:20:35,074
-<font face="Comic Sans MS"><i>But it's a really
-good half, though.</i></font>
+00:19:18,885 --> 00:19:20,853
+The General wants to
+brief you on the bridge.
 
 265
-00:20:35,107 --> 00:20:38,143
-<font face="Comic Sans MS"><i>We've simulated this mission,
-roughly, 500 times with 90%...</i></font>
+00:19:20,887 --> 00:19:23,622
+Just keeps getting
+better and better.
 
 266
-00:20:38,177 --> 00:20:40,045
-<font face="Comic Sans MS"><i>Simulations are nothing
-compared to the real thing.</i></font>
+00:19:23,656 --> 00:19:27,425
+For those of you haven't served with
+her, or have been living under a rock,
 
 267
-00:20:40,079 --> 00:20:41,113
-<font face="Comic Sans MS"><i>That's why we need you.</i></font>
+00:19:27,459 --> 00:19:31,596
+Rose, here, had been blessed with the
+ability to interact with alien tech,
 
 268
-00:20:41,146 --> 00:20:42,982
-<font face="Comic Sans MS"><i>I can't take on
-an entire planet.</i></font>
+00:19:31,631 --> 00:19:33,666
+counteract their programming.
 
 269
-00:20:43,015 --> 00:20:44,884
-<font face="Comic Sans MS"><i>This is no war.
-This is a heist.</i></font>
+00:19:33,699 --> 00:19:35,333
+And having faced
+the Armada already,
 
 270
-00:20:44,917 --> 00:20:46,517
-<font face="Comic Sans MS"><i>We're not going there
-for any hero bullshit.</i></font>
+00:19:35,367 --> 00:19:37,770
+she has an intimate
+knowledge of our target.
 
 271
-00:20:46,551 --> 00:20:48,754
-<font face="Comic Sans MS"><i>Let them harvest another
-10 planets, for all we care.</i></font>
+00:19:37,804 --> 00:19:41,540
+So, let's get her up to speed with the
+mission as quickly as possible. Zhi?
 
 272
-00:20:48,787 --> 00:20:51,190
-<font face="Comic Sans MS"><i>We go there for one thing
-and one thing only.</i></font>
+00:19:41,573 --> 00:19:45,678
+First things first. How many times have
+you actually travelled by wormhole?
 
 273
-00:20:51,223 --> 00:20:53,826
-<font face="Comic Sans MS"><i>- That drive.
-- You're the only one who has the power to retrieve it.</i></font>
+00:19:45,711 --> 00:19:48,714
+Well, we've travelled
+to the Moon. Mars...
 
 274
-00:20:53,859 --> 00:20:55,526
-<font face="Comic Sans MS"><i>Enough.</i></font>
+00:19:48,748 --> 00:19:50,482
+That's a walk in the park
+compared to this.
 
 275
-00:20:55,560 --> 00:20:56,762
-<font face="Comic Sans MS"><i>Colonel, give us the bridge.</i></font>
+00:19:50,515 --> 00:19:51,739
+No one said
+it would be easy, honey.
 
 276
-00:20:56,795 --> 00:20:58,496
-<font face="Comic Sans MS"><i>Sir. Let's go.</i></font>
+00:19:51,751 --> 00:19:53,191
+Well, no one's talking
+to you, honey.
 
 277
-00:21:00,633 --> 00:21:03,168
-<font face="Comic Sans MS"><i>There has to be
-an easier way.</i></font>
+00:19:53,653 --> 00:19:54,619
+What about probes?
 
 278
-00:21:04,870 --> 00:21:05,871
-<font face="Comic Sans MS"><i>Rose.</i></font>
+00:19:54,654 --> 00:19:56,277
+Any successful unmanned
+missions to Cobalt?
 
 279
-00:21:07,505 --> 00:21:09,875
-<font face="Comic Sans MS"><i>You are the only way.</i></font>
+00:19:56,289 --> 00:19:59,113
+No. We've sent them, but it'll be five
+years before we receive a signal back...
 
 280
-00:21:09,909 --> 00:21:16,115
-<font face="Comic Sans MS"><i>I know this is far from ideal,
-but we face extermination.</i></font>
+00:19:59,125 --> 00:20:01,627
+So, aside from our nav
+holograms, we have no real intel
 
 281
-00:21:16,148 --> 00:21:18,150
-<font face="Comic Sans MS"><i>We all have to push
-beyond our limits.</i></font>
+00:20:01,661 --> 00:20:03,328
+what this planet's
+actually like?
 
 282
-00:21:22,021 --> 00:21:23,722
-<font face="Comic Sans MS"><i>And what if I can't?</i></font>
+00:20:03,361 --> 00:20:06,687
+As we exit the wormhole, we'll launch a
+satellite probe and do a full planetary scan.
 
 283
-00:21:23,756 --> 00:21:27,525
-<font face="Comic Sans MS"><i>You saved us all before.
-And when the time comes,</i></font>
+00:20:06,699 --> 00:20:09,068
+Mmm. And what happens
+when we run into Harvesters?
 
 284
-00:21:27,558 --> 00:21:30,528
-<font face="Comic Sans MS"><i>I know that you will
-make us proud.</i></font>
+00:20:09,101 --> 00:20:10,535
+We blend in.
 
 285
-00:21:38,003 --> 00:21:39,204
-<font face="Comic Sans MS"><i>When do you embark?</i></font>
+00:20:10,569 --> 00:20:14,006
+We change the ship back to its old
+blue color. Along with our Pilots.
 
 286
-00:21:39,238 --> 00:21:41,073
-<font face="Comic Sans MS"><i>As soon as you say yes.</i></font>
+00:20:14,040 --> 00:20:17,944
+Trent and Violet will pose as
+a derelict ship returning home.
 
 287
-00:21:43,909 --> 00:21:46,078
-<font face="Comic Sans MS"><i>So what the hell
-are we waiting for?</i></font>
+00:20:17,977 --> 00:20:21,379
+(ROARING)
+(SIGHS) Okay, relax.
 
 288
-00:22:10,601 --> 00:22:12,938
-<font face="Comic Sans MS"><i>Wormhole travel
-is extremely dangerous.</i></font>
+00:20:21,413 --> 00:20:24,382
+Once we touch down, your team
+will infiltrate the Armada Vessel,
 
 289
-00:22:12,972 --> 00:22:16,675
-<font face="Comic Sans MS"><i>From the pressure, to the revolving
-walls, its safest if you stay</i></font>
+00:20:24,416 --> 00:20:28,486
+under the radar, locate and
+commandeer the core drive and then...
 
 290
-00:22:16,709 --> 00:22:18,543
-<font face="Comic Sans MS"><i>in here at the center
-of the ship.</i></font>
+00:20:28,520 --> 00:20:30,089
+get the hell out of dodge.
 
 291
-00:22:18,576 --> 00:22:19,812
-<font face="Comic Sans MS"><i>Or what?</i></font>
+00:20:35,628 --> 00:20:36,629
+That's it?
 
 292
-00:22:19,845 --> 00:22:23,849
-<font face="Comic Sans MS"><i>Get too close to the outer
-walls, you become part of them.</i></font>
+00:20:37,596 --> 00:20:38,597
+That's all you got?
 
 293
-00:22:23,882 --> 00:22:25,751
-<font face="Comic Sans MS"><i>Permanently.</i></font>
+00:20:40,700 --> 00:20:42,969
+- Oh, so you have half a plan.
+- Yeah, at best.
 
 294
-00:22:29,788 --> 00:22:34,860
-<font face="Comic Sans MS"><i>Doors open in 24 hours.
-So, try to get some rest.</i></font>
+00:20:44,837 --> 00:20:48,074
+But it's a really
+good half, though.
 
 295
-00:22:34,893 --> 00:22:40,799
-<font face="Comic Sans MS"><i>And Rose, as long as we get the job
-done, you and I will get along just fine.</i></font>
+00:20:48,107 --> 00:20:51,143
+We've simulated this mission,
+roughly, 500 times with 90%...
 
 296
-00:23:25,344 --> 00:23:26,879
-<font face="Comic Sans MS"><i>Oh, hell, no.</i></font>
+00:20:51,177 --> 00:20:53,067
+Simulations are nothing
+compared to the real thing.
 
 297
-00:23:30,649 --> 00:23:31,184
-<font face="Comic Sans MS"><i>Owens!</i></font>
+00:20:53,079 --> 00:20:54,113
+That's why we need you.
 
 298
-00:23:31,217 --> 00:23:34,053
-<font face="Comic Sans MS"><i>Yeah, we're on lockdown for 24 hours,
-so I'm afraid you're stuck with me.</i></font>
+00:20:54,146 --> 00:20:55,982
+I can't take on
+an entire planet.
 
 299
-00:23:34,086 --> 00:23:35,687
-<font face="Comic Sans MS"><i>This is a huge mistake.</i></font>
+00:20:56,015 --> 00:20:57,884
+This is no war.
+This is a heist.
 
 300
-00:23:43,929 --> 00:23:47,066
-<font face="Comic Sans MS"><i>- You all right?
-- Mmm, no. No, not really.</i></font>
+00:20:57,917 --> 00:20:59,539
+LEON: We're not going there
+for any hero bullshit.
 
 301
-00:23:47,099 --> 00:23:50,702
-<font face="Comic Sans MS"><i>Yeah, well, this ain't exactly
-my idea of a good time either.</i></font>
+00:20:59,551 --> 00:21:01,754
+Let them harvest another
+10 planets, for all we care.
 
 302
-00:23:50,736 --> 00:23:53,672
-<font face="Comic Sans MS"><i>Wait... Were you
-watching me change?</i></font>
+00:21:01,787 --> 00:21:04,190
+We go there for one thing
+and one thing only.
 
 303
-00:23:53,705 --> 00:23:56,175
-<font face="Comic Sans MS"><i>What? No, I was having a piss.</i></font>
+00:21:04,223 --> 00:21:06,847
+- That drive.
+- You're the only one who has the power to retrieve it.
 
 304
-00:23:57,409 --> 00:23:59,577
-<font face="Comic Sans MS"><i>Yeah. Yep.</i></font>
+00:21:06,859 --> 00:21:08,526
+RADFORD: Enough.
 
 305
-00:24:06,085 --> 00:24:08,854
-<font face="Comic Sans MS"><i>Soldiers said to leave
-before dark.</i></font>
+00:21:08,560 --> 00:21:09,762
+Colonel, give us the bridge.
 
 306
-00:24:09,421 --> 00:24:12,057
-<font face="Comic Sans MS"><i>Well, better get going.</i></font>
+00:21:09,795 --> 00:21:11,496
+Sir. Let's go.
 
 307
-00:24:12,091 --> 00:24:13,725
-<font face="Comic Sans MS"><i>I'm not leaving without you.</i></font>
+00:21:13,633 --> 00:21:16,168
+ROSE: (SIGHS) There has to be
+an easier way.
 
 308
-00:24:15,928 --> 00:24:20,666
-<font face="Comic Sans MS"><i>I've spent 10 years hiding
-underground, living in shit.</i></font>
+00:21:17,870 --> 00:21:18,871
+Rose.
 
 309
-00:24:20,699 --> 00:24:25,804
-<font face="Comic Sans MS"><i>I'd just as soon see the end
-up here, sun shining on my face.</i></font>
+00:21:20,505 --> 00:21:22,875
+You are the only way.
 
 310
-00:24:27,306 --> 00:24:29,241
-<font face="Comic Sans MS"><i>Thought I'd told you
-to quit.</i></font>
+00:21:22,909 --> 00:21:29,115
+I know this is far from ideal,
+but we face extermination.
 
 311
-00:24:31,143 --> 00:24:33,412
-<font face="Comic Sans MS"><i>Hey, Doc. They kick you
-out as well?</i></font>
+00:21:29,148 --> 00:21:31,150
+We all have to push
+beyond our limits.
 
 312
-00:24:33,445 --> 00:24:39,118
-<font face="Comic Sans MS"><i>Managed to sneak Huana,
-here, in past quarantine. Just.</i></font>
+00:21:35,021 --> 00:21:36,722
+And what if I can't?
 
 313
-00:24:39,151 --> 00:24:41,153
-<font face="Comic Sans MS"><i>Why? Is he sick or something?</i></font>
+00:21:36,756 --> 00:21:40,525
+You saved us all before.
+And when the time comes,
 
 314
-00:24:46,191 --> 00:24:47,926
-<font face="Comic Sans MS"><i>Get him inside. Come on.</i></font>
+00:21:40,558 --> 00:21:43,528
+I know that you will
+make us proud.
 
 315
-00:24:52,865 --> 00:24:54,733
-<font face="Comic Sans MS"><i>So what's with
-all the blood?</i></font>
+00:21:46,966 --> 00:21:48,134
+(SPEAKING ALIEN)
 
 316
-00:24:54,766 --> 00:24:57,202
-<font face="Comic Sans MS"><i>Some kinda Dracula or...</i></font>
+00:21:51,003 --> 00:21:52,204
+When do you embark?
 
 317
-00:24:57,236 --> 00:24:59,671
-<font face="Comic Sans MS"><i>Oh, no, wait.
-Vampires don't age.</i></font>
+00:21:52,238 --> 00:21:54,073
+As soon as you say yes.
 
 318
-00:24:59,705 --> 00:25:02,374
-<font face="Comic Sans MS"><i>Whereas you're more of a...
-Like a kid alien</i></font>
+00:21:56,909 --> 00:21:59,078
+So what the hell
+are we waiting for?
 
 319
-00:25:02,407 --> 00:25:05,911
-<font face="Comic Sans MS"><i>in Tom Hanks' body,
-kinda deal, right?</i></font>
+00:22:01,546 --> 00:22:03,082
+(WHIRRING)
 
 320
-00:25:05,944 --> 00:25:09,181
-<font face="Comic Sans MS"><i>What, you've never seen Big?
-It's a classic.</i></font>
+00:22:12,692 --> 00:22:14,559
+(DRAMATIC MUSIC PLAYING)
 
 321
-00:25:09,214 --> 00:25:12,718
-<font face="Comic Sans MS"><i>I have no idea what
-you're talking about.</i></font>
+00:22:23,601 --> 00:22:25,938
+Wormhole travel
+is extremely dangerous.
 
 322
-00:25:12,751 --> 00:25:15,287
-<font face="Comic Sans MS"><i>You don't remember what
-it was like before they came?</i></font>
+00:22:25,972 --> 00:22:29,675
+From the pressure, to the revolving
+walls, its safest if you stay
 
 323
-00:25:15,320 --> 00:25:18,157
-<font face="Comic Sans MS"><i>I was born
-on a spaceship, genius.</i></font>
+00:22:29,709 --> 00:22:31,543
+in here at the center
+of the ship.
 
 324
-00:25:18,190 --> 00:25:22,227
-<font face="Comic Sans MS"><i>Oh, yeah. Right. Of course.</i></font>
+00:22:31,576 --> 00:22:32,812
+Or what?
 
 325
-00:25:29,101 --> 00:25:32,337
-<font face="Comic Sans MS"><i>How old were you
-when they came?</i></font>
+00:22:32,845 --> 00:22:36,849
+Get too close to the outer
+walls, you become part of them.
 
 326
-00:25:32,604 --> 00:25:34,206
-<font face="Comic Sans MS"><i>Um...</i></font>
+00:22:36,882 --> 00:22:38,751
+OWENS: (CLICKING BUTTONS)
+Permanently.
 
 327
-00:25:34,239 --> 00:25:36,108
-<font face="Comic Sans MS"><i>I was in high school.</i></font>
+00:22:42,788 --> 00:22:47,860
+Doors open in 24 hours.
+So, try to get some rest.
 
 328
-00:25:37,409 --> 00:25:42,114
-<font face="Comic Sans MS"><i>The night before, my mum caught
-me and my sister smoking a joint.</i></font>
+00:22:47,893 --> 00:22:53,799
+And Rose, as long as we get the job
+done, you and I will get along just fine.
 
 329
-00:25:42,147 --> 00:25:44,082
-<font face="Comic Sans MS"><i>Grounded us for life.</i></font>
+00:23:01,007 --> 00:23:02,008
+(SIGHS)
 
 330
-00:25:44,116 --> 00:25:47,319
-<font face="Comic Sans MS"><i>I don't know how you all survived
-that many years as teenagers.</i></font>
+00:23:09,749 --> 00:23:11,650
+(TRENT SPEAKING ALIEN)
 
 331
-00:25:47,352 --> 00:25:51,757
-<font face="Comic Sans MS"><i>That was the one time in my life I
-was glad I grew up freakishly fast.</i></font>
+00:23:17,023 --> 00:23:18,224
+(WHIRRING)
 
 332
-00:25:56,828 --> 00:25:58,797
-<font face="Comic Sans MS"><i>I'd give anything to go back.</i></font>
+00:23:38,344 --> 00:23:39,879
+Oh, hell, no.
 
 333
-00:26:01,233 --> 00:26:03,969
-<font face="Comic Sans MS"><i>Never even saw my mum again.</i></font>
+00:23:43,649 --> 00:23:45,184
+ROSE: (POUNDING ON DOOR)
+Owens!
 
 334
-00:26:04,002 --> 00:26:08,006
-<font face="Comic Sans MS"><i>My sister, Izzy, and me,
-we ended up in a train station.</i></font>
+00:23:45,217 --> 00:23:47,074
+Yeah, we're on lockdown for 24 hours,
+so I'm afraid you're stuck with me.
 
 335
-00:26:08,040 --> 00:26:10,876
-<font face="Comic Sans MS"><i>Worked our way to the
-underground like most folks.</i></font>
+00:23:47,086 --> 00:23:48,687
+This is a huge mistake.
 
 336
-00:26:11,810 --> 00:26:12,945
-<font face="Comic Sans MS"><i>Not much food.</i></font>
+00:23:48,721 --> 00:23:49,722
+(GRUNTS)
 
 337
-00:26:12,978 --> 00:26:14,780
-<font face="Comic Sans MS"><i>Even less info.</i></font>
+00:23:51,623 --> 00:23:52,925
+(WHIZZING)
 
 338
-00:26:17,516 --> 00:26:19,751
-<font face="Comic Sans MS"><i>I just remember the fear.</i></font>
+00:23:55,227 --> 00:23:56,896
+(SPEAKING ALIEN)
 
 339
-00:26:22,054 --> 00:26:23,388
-<font face="Comic Sans MS"><i>Being scared.</i></font>
+00:23:56,929 --> 00:24:00,066
+- You all right?
+- Mmm, no. No, not really.
 
 340
-00:26:25,791 --> 00:26:28,427
-<font face="Comic Sans MS"><i>Thinking they'd
-find us any day.</i></font>
+00:24:00,099 --> 00:24:03,702
+Yeah, well, this ain't exactly
+my idea of a good time either.
 
 341
-00:26:28,460 --> 00:26:31,897
-<font face="Comic Sans MS"><i>Until my sister told me
-about this strange</i></font>
+00:24:03,736 --> 00:24:06,672
+Wait... Were you
+watching me change?
 
 342
-00:26:31,930 --> 00:26:33,899
-<font face="Comic Sans MS"><i>little girl with
-glowing red eyes.</i></font>
+00:24:06,705 --> 00:24:09,175
+What? No, I was having a piss.
 
 343
-00:26:33,932 --> 00:26:35,334
-<font face="Comic Sans MS"><i>The one who could fight back.</i></font>
+00:24:10,409 --> 00:24:12,577
+Yeah. Yep.
 
 344
-00:26:41,139 --> 00:26:44,343
-<font face="Comic Sans MS"><i>And your sister? Where's she?</i></font>
+00:24:13,979 --> 00:24:15,114
+(SIGHS)
 
 345
-00:26:46,044 --> 00:26:47,512
-<font face="Comic Sans MS"><i>She's, uh...</i></font>
+00:24:16,082 --> 00:24:17,650
+(INDISTINCT CHATTER)
 
 346
-00:26:50,449 --> 00:26:52,851
-<font face="Comic Sans MS"><i>She was a bit
-older than me,</i></font>
+00:24:19,085 --> 00:24:21,854
+Soldiers said to leave
+before dark.
 
 347
-00:26:52,884 --> 00:26:55,354
-<font face="Comic Sans MS"><i>so, when the Resistance
-started, she signed up.</i></font>
+00:24:22,421 --> 00:24:25,057
+Well, better get going.
 
 348
-00:26:57,122 --> 00:27:00,926
-<font face="Comic Sans MS"><i>She wasn't anyone special.
-Not like you.</i></font>
+00:24:25,091 --> 00:24:26,725
+I'm not leaving without you.
 
 349
-00:27:03,862 --> 00:27:05,364
-<font face="Comic Sans MS"><i>But she did her part.</i></font>
+00:24:27,226 --> 00:24:28,894
+(SIGHS)
 
 350
-00:27:08,066 --> 00:27:09,334
-<font face="Comic Sans MS"><i>Paid the price.</i></font>
+00:24:28,928 --> 00:24:33,666
+I've spent 10 years hiding
+underground, living in shit.
 
 351
-00:27:14,840 --> 00:27:19,411
-<font face="Comic Sans MS"><i>As far as I'm concerned, they don't
-come any more special than that.</i></font>
+00:24:33,699 --> 00:24:38,804
+I'd just as soon see the end
+up here, sun shining on my face.
 
 352
-00:27:32,924 --> 00:27:35,861
-<font face="Comic Sans MS"><i>How was the honeymoon suite?</i></font>
+00:24:40,306 --> 00:24:42,241
+Thought I'd told you to quit.
 
 353
-00:27:35,894 --> 00:27:37,362
-<font face="Comic Sans MS"><i>Hey, did you get any sleep?</i></font>
+00:24:44,143 --> 00:24:46,412
+Hey, Doc. They kick you
+out as well?
 
 354
-00:27:37,396 --> 00:27:38,797
-<font face="Comic Sans MS"><i>None at all.</i></font>
+00:24:46,445 --> 00:24:52,118
+(SIGHS) Managed to sneak Huana,
+here, in past quarantine. Just.
 
 355
-00:27:48,206 --> 00:27:50,142
-<font face="Comic Sans MS"><i>I thought you might
-like to see this.</i></font>
+00:24:52,151 --> 00:24:54,153
+Why? Is he sick or something?
 
 356
-00:27:55,547 --> 00:27:57,416
-<font face="Comic Sans MS"><i>We're just coming into orbit.</i></font>
+00:24:54,453 --> 00:24:55,788
+(GROANS)
 
 357
-00:28:19,104 --> 00:28:24,042
-<font face="Comic Sans MS"><i>Ladies and gentlemen,
-welcome to Cobalt One.</i></font>
+00:24:59,191 --> 00:25:00,926
+Get him inside. Come on.
 
 358
-00:28:44,664 --> 00:28:47,933
-<font face="Comic Sans MS"><i>Zhi, Alexi,
-initiate the drone launch.</i></font>
+00:25:03,262 --> 00:25:05,831
+(WHIZZING)
 
 359
-00:28:47,966 --> 00:28:49,334
-<font face="Comic Sans MS"><i>Let's get some hard data
-on this place.</i></font>
+00:25:05,865 --> 00:25:07,733
+LEON: So what's with
+all the blood?
 
 360
-00:28:49,368 --> 00:28:52,204
-<font face="Comic Sans MS"><i>The rest of us
-head for the subdeck.</i></font>
+00:25:07,766 --> 00:25:10,202
+Some kinda Dracula or...
 
 361
-00:28:52,237 --> 00:28:54,406
-<font face="Comic Sans MS"><i>Pilots only on the bridge
-from now on.</i></font>
+00:25:10,236 --> 00:25:12,671
+Oh, no, wait.
+Vampires don't age.
 
 362
-00:28:55,173 --> 00:28:56,241
-<font face="Comic Sans MS"><i>Hey.</i></font>
+00:25:12,705 --> 00:25:15,374
+Whereas you're more of a...
+Like a kid alien
 
 363
-00:28:58,678 --> 00:29:00,979
-<font face="Comic Sans MS"><i>Don't die, okay?</i></font>
+00:25:15,407 --> 00:25:18,911
+in Tom Hanks' body,
+kinda deal, right?
 
 364
-00:29:17,229 --> 00:29:20,031
-<font face="Comic Sans MS"><i>You might wanna strap in.</i></font>
+00:25:18,944 --> 00:25:22,181
+What, you've never seen <i>Big?</i>
+It's a classic.
 
 365
-00:29:21,032 --> 00:29:22,567
-<font face="Comic Sans MS">Launching drone.</font>
+00:25:22,214 --> 00:25:25,718
+I have no idea what
+you're talking about.
 
 366
-00:29:40,986 --> 00:29:44,055
-<font face="Comic Sans MS"><i>We've got incoming.</i></font>
+00:25:25,751 --> 00:25:28,287
+You don't remember what
+it was like before they came?
 
 367
-00:29:44,089 --> 00:29:47,392
-<font face="Comic Sans MS"><i>- We're not picking anything up.
-- Whatever it is, it's big and closing fast.</i></font>
+00:25:28,320 --> 00:25:31,157
+(SMACKS LIPS) I was born
+on a spaceship, genius.
 
 368
-00:30:14,186 --> 00:30:16,421
-<font face="Comic Sans MS"><i>- Status?
-- Heavy damage to our central system.</i></font>
+00:25:31,190 --> 00:25:35,227
+Oh, yeah. Right. Of course.
+(COCKS GUN)
 
 369
-00:30:16,455 --> 00:30:18,323
-<font face="Comic Sans MS"><i>Trent, have you got
-eyes on the ship?</i></font>
+00:25:42,101 --> 00:25:45,337
+How old were you when they came?
 
 370
-00:30:18,356 --> 00:30:20,158
-<font face="Comic Sans MS"><i>Is it pursuing us?</i></font>
+00:25:45,604 --> 00:25:47,206
+Um...
 
 371
-00:30:22,260 --> 00:30:24,095
-<font face="Comic Sans MS"><i>What the hell is going on?</i></font>
+00:25:47,239 --> 00:25:49,108
+I was in high school.
 
 372
-00:30:27,599 --> 00:30:30,435
-<font face="Comic Sans MS"><i>Wait...
-No one's driving the ship.</i></font>
+00:25:50,409 --> 00:25:55,114
+The night before, my mum caught
+me and my sister smoking a joint.
 
 373
-00:30:30,469 --> 00:30:31,737
-<font face="Comic Sans MS"><i>It's just stuck in orbit.</i></font>
+00:25:55,147 --> 00:25:57,082
+(CHUCKLES)
+Grounded us for life.
 
 374
-00:30:57,462 --> 00:30:58,798
-<font face="Comic Sans MS"><i>The core drive
-is stalling out.</i></font>
+00:25:57,116 --> 00:26:00,319
+I don't know how you all survived
+that many years as teenagers.
 
 375
-00:31:00,232 --> 00:31:01,233
-<font face="Comic Sans MS"><i>We have to land.</i></font>
+00:26:00,352 --> 00:26:04,757
+That was the one time in my life I
+was glad I grew up freakishly fast.
 
 376
-00:31:04,469 --> 00:31:06,137
-<font face="Comic Sans MS"><i>Focus, people.</i></font>
+00:26:04,790 --> 00:26:05,925
+(CHUCKLES)
 
 377
-00:31:19,150 --> 00:31:20,285
-<font face="Comic Sans MS"><i>Brace for impact.</i></font>
+00:26:09,828 --> 00:26:11,797
+I'd give anything to go back.
 
 378
-00:31:20,318 --> 00:31:21,586
-<font face="Comic Sans MS"><i>Shit.</i></font>
+00:26:14,233 --> 00:26:16,969
+Never even saw my mum again.
 
 379
-00:32:03,595 --> 00:32:04,830
-<font face="Comic Sans MS"><i>Everyone all right?</i></font>
+00:26:17,002 --> 00:26:21,006
+My sister, Izzy, and me,
+we ended up in a train station.
 
 380
-00:32:04,864 --> 00:32:06,398
-<font face="Comic Sans MS"><i>- Yeah.
-- Yeah.</i></font>
+00:26:21,040 --> 00:26:23,876
+Worked our way to the
+underground like most folks.
 
 381
-00:32:06,431 --> 00:32:07,633
-<font face="Comic Sans MS"><i>- Yeah.
-- Yeah.</i></font>
+00:26:24,810 --> 00:26:25,945
+Not much food.
 
 382
-00:32:22,882 --> 00:32:25,383
-<font face="Comic Sans MS"><i>Core drive is dead on arrival.</i></font>
+00:26:25,978 --> 00:26:27,780
+Even less info.
 
 383
-00:32:25,417 --> 00:32:29,220
-<font face="Comic Sans MS"><i>Backup generators will power
-our comms for the next 24 hours.</i></font>
+00:26:30,516 --> 00:26:32,751
+I just remember the fear.
 
 384
-00:32:29,889 --> 00:32:31,156
-<font face="Comic Sans MS"><i>After that...</i></font>
+00:26:35,054 --> 00:26:36,388
+Being scared.
 
 385
-00:32:36,194 --> 00:32:37,596
-<font face="Comic Sans MS"><i>Half a plan.</i></font>
+00:26:38,791 --> 00:26:41,427
+Thinking they'd find us any day.
 
 386
-00:32:37,630 --> 00:32:38,731
-<font face="Comic Sans MS"><i>At best.</i></font>
+00:26:41,460 --> 00:26:44,897
+Until my sister told me
+about this strange
 
 387
-00:32:38,764 --> 00:32:41,600
-<font face="Comic Sans MS"><i>Only one way to get home now.
-The Armada's core drive.</i></font>
+00:26:44,930 --> 00:26:46,899
+little girl with
+glowing red eyes.
 
 388
-00:32:41,634 --> 00:32:42,868
-<font face="Comic Sans MS"><i>Alexi, what's our position?</i></font>
+00:26:46,932 --> 00:26:48,334
+The one who could fight back.
 
 389
-00:32:42,902 --> 00:32:46,338
-<font face="Comic Sans MS"><i>10 clicks from the Armada.
-No signs of life yet.</i></font>
+00:26:54,139 --> 00:26:57,343
+And your sister? Where's she?
 
 390
-00:32:46,371 --> 00:32:48,708
-<font face="Comic Sans MS"><i>Surface gravity is slightly
-heavier than Earth.</i></font>
+00:26:59,044 --> 00:27:00,512
+She's, uh...
 
 391
-00:32:48,741 --> 00:32:52,344
-<font face="Comic Sans MS"><i>Should take us 6 hours
-round trip.</i></font>
+00:27:03,449 --> 00:27:05,851
+She was a bit older than me,
 
 392
-00:32:52,377 --> 00:32:55,180
-<font face="Comic Sans MS"><i>- Get your team ready, Colonel.
-- Yes, sir.</i></font>
+00:27:05,884 --> 00:27:08,354
+so, when the Resistance
+started, she signed up.
 
 393
-00:32:55,213 --> 00:32:56,481
-<font face="Comic Sans MS"><i>Let's go. Come on!</i></font>
+00:27:10,122 --> 00:27:13,926
+She wasn't anyone special.
+Not like you.
 
 394
-00:32:57,783 --> 00:32:59,150
-<font face="Comic Sans MS"><i>We're up.</i></font>
+00:27:16,862 --> 00:27:18,364
+But she did her part.
 
 395
-00:33:13,933 --> 00:33:17,870
-<font face="Comic Sans MS"><i>I've been working on a cure
-since this bug showed up.</i></font>
+00:27:21,066 --> 00:27:22,334
+Paid the price.
 
 396
-00:33:17,903 --> 00:33:22,440
-<font face="Comic Sans MS"><i>I just need a little more
-time to test my serum.</i></font>
+00:27:27,840 --> 00:27:32,411
+As far as I'm concerned, they don't
+come any more special than that.
 
 397
-00:33:22,474 --> 00:33:24,476
-<font face="Comic Sans MS"><i>So you can stop all of this?</i></font>
+00:27:40,386 --> 00:27:42,288
+(WHIZZING)
 
 398
-00:33:25,610 --> 00:33:26,712
-<font face="Comic Sans MS"><i>Perhaps.</i></font>
+00:27:45,924 --> 00:27:48,861
+How was the honeymoon suite?
+(CHUCKLES)
 
 399
-00:33:27,880 --> 00:33:30,650
-<font face="Comic Sans MS"><i>if I can save Huana,</i></font>
+00:27:48,894 --> 00:27:50,362
+Hey, did you get any sleep?
 
 400
-00:33:30,683 --> 00:33:32,818
-<font face="Comic Sans MS"><i>there's a possibility
-I can save them all.</i></font>
+00:27:50,396 --> 00:27:51,797
+None at all.
 
 401
-00:33:37,422 --> 00:33:39,290
-<font face="Comic Sans MS"><i>They're attacking
-the quarantine.</i></font>
+00:27:53,532 --> 00:27:55,067
+(VIOLET SPEAKING ALIEN)
 
 402
-00:33:39,324 --> 00:33:40,893
-<font face="Comic Sans MS"><i>We have less time
-than I thought.</i></font>
+00:28:01,206 --> 00:28:03,142
+I thought you might
+like to see this.
 
 403
-00:33:40,926 --> 00:33:42,662
-<font face="Comic Sans MS"><i>How much more time
-do you need?</i></font>
+00:28:08,547 --> 00:28:10,416
+We're just coming into orbit.
 
 404
-00:33:42,695 --> 00:33:44,562
-<font face="Comic Sans MS"><i>Hey, this is no place
-for you, kid.</i></font>
+00:28:32,104 --> 00:28:37,042
+Ladies and gentlemen,
+welcome to Cobalt One.
 
 405
-00:33:44,596 --> 00:33:46,498
-<font face="Comic Sans MS"><i>I know you have weapons, Grant.</i></font>
+00:28:54,493 --> 00:28:55,861
+(VIOLET SPEAKING ALIEN)
 
 406
-00:33:46,531 --> 00:33:47,767
-<font face="Comic Sans MS"><i>Not enough for this.</i></font>
+00:28:57,664 --> 00:29:00,933
+Zhi, Alexi,
+initiate the drone launch.
 
 407
-00:33:47,800 --> 00:33:51,202
-<font face="Comic Sans MS"><i>We're in the middle of the
-largest Pilot Sprawl on Earth.</i></font>
+00:29:00,966 --> 00:29:02,356
+Let's get some hard data
+on this place.
 
 408
-00:33:51,236 --> 00:33:52,504
-<font face="Comic Sans MS"><i>There's no point in running.</i></font>
+00:29:02,368 --> 00:29:05,204
+The rest of us
+head for the subdeck.
 
 409
-00:33:56,976 --> 00:33:59,511
-<font face="Comic Sans MS"><i>If you can hold them off
-till morning...</i></font>
+00:29:05,237 --> 00:29:07,406
+Pilots only on the bridge
+from now on.
 
 410
-00:34:01,279 --> 00:34:03,348
-<font face="Comic Sans MS"><i>I might just have a shot.</i></font>
+00:29:08,173 --> 00:29:09,241
+Hey.
 
 411
-00:34:06,518 --> 00:34:08,219
-<font face="Comic Sans MS"><i>What weapons
-are we talking about?</i></font>
+00:29:09,274 --> 00:29:10,576
+(TRENT SPEAKING ALIEN)
 
 412
-00:34:12,858 --> 00:34:14,827
-<font face="Comic Sans MS"><i>Their bodies are armor-plated.</i></font>
+00:29:11,678 --> 00:29:13,979
+Don't die, okay?
 
 413
-00:34:14,860 --> 00:34:16,528
-<font face="Comic Sans MS"><i>Aim for the eyes.</i></font>
+00:29:20,953 --> 00:29:22,921
+(INTENSE MUSIC PLAYING)
 
 414
-00:34:16,561 --> 00:34:19,431
-<font face="Comic Sans MS"><i>If they move, kill them.</i></font>
+00:29:30,229 --> 00:29:33,031
+(TURBULENT ROCKING)
+You might wanna strap in.
 
 415
-00:34:25,437 --> 00:34:27,338
-<font face="Comic Sans MS"><i>Are you guys serious
-about these suits?</i></font>
+00:29:34,032 --> 00:29:35,567
+ALEXI: <i>Launching drone.</i>
 
 416
-00:34:27,372 --> 00:34:29,909
-<font face="Comic Sans MS"><i>Trust me.
-You're gonna need it.</i></font>
+00:29:43,142 --> 00:29:45,144
+(VIOLET SPEAKING ALIEN)
 
 417
-00:34:29,942 --> 00:34:32,577
-<font face="Comic Sans MS"><i>Stab first.
-Questions later.</i></font>
+00:29:45,177 --> 00:29:46,378
+(TRENT SPEAKING ALIEN)
 
 418
-00:34:32,610 --> 00:34:33,946
-<font face="Comic Sans MS"><i>You got a license for those?</i></font>
+00:29:53,986 --> 00:29:57,055
+ALEXI: We've got incoming.
 
 419
-00:34:38,851 --> 00:34:40,552
-<font face="Comic Sans MS"><i>Wait... Is this...</i></font>
+00:29:57,089 --> 00:30:00,392
+- We're not picking anything up.
+- Whatever it is, it's big and closing fast.
 
 420
-00:34:40,585 --> 00:34:42,554
-<font face="Comic Sans MS"><i>Special mod. Custom made
-by this big guy.</i></font>
+00:30:22,581 --> 00:30:25,417
+(VIOLET SPEAKING)
+(TRENT SPEAKING)
 
 421
-00:34:47,860 --> 00:34:49,494
-<font face="Comic Sans MS"><i>Now you can fire on the go.</i></font>
+00:30:27,186 --> 00:30:29,421
+- Status?
+- Heavy damage to our central system.
 
 422
-00:34:49,527 --> 00:34:51,596
-<font face="Comic Sans MS"><i>All right, let's lock and load,
-Alpha Team.</i></font>
+00:30:29,455 --> 00:30:31,323
+Trent, have you got
+eyes on the ship?
 
 423
-00:34:51,630 --> 00:34:52,865
-<font face="Comic Sans MS"><i>It's going to be fine.</i></font>
+00:30:31,356 --> 00:30:33,158
+(TRENT SPEAKING ALIEN)
+Is it pursuing us?
 
 424
-00:34:54,499 --> 00:34:55,533
-<font face="Comic Sans MS"><i>It's go time.</i></font>
+00:30:35,260 --> 00:30:37,095
+What the hell is going on?
 
 425
-00:34:56,367 --> 00:34:57,569
-<font face="Comic Sans MS"><i>Yeehaw.</i></font>
+00:30:40,599 --> 00:30:43,435
+Wait...
+No one's driving the ship.
 
 426
-00:35:03,075 --> 00:35:05,310
-<font face="Comic Sans MS"><i>Violet will remain here
-and guard the bridge.</i></font>
+00:30:43,469 --> 00:30:44,737
+It's just stuck in orbit.
 
 427
-00:35:05,343 --> 00:35:08,513
-<font face="Comic Sans MS"><i>Zhi and I will monitor
-you all from the subdeck.</i></font>
+00:30:44,771 --> 00:30:46,038
+(TRENT SPEAKING)
 
 428
-00:35:08,546 --> 00:35:11,349
-<font face="Comic Sans MS"><i>Cobalt's atmosphere is roughly
-analogous to their ships,</i></font>
+00:30:55,180 --> 00:30:56,615
+(RUMBLING)
 
 429
-00:35:11,382 --> 00:35:13,919
-<font face="Comic Sans MS"><i>meaning we can breathe here,
-but it's low on O2,</i></font>
+00:31:06,091 --> 00:31:07,159
+(VIOLET SPEAKING ALIEN)
 
 430
-00:35:13,953 --> 00:35:17,388
-<font face="Comic Sans MS"><i>so you better pace yourselves.
-But not too slow.</i></font>
+00:31:10,462 --> 00:31:11,819
+RADFORD: The core drive
+is stalling out.
 
 431
-00:35:17,422 --> 00:35:18,958
-<font face="Comic Sans MS"><i>If you're not back
-in 12 hours,</i></font>
+00:31:11,831 --> 00:31:13,198
+(TRENT SPEAKING ALIEN)
 
 432
-00:35:18,991 --> 00:35:20,693
-<font face="Comic Sans MS"><i>London will be wiped
-off the map.</i></font>
+00:31:13,232 --> 00:31:14,233
+We have to land.
 
 433
-00:35:20,726 --> 00:35:22,494
-<font face="Comic Sans MS"><i>So, no pressure.</i></font>
+00:31:17,469 --> 00:31:19,137
+Focus, people.
 
 434
-00:35:24,830 --> 00:35:25,965
-<font face="Comic Sans MS"><i>So...</i></font>
+00:31:24,209 --> 00:31:26,378
+(VIOLET SPEAKING ALIEN)
 
 435
-00:35:27,700 --> 00:35:28,968
-<font face="Comic Sans MS"><i>no pressure.</i></font>
+00:31:26,411 --> 00:31:27,981
+(TRENT SPEAKING ALIEN)
 
 436
-00:35:40,012 --> 00:35:41,847
-<font face="Comic Sans MS"><i>Guess we're really
-doing this, huh?</i></font>
+00:31:32,150 --> 00:31:33,285
+Brace for impact.
 
 437
-00:35:42,815 --> 00:35:44,817
-<font face="Comic Sans MS"><i>Death or glory, Corporal.</i></font>
+00:31:33,318 --> 00:31:34,586
+LEON: Shit.
 
 438
-00:35:46,518 --> 00:35:47,853
-<font face="Comic Sans MS"><i>See you soon, Zhi.</i></font>
+00:31:37,790 --> 00:31:39,792
+(TENSE MUSIC PLAYING)
 
 439
-00:35:55,728 --> 00:35:58,463
-<font face="Comic Sans MS"><i>Please, I insist.</i></font>
+00:31:51,771 --> 00:31:53,605
+(RUMBLING)
 
 440
-00:36:31,429 --> 00:36:32,564
-<font face="Comic Sans MS"><i>All clear.</i></font>
+00:32:08,487 --> 00:32:10,255
+(HEAVY BREATHING)
 
 441
-00:36:41,073 --> 00:36:43,142
-<font face="Comic Sans MS">How's our signal, Zhi?</font>
+00:32:11,758 --> 00:32:13,592
+(COUGHING)
 
 442
-00:36:43,175 --> 00:36:44,944
-<font face="Comic Sans MS"><i>Loud and clear, Alpha Team.</i></font>
+00:32:16,595 --> 00:32:17,830
+Everyone all right?
 
 443
-00:36:47,046 --> 00:36:48,613
-<font face="Comic Sans MS">Still no signs of life.</font>
+00:32:17,864 --> 00:32:19,398
+Yeah.
+ZHI: Yeah.
 
 444
-00:36:48,647 --> 00:36:50,683
-<font face="Comic Sans MS"><i>Music to my ears.</i></font>
+00:32:19,431 --> 00:32:20,633
+- Yeah.
+- Yeah.
 
 445
-00:36:59,925 --> 00:37:01,359
-<font face="Comic Sans MS"><i>Pretty trippy.</i></font>
+00:32:28,173 --> 00:32:30,342
+(TRENT SPEAKING ALIEN)
 
 446
-00:37:03,028 --> 00:37:04,930
-<font face="Comic Sans MS"><i>But not entirely unpleasant.</i></font>
+00:32:31,476 --> 00:32:33,345
+(VIOLET SPEAKING ALIEN)
 
 447
-00:37:04,964 --> 00:37:06,397
-<font face="Comic Sans MS"><i>Keep the comms clear.</i></font>
+00:32:35,882 --> 00:32:38,383
+Core drive is dead on arrival.
 
 448
-00:37:51,977 --> 00:37:53,045
-<font face="Comic Sans MS"><i>What is it?</i></font>
+00:32:38,417 --> 00:32:42,220
+Backup generators will power
+our comms for the next 24 hours.
 
 449
-00:38:05,157 --> 00:38:07,026
-<font face="Comic Sans MS"><i>Just a healthy
-fear of the dark.</i></font>
+00:32:42,889 --> 00:32:44,156
+After that...
 
 450
-00:38:27,279 --> 00:38:29,982
-<font face="Comic Sans MS"><i>How can this entire
-place be empty?</i></font>
+00:32:49,194 --> 00:32:50,596
+Half a plan.
 
 451
-00:38:30,015 --> 00:38:31,150
-<font face="Comic Sans MS"><i>Maybe they left.</i></font>
+00:32:50,630 --> 00:32:51,731
+At best.
 
 452
-00:38:31,183 --> 00:38:33,018
-<font face="Comic Sans MS"><i>Then why is
-the Armada still here?</i></font>
+00:32:51,764 --> 00:32:54,600
+Only one way to get home now.
+The Armada's core drive.
 
 453
-00:38:33,052 --> 00:38:34,920
-<font face="Comic Sans MS"><i>Perhaps you damaged it
-more than we thought?</i></font>
+00:32:54,634 --> 00:32:55,868
+Alexi, what's our position?
 
 454
-00:38:34,954 --> 00:38:37,588
-<font face="Comic Sans MS"><i>Well, if that's the case, then how
-the hell are we supposed to get home?</i></font>
+00:32:55,902 --> 00:32:59,338
+ALEXI: Ten clicks from the Armada.
+No signs of life yet.
 
 455
-00:38:37,622 --> 00:38:39,557
-<font face="Comic Sans MS"><i>How many times
-do I have to remind everyone?</i></font>
+00:32:59,371 --> 00:33:01,708
+Surface gravity is slightly
+heavier than Earth.
 
 456
-00:38:39,590 --> 00:38:41,492
-<font face="Comic Sans MS"><i>We're on a goddamn
-stealth mission, here.</i></font>
+00:33:01,741 --> 00:33:05,344
+Should take us six hours
+round trip.
 
 457
-00:38:41,526 --> 00:38:43,095
-<font face="Comic Sans MS"><i>So shut your...</i></font>
+00:33:05,377 --> 00:33:08,180
+- Get your team ready, Colonel.
+- Yes, sir.
 
 458
-00:38:52,237 --> 00:38:53,571
-<font face="Comic Sans MS"><i>Free to engage?</i></font>
+00:33:08,213 --> 00:33:09,481
+Let's go. Come on!
 
 459
-00:38:57,608 --> 00:38:59,812
-<font face="Comic Sans MS"><i>Anything moves...
-burn it.</i></font>
+00:33:10,783 --> 00:33:12,150
+We're up.
 
 460
-00:38:59,845 --> 00:39:01,780
-<font face="Comic Sans MS"><i>So much for
-your stealth mission.</i></font>
+00:33:16,889 --> 00:33:19,726
+(DISTANT GUNFIRE)
+(INDISTINCT CHATTER)
 
 461
-00:39:08,153 --> 00:39:09,554
-<font face="Comic Sans MS"><i>And what if...</i></font>
+00:33:26,933 --> 00:33:30,870
+I've been working on a cure
+since this bug showed up.
 
 462
-00:39:10,990 --> 00:39:12,257
-<font face="Comic Sans MS"><i>nothing's moving?</i></font>
+00:33:30,903 --> 00:33:35,440
+I just need a little more
+time to test my serum.
 
 463
-00:39:20,265 --> 00:39:21,900
-<font face="Comic Sans MS"><i>No rush.</i></font>
+00:33:35,474 --> 00:33:37,476
+So you can stop all of this?
 
 464
-00:39:21,934 --> 00:39:23,102
-<font face="Comic Sans MS"><i>Just the end of the world.</i></font>
+00:33:38,610 --> 00:33:39,712
+Perhaps.
 
 465
-00:39:28,340 --> 00:39:30,175
-<font face="Comic Sans MS"><i>Nav points to that cavern.</i></font>
+00:33:40,880 --> 00:33:43,650
+If I can save Huana,
 
 466
-00:39:30,209 --> 00:39:31,910
-<font face="Comic Sans MS"><i>Another 3 clicks
-to the Armada.</i></font>
+00:33:43,683 --> 00:33:45,818
+there's a possibility
+I can save them all.
 
 467
-00:39:32,711 --> 00:39:33,712
-<font face="Comic Sans MS"><i>All right.</i></font>
+00:33:47,319 --> 00:33:48,387
+(EXPLOSION)
 
 468
-00:39:34,079 --> 00:39:35,147
-<font face="Comic Sans MS"><i>Let's go.</i></font>
+00:33:50,422 --> 00:33:52,290
+They're attacking
+the quarantine.
 
 469
-00:39:36,348 --> 00:39:37,548
-<font face="Comic Sans MS"><i>Watch your backs.</i></font>
+00:33:52,324 --> 00:33:53,893
+We have less time
+than I thought.
 
 470
-00:40:08,847 --> 00:40:09,882
-<font face="Comic Sans MS"><i>How's our signal?</i></font>
+00:33:53,926 --> 00:33:55,662
+How much more time do you need?
 
 471
-00:40:09,915 --> 00:40:12,251
-<font face="Comic Sans MS">Owens, there's interference.</font>
+00:33:55,695 --> 00:33:57,562
+Hey, this is no place
+for you, kid.
 
 472
-00:40:13,786 --> 00:40:15,721
-<font face="Comic Sans MS"><i>Damn.</i></font>
+00:33:57,596 --> 00:33:59,498
+I know you have weapons, Grant.
 
 473
-00:40:50,089 --> 00:40:51,723
-<font face="Comic Sans MS"><i>- Owens?
-- Yeah?</i></font>
+00:33:59,531 --> 00:34:00,767
+Not enough for this.
 
 474
-00:40:51,757 --> 00:40:53,892
-<font face="Comic Sans MS"><i>I think I know why
-this place is empty.</i></font>
+00:34:00,800 --> 00:34:04,202
+We're in the middle of the
+largest Pilot Sprawl on Earth.
 
 475
-00:40:58,097 --> 00:40:59,331
-<font face="Comic Sans MS"><i>It's a tomb.</i></font>
+00:34:04,236 --> 00:34:05,504
+There's no point in running.
 
 476
-00:41:01,433 --> 00:41:02,634
-<font face="Comic Sans MS"><i>Shit.</i></font>
+00:34:09,976 --> 00:34:12,511
+If you can hold them off
+till morning...
 
 477
-00:41:20,119 --> 00:41:22,387
-<font face="Comic Sans MS"><i>I've got movement.
-North wall. Two signatures.</i></font>
+00:34:14,279 --> 00:34:16,348
+I might just have a shot.
 
 478
-00:41:22,421 --> 00:41:23,856
-<font face="Comic Sans MS"><i>What?</i></font>
+00:34:19,518 --> 00:34:21,219
+What weapons
+are we talking about?
 
 479
-00:41:23,889 --> 00:41:25,924
-<font face="Comic Sans MS"><i>What are you talking about?</i></font>
+00:34:25,858 --> 00:34:27,827
+Their bodies are armor-plated.
 
 480
-00:41:26,892 --> 00:41:28,193
-<font face="Comic Sans MS"><i>Trent. Trent, no!</i></font>
+00:34:27,860 --> 00:34:29,528
+Aim for the eyes.
 
 481
-00:41:28,227 --> 00:41:29,928
-<font face="Comic Sans MS"><i>Trent, wait!</i></font>
+00:34:29,561 --> 00:34:32,431
+If they move, kill them.
 
 482
-00:41:29,962 --> 00:41:31,730
-<font face="Comic Sans MS"><i>- Stay in formation!
-- Where the hell is he going?</i></font>
+00:34:35,600 --> 00:34:36,836
+(TRENT SPEAKING ALIEN)
 
 483
-00:41:31,763 --> 00:41:34,199
-<font face="Comic Sans MS"><i>- I don't know.
-- Well, what did he just say to you?</i></font>
+00:34:38,437 --> 00:34:40,338
+Are you guys serious
+about these suits?
 
 484
-00:41:34,233 --> 00:41:35,734
-<font face="Comic Sans MS"><i>These aren't Harvesters.</i></font>
+00:34:40,372 --> 00:34:42,909
+Trust me.
+You're gonna need it.
 
 485
-00:41:38,770 --> 00:41:40,139
-<font face="Comic Sans MS"><i>Two signatures. South wall!</i></font>
+00:34:42,942 --> 00:34:45,577
+ALEXI: Stab first.
+Questions later.
 
 486
-00:41:45,444 --> 00:41:47,713
-<font face="Comic Sans MS"><i>Whatever they are,
-they're surrounding us.</i></font>
+00:34:45,610 --> 00:34:46,946
+You got a license for those?
 
 487
-00:41:49,715 --> 00:41:52,017
-<font face="Comic Sans MS"><i>Zhi, talk to me?</i></font>
+00:34:51,851 --> 00:34:53,552
+Wait... Is this...
 
 488
-00:41:52,050 --> 00:41:54,686
-<font face="Comic Sans MS"><i>Zhi! Damn.</i></font>
+00:34:53,585 --> 00:34:55,554
+Special mod. Custom made
+by this big guy.
 
 489
-00:42:00,259 --> 00:42:01,693
-<font face="Comic Sans MS"><i>Wait! You could hit Trent.</i></font>
+00:34:55,587 --> 00:34:56,756
+(TRENT SPEAKING ALIEN)
 
 490
-00:42:01,727 --> 00:42:03,228
-<font face="Comic Sans MS"><i>He should've stayed
-in formation, God damn it!</i></font>
+00:34:59,591 --> 00:35:00,827
+(CHUCKLES)
 
 491
-00:42:05,230 --> 00:42:06,298
-<font face="Comic Sans MS"><i>Shit.</i></font>
+00:35:00,860 --> 00:35:02,494
+Now you can fire on the go.
 
 492
-00:42:06,832 --> 00:42:07,833
-<font face="Comic Sans MS"><i>Move!</i></font>
+00:35:02,527 --> 00:35:04,596
+All right, let's lock and load,
+Alpha Team.
 
 493
-00:42:08,767 --> 00:42:10,969
-<font face="Comic Sans MS"><i>Christ's sake.</i></font>
+00:35:04,630 --> 00:35:05,865
+ALEXI: It's going to be fine.
 
 494
-00:42:11,003 --> 00:42:12,771
-<font face="Comic Sans MS"><i>I'm gonna
-kill you, Trent.</i></font>
+00:35:07,499 --> 00:35:08,533
+It's go time.
 
 495
-00:42:32,424 --> 00:42:33,825
-<font face="Comic Sans MS"><i>You hit something...</i></font>
+00:35:09,367 --> 00:35:10,569
+ZHI: Yeehaw.
 
 496
-00:42:50,776 --> 00:42:51,877
-<font face="Comic Sans MS"><i>What is it?</i></font>
+00:35:16,075 --> 00:35:18,310
+Violet will remain here
+and guard the bridge.
 
 497
-00:42:53,979 --> 00:42:55,080
-<font face="Comic Sans MS"><i>I don't know.</i></font>
+00:35:18,343 --> 00:35:21,513
+Zhi and I will monitor
+you all from the subdeck.
 
 498
-00:43:02,854 --> 00:43:04,423
-<font face="Comic Sans MS"><i>What's going on, guys?</i></font>
+00:35:21,546 --> 00:35:24,349
+Cobalt's atmosphere is roughly
+analogous to their ships,
 
 499
-00:43:14,499 --> 00:43:16,068
-<font face="Comic Sans MS"><i>Some kind of camouflage.</i></font>
+00:35:24,382 --> 00:35:26,919
+meaning we can breathe here,
+but it's low on O2,
 
 500
-00:43:23,141 --> 00:43:25,210
-<font face="Comic Sans MS">Alexi?</font>
+00:35:26,953 --> 00:35:30,388
+so you better pace yourselves.
+But not too slow.
 
 501
-00:43:25,244 --> 00:43:26,345
-<font face="Comic Sans MS"><i>Zhi?</i></font>
+00:35:30,422 --> 00:35:31,958
+If you're not back in 12 hours,
 
 502
-00:43:27,412 --> 00:43:28,847
-<font face="Comic Sans MS"><i>Go again, Zhi.</i></font>
+00:35:31,991 --> 00:35:33,693
+London will be wiped
+off the map.
 
 503
-00:43:28,880 --> 00:43:29,948
-<font face="Comic Sans MS">What's up?</font>
+00:35:33,726 --> 00:35:35,494
+So, no pressure.
 
 504
-00:43:29,982 --> 00:43:31,483
-<font face="Comic Sans MS"><i>- Zhi?
-- It's gone.</i></font>
+00:35:37,830 --> 00:35:38,965
+So...
 
 505
-00:43:32,251 --> 00:43:33,819
-<font face="Comic Sans MS"><i>Where'd it go?</i></font>
+00:35:40,700 --> 00:35:41,968
+no pressure.
 
 506
-00:43:33,852 --> 00:43:35,354
-<font face="Comic Sans MS"><i>What d'you mean
-it's gone?</i></font>
+00:35:46,706 --> 00:35:48,507
+(TRENT SPEAKING ALIEN)
 
 507
-00:43:35,387 --> 00:43:37,322
-<font face="Comic Sans MS"><i>It's still alive.</i></font>
+00:35:53,012 --> 00:35:54,847
+Guess we're really
+doing this, huh?
 
 508
-00:43:37,356 --> 00:43:38,490
-<font face="Comic Sans MS"><i>Go back to backs.</i></font>
+00:35:55,815 --> 00:35:57,817
+Death or glory, Corporal.
 
 509
-00:43:38,991 --> 00:43:40,392
-<font face="Comic Sans MS"><i>Stay in formation.</i></font>
+00:35:59,518 --> 00:36:00,853
+See you soon, Zhi.
 
 510
-00:43:45,163 --> 00:43:46,231
-<font face="Comic Sans MS"><i>We're cut off.</i></font>
+00:36:08,728 --> 00:36:11,463
+(EXHALES) Please, I insist.
 
 511
-00:43:46,265 --> 00:43:47,799
-<font face="Comic Sans MS"><i>No visual, no comm.</i></font>
+00:36:17,904 --> 00:36:19,604
+(HIGH-PITCHED RINGING)
 
 512
-00:43:47,833 --> 00:43:48,767
-<font face="Comic Sans MS"><i>What, everything?</i></font>
+00:36:44,429 --> 00:36:45,564
+ZHI: All clear.
 
 513
-00:43:48,800 --> 00:43:51,003
-<font face="Comic Sans MS"><i>Did you hear that?</i></font>
+00:36:54,073 --> 00:36:56,142
+OWENS: <i>How's our signal, Zhi?</i>
 
 514
-00:43:56,074 --> 00:43:58,010
-<font face="Comic Sans MS"><i>Alexi!</i></font>
+00:36:56,175 --> 00:36:57,944
+Loud and clear, Alpha Team.
 
 515
-00:44:01,146 --> 00:44:03,048
-<font face="Comic Sans MS"><i>- Owens!
-- Take the shot!</i></font>
+00:37:00,046 --> 00:37:01,613
+ALEXI: <i>Still no signs of life.</i>
 
 516
-00:44:13,025 --> 00:44:14,226
-<font face="Comic Sans MS"><i>I'm all right. I'm okay.</i></font>
+00:37:01,647 --> 00:37:03,683
+Music to my ears.
 
 517
-00:44:14,259 --> 00:44:15,394
-<font face="Comic Sans MS"><i>Look out!</i></font>
+00:37:12,925 --> 00:37:14,359
+Pretty trippy.
 
 518
-00:44:21,933 --> 00:44:23,302
-<font face="Comic Sans MS"><i>What the...</i></font>
+00:37:16,028 --> 00:37:17,930
+But not entirely unpleasant.
 
 519
-00:44:24,870 --> 00:44:26,471
-<font face="Comic Sans MS"><i>It can't see.</i></font>
+00:37:17,964 --> 00:37:19,397
+Keep the comms clear.
 
 520
-00:44:39,017 --> 00:44:41,420
-<font face="Comic Sans MS"><i>You see that? D'you see
-what they are now?</i></font>
+00:37:34,613 --> 00:37:35,781
+(TRENT SPEAKING ALIEN)
 
 521
-00:44:42,454 --> 00:44:43,455
-<font face="Comic Sans MS"><i>Bloody shells.</i></font>
+00:37:49,662 --> 00:37:51,563
+(ECHOING YELL)
 
 522
-00:44:46,892 --> 00:44:48,093
-<font face="Comic Sans MS"><i>Rose!</i></font>
+00:38:04,977 --> 00:38:06,045
+What is it?
 
 523
-00:44:49,227 --> 00:44:50,495
-<font face="Comic Sans MS"><i>Incoming!</i></font>
+00:38:08,247 --> 00:38:10,016
+(WEAPON POWERS UP)
 
 524
-00:45:03,975 --> 00:45:05,410
-<font face="Comic Sans MS"><i>Go get Rose! I'll cover you!</i></font>
+00:38:14,486 --> 00:38:15,553
+(WEAPON POWERS DOWN)
 
 525
-00:45:33,138 --> 00:45:34,139
-<font face="Comic Sans MS"><i>Ha!</i></font>
+00:38:18,157 --> 00:38:20,026
+Just a healthy fear of the dark.
 
 526
-00:45:45,651 --> 00:45:48,120
-<font face="Comic Sans MS"><i>Shit.</i></font>
+00:38:20,993 --> 00:38:22,494
+(SUSPENSEFUL MUSIC PLAYING)
 
 527
-00:45:48,153 --> 00:45:50,956
-<font face="Comic Sans MS"><i>Could use that gift
-of yours right about now.</i></font>
+00:38:40,279 --> 00:38:42,982
+LEON: How can this entire
+place be empty?
 
 528
-00:45:53,492 --> 00:45:55,327
-<font face="Comic Sans MS"><i>Shit, something's wrong.</i></font>
+00:38:43,015 --> 00:38:44,150
+ALEXI: Maybe they left.
 
 529
-00:45:55,360 --> 00:45:57,663
-<font face="Comic Sans MS"><i>Well, that's just terrific.</i></font>
+00:38:44,183 --> 00:38:46,018
+ROSE: Then why is
+the Armada still here?
 
 530
-00:45:59,665 --> 00:46:02,067
-<font face="Comic Sans MS"><i>Oh, you gotta be kidding me!</i></font>
+00:38:46,052 --> 00:38:47,920
+Perhaps you damaged it
+more than we thought?
 
 531
-00:46:18,283 --> 00:46:19,451
-<font face="Comic Sans MS"><i>Alexi, wait!</i></font>
+00:38:47,954 --> 00:38:50,610
+Well, if that's the case, then how
+the hell are we supposed to get home?
 
 532
-00:46:36,702 --> 00:46:38,203
-<font face="Comic Sans MS"><i>Alexi!</i></font>
+00:38:50,622 --> 00:38:52,578
+OWENS: How many times
+do I have to remind everyone?
 
 533
-00:47:21,647 --> 00:47:23,448
-<font face="Comic Sans MS"><i>Get up!</i></font>
+00:38:52,590 --> 00:38:54,492
+We're on a goddamn
+stealth mission, here.
 
 534
-00:47:26,318 --> 00:47:29,421
-<font face="Comic Sans MS"><i>Alexi! Hold on! Hold on!</i></font>
+00:38:54,526 --> 00:38:56,095
+So shut your...
+(SCREECHING)
 
 535
-00:47:29,454 --> 00:47:30,723
-<font face="Comic Sans MS"><i>My leg...</i></font>
+00:39:05,237 --> 00:39:06,571
+LEON: Free to engage?
 
 536
-00:47:31,724 --> 00:47:32,792
-<font face="Comic Sans MS"><i>Okay, just breathe.</i></font>
+00:39:10,608 --> 00:39:12,812
+(WHISPERING) Anything moves...
+burn it.
 
 537
-00:47:32,825 --> 00:47:35,728
-<font face="Comic Sans MS"><i>- Son of a bitch.
-- Come on. Trent will carry you.</i></font>
+00:39:12,845 --> 00:39:14,780
+So much for
+your stealth mission.
 
 538
-00:47:35,761 --> 00:47:37,697
-<font face="Comic Sans MS"><i>We're gonna pick you up, okay?</i></font>
+00:39:21,153 --> 00:39:22,554
+And what if...
 
 539
-00:47:37,730 --> 00:47:39,531
-<font face="Comic Sans MS"><i>Alexi, come on.
-Now, you've got this.</i></font>
+00:39:23,990 --> 00:39:25,257
+nothing's moving?
 
 540
-00:47:40,666 --> 00:47:43,468
-<font face="Comic Sans MS"><i>Tell Zhi I'll be
-waiting for him.</i></font>
+00:39:33,265 --> 00:39:34,900
+No rush.
 
 541
-00:47:44,603 --> 00:47:46,137
-<font face="Comic Sans MS"><i>- Wha...
-- We will.</i></font>
+00:39:34,934 --> 00:39:36,102
+Just the end of the world.
 
 542
-00:47:46,171 --> 00:47:47,339
-<font face="Comic Sans MS"><i>We gotta go.</i></font>
+00:39:36,135 --> 00:39:37,203
+(GUTTURAL BREATHING)
 
 543
-00:47:47,372 --> 00:47:49,709
-<font face="Comic Sans MS"><i>- No! Owens, we're not leaving her here.
-- We gotta go.</i></font>
+00:39:37,236 --> 00:39:38,971
+(DIGITAL BEEPING)
 
 544
-00:47:49,742 --> 00:47:53,245
-<font face="Comic Sans MS"><i>- We're not leaving her here.
-- You don't get to make that decision.</i></font>
+00:39:41,340 --> 00:39:43,175
+Nav points to that cavern.
 
 545
-00:47:54,847 --> 00:47:56,214
-<font face="Comic Sans MS"><i>Please.</i></font>
+00:39:43,209 --> 00:39:44,910
+Another three clicks
+to the Armada.
 
 546
-00:47:56,816 --> 00:47:58,083
-<font face="Comic Sans MS"><i>Go.</i></font>
+00:39:45,711 --> 00:39:46,712
+All right.
 
 547
-00:48:08,493 --> 00:48:10,161
-<font face="Comic Sans MS"><i>Alexi, I'm sorry.</i></font>
+00:39:47,079 --> 00:39:48,147
+Let's go.
 
 548
-00:48:10,195 --> 00:48:11,429
-<font face="Comic Sans MS"><i>You're worth it.</i></font>
+00:39:49,348 --> 00:39:50,548
+Watch your backs.
 
 549
-00:48:13,733 --> 00:48:14,734
-<font face="Comic Sans MS"><i>Go on.</i></font>
+00:39:54,586 --> 00:39:55,721
+(WATER DRIPPING)
 
 550
-00:48:15,835 --> 00:48:17,035
-<font face="Comic Sans MS"><i>Go for it.</i></font>
+00:40:07,867 --> 00:40:09,935
+(TRENT SPEAKING ALIEN)
 
 551
-00:48:18,270 --> 00:48:19,371
-<font face="Comic Sans MS"><i>Go!</i></font>
+00:40:20,679 --> 00:40:21,814
+(RADIO BUZZING)
 
 552
-00:48:19,404 --> 00:48:22,107
-<font face="Comic Sans MS"><i>- Come on, Rose. Go! Let's move! Move it!
-- Go!</i></font>
+00:40:21,847 --> 00:40:22,882
+How's our signal?
 
 553
-00:48:26,311 --> 00:48:27,379
-<font face="Comic Sans MS"><i>Move!</i></font>
+00:40:22,915 --> 00:40:25,251
+ZHI: (OVER RADIO)
+<i>Owens, there's interference.</i>
 
 554
-00:48:46,766 --> 00:48:48,466
-<font face="Comic Sans MS"><i>Take cover!</i></font>
+00:40:26,786 --> 00:40:28,721
+(SIGNAL GLITCHING)
+Damn.
 
 555
-00:48:50,602 --> 00:48:52,537
-<font face="Comic Sans MS"><i>Something's happened to her.</i></font>
+00:40:41,834 --> 00:40:43,803
+(INTENSE MUSIC)
 
 556
-00:48:54,539 --> 00:48:56,608
-<font face="Comic Sans MS"><i>Well, we don't know what
-it is yet. It could be anything.</i></font>
+00:40:52,745 --> 00:40:54,080
+(SPEAKS ALIEN)
 
 557
-00:48:58,276 --> 00:49:00,345
-<font face="Comic Sans MS"><i>What about the drone?</i></font>
+00:41:03,089 --> 00:41:04,723
+- Owens?
+- Yeah?
 
 558
-00:49:00,378 --> 00:49:03,181
-<font face="Comic Sans MS"><i>Uh, we lost our comm link
-to it in the crash.</i></font>
+00:41:04,757 --> 00:41:06,892
+ROSE: I think I know why
+this place is empty.
 
 559
-00:49:05,651 --> 00:49:09,321
-<font face="Comic Sans MS"><i>But, I should be able
-to reboot it from the launch bay.</i></font>
+00:41:11,097 --> 00:41:12,331
+It's a tomb.
 
 560
-00:49:09,354 --> 00:49:10,555
-<font face="Comic Sans MS"><i>Well, get on it.</i></font>
+00:41:14,433 --> 00:41:15,634
+Shit.
 
 561
-00:49:31,610 --> 00:49:33,713
-<font face="Comic Sans MS"><i>Yeah.
-Yeah, I'm okay.</i></font>
+00:41:18,838 --> 00:41:19,839
+(RATTLING)
 
 562
-00:49:33,746 --> 00:49:35,347
-<font face="Comic Sans MS"><i>Thanks to you.
-You good?</i></font>
+00:41:26,145 --> 00:41:28,147
+(DIGITAL BEEPING)
 
 563
-00:49:36,481 --> 00:49:39,517
-<font face="Comic Sans MS"><i>Let's go.
-Okay, come on.</i></font>
+00:41:31,784 --> 00:41:33,085
+(RAPID BEEPING)
 
 564
-00:49:43,188 --> 00:49:44,389
-<font face="Comic Sans MS"><i>Care to explain yourselves?</i></font>
+00:41:33,119 --> 00:41:35,387
+I've got movement.
+North wall. Two signatures.
 
 565
-00:49:44,422 --> 00:49:45,557
-<font face="Comic Sans MS"><i>You wanna do this right now?</i></font>
+00:41:35,421 --> 00:41:36,856
+(TRENT SPEAKS ALIEN)
+What?
 
 566
-00:49:45,590 --> 00:49:47,325
-<font face="Comic Sans MS"><i>I have one dead solider,</i></font>
+00:41:36,889 --> 00:41:38,924
+What are you talking about?
 
 567
-00:49:47,359 --> 00:49:49,929
-<font face="Comic Sans MS"><i>a second who disobeyed
-a direct order,</i></font>
+00:41:39,892 --> 00:41:41,193
+Trent. Trent, no!
 
 568
-00:49:49,962 --> 00:49:54,934
-<font face="Comic Sans MS"><i>and a third who's either unable or
-unwilling to do her goddamn job.</i></font>
+00:41:41,227 --> 00:41:42,928
+Trent, wait!
 
 569
-00:49:57,335 --> 00:49:58,503
-<font face="Comic Sans MS"><i>Hey, shut it shell!</i></font>
+00:41:42,962 --> 00:41:44,751
+- Stay in formation!
+- Where the hell is he going?
 
 570
-00:49:58,536 --> 00:49:59,839
-<font face="Comic Sans MS"><i>You're the one who ran off!</i></font>
+00:41:44,763 --> 00:41:47,199
+- I don't know.
+- Well, what did he just say to you?
 
 571
-00:49:59,872 --> 00:50:01,339
-<font face="Comic Sans MS"><i>Hey, he was trying
-to protect us.</i></font>
+00:41:47,233 --> 00:41:48,734
+These aren't Harvesters.
 
 572
-00:50:01,373 --> 00:50:02,908
-<font face="Comic Sans MS"><i>Yeah, no thanks to you!</i></font>
+00:41:49,835 --> 00:41:51,737
+(ALARM BEEPING)
 
 573
-00:50:02,942 --> 00:50:06,244
-<font face="Comic Sans MS"><i>You had one job
-and once again you froze up.</i></font>
+00:41:51,770 --> 00:41:53,139
+Two signatures. South wall!
 
 574
-00:50:06,277 --> 00:50:07,379
-<font face="Comic Sans MS"><i>And a good soldier died.</i></font>
+00:41:58,444 --> 00:42:00,713
+Whatever they are,
+they're surrounding us.
 
 575
-00:50:09,347 --> 00:50:10,750
-<font face="Comic Sans MS"><i>She doesn't know, does she?</i></font>
+00:42:02,715 --> 00:42:05,017
+Zhi, talk to me?
 
 576
-00:50:14,519 --> 00:50:15,520
-<font face="Comic Sans MS"><i>Know what?</i></font>
+00:42:05,050 --> 00:42:07,686
+(SIGNAL DISTORTING)
+Zhi! Damn.
 
 577
-00:50:21,226 --> 00:50:24,930
-<font face="Comic Sans MS"><i>His sister was on that ship
-you destroyed.</i></font>
+00:42:08,220 --> 00:42:09,421
+(RUSTLING)
 
 578
-00:50:27,867 --> 00:50:29,835
-<font face="Comic Sans MS"><i>Now I'm gonna
-ask you this only once.</i></font>
+00:42:10,890 --> 00:42:12,057
+(CREATURES SNARLING)
 
 579
-00:50:32,838 --> 00:50:36,174
-<font face="Comic Sans MS"><i>Can you do your job or not?</i></font>
+00:42:13,259 --> 00:42:14,693
+Wait! You could hit Trent.
 
 580
-00:50:44,884 --> 00:50:45,885
-<font face="Comic Sans MS"><i>Shit.</i></font>
+00:42:14,727 --> 00:42:16,527
+He should've stayed
+in formation, God damn it!
 
 581
-00:50:49,889 --> 00:50:53,224
-<font face="Comic Sans MS"><i>When was the last time you really used your powers?</i></font>
+00:42:18,230 --> 00:42:19,298
+Shit.
 
 582
-00:50:53,258 --> 00:50:54,259
-<font face="Comic Sans MS"><i>A month?</i></font>
+00:42:19,832 --> 00:42:20,833
+Move!
 
 583
-00:50:55,527 --> 00:50:56,528
-<font face="Comic Sans MS"><i>A year?</i></font>
+00:42:21,767 --> 00:42:23,969
+(WHISPERING) Christ's sake.
 
 584
-00:50:59,364 --> 00:51:00,465
-<font face="Comic Sans MS"><i>The Armada?</i></font>
+00:42:24,003 --> 00:42:25,771
+(WHISPERING) I'm gonna
+kill you, Trent.
 
 585
-00:51:01,867 --> 00:51:04,770
-<font face="Comic Sans MS"><i>Ever since we've been here,
-things have just been off.</i></font>
+00:42:35,014 --> 00:42:36,448
+(RUSTLING)
 
 586
-00:51:04,804 --> 00:51:06,304
-<font face="Comic Sans MS"><i>Off? What do you mean off?</i></font>
+00:42:45,424 --> 00:42:46,825
+You hit something...
 
 587
-00:51:09,809 --> 00:51:13,913
-<font face="Comic Sans MS"><i>- Christ. If you can't do this...
-- I know what's at stake, Owens. Okay?</i></font>
+00:43:03,776 --> 00:43:04,877
+What is it?
 
 588
-00:51:15,681 --> 00:51:17,482
-<font face="Comic Sans MS"><i>And I'm not afraid
-to die for it.</i></font>
+00:43:06,979 --> 00:43:08,080
+I don't know.
 
 589
-00:51:22,353 --> 00:51:23,354
-<font face="Comic Sans MS"><i>This...</i></font>
+00:43:08,113 --> 00:43:10,182
+(ALL BREATHING HEAVILY)
 
 590
-00:51:25,523 --> 00:51:26,624
-<font face="Comic Sans MS"><i>gift...</i></font>
+00:43:14,320 --> 00:43:15,821
+(BEEPING)
 
 591
-00:51:28,426 --> 00:51:30,395
-<font face="Comic Sans MS"><i>has been killing me
-my whole life.</i></font>
+00:43:15,854 --> 00:43:17,423
+What's going on, guys?
 
 592
-00:51:31,529 --> 00:51:33,398
-<font face="Comic Sans MS"><i>Figured I got one last shot.</i></font>
+00:43:27,499 --> 00:43:29,068
+Some kind of camouflage.
 
 593
-00:51:37,036 --> 00:51:38,536
-<font face="Comic Sans MS"><i>So let's make it count.</i></font>
+00:43:36,141 --> 00:43:38,210
+ZHI: (DISTORTED) <i>Alexi?</i>
 
 594
-00:52:49,108 --> 00:52:50,876
-<font face="Comic Sans MS"><i>Elbows down and in.</i></font>
+00:43:38,244 --> 00:43:39,345
+Zhi?
 
 595
-00:52:58,651 --> 00:53:00,853
-<font face="Comic Sans MS"><i>I was never much of
-a fan of these, either.</i></font>
+00:43:40,412 --> 00:43:41,847
+Go again, Zhi.
 
 596
-00:53:02,121 --> 00:53:03,856
-<font face="Comic Sans MS"><i>No choice without your cure.</i></font>
+00:43:41,880 --> 00:43:42,960
+ZHI: (DISTORTED) <i>What's up?</i>
 
 597
-00:53:04,757 --> 00:53:05,991
-<font face="Comic Sans MS"><i>We'll see.</i></font>
+00:43:42,982 --> 00:43:44,483
+ALEXI: Zhi?
+It's gone.
 
 598
-00:53:06,025 --> 00:53:07,760
-<font face="Comic Sans MS"><i>I've injected half into Huana.</i></font>
+00:43:45,251 --> 00:43:46,819
+Where'd it go?
 
 599
-00:53:08,727 --> 00:53:10,395
-<font face="Comic Sans MS"><i>Now all we can do is wait.</i></font>
+00:43:46,852 --> 00:43:48,354
+LEON: What do you mean
+it's gone?
 
 600
-00:53:12,631 --> 00:53:13,632
-<font face="Comic Sans MS"><i>You try.</i></font>
+00:43:48,387 --> 00:43:50,322
+It's still alive. (PANTING)
 
 601
-00:53:34,687 --> 00:53:35,855
-<font face="Comic Sans MS"><i>Grant!</i></font>
+00:43:50,356 --> 00:43:51,490
+Go back to backs.
 
 602
-00:53:37,522 --> 00:53:38,523
-<font face="Comic Sans MS"><i>Grant!</i></font>
+00:43:51,991 --> 00:43:53,392
+Stay in formation.
 
 603
-00:53:44,562 --> 00:53:45,698
-<font face="Comic Sans MS"><i>Get back!</i></font>
+00:43:55,494 --> 00:43:57,129
+(DIGITAL BEEPING)
 
 604
-00:53:46,799 --> 00:53:49,134
-<font face="Comic Sans MS"><i>Hey! Over here!</i></font>
+00:43:58,163 --> 00:43:59,231
+We're cut off.
 
 605
-00:53:49,869 --> 00:53:50,903
-<font face="Comic Sans MS"><i>Eat this!</i></font>
+00:43:59,265 --> 00:44:00,799
+No visual, no comm.
 
 606
-00:53:52,838 --> 00:53:54,572
-<font face="Comic Sans MS"><i>Grant, no!</i></font>
+00:44:00,833 --> 00:44:01,767
+What, everything?
 
 607
-00:54:00,779 --> 00:54:02,614
-<font face="Comic Sans MS"><i>Doc! Come and get it!</i></font>
+00:44:01,800 --> 00:44:04,003
+(CREATURE HOWLS)
+ALEXI: Did you hear that?
 
 608
-00:54:11,190 --> 00:54:13,591
-<font face="Comic Sans MS"><i>Shit. I need a stronger dose.</i></font>
+00:44:04,536 --> 00:44:06,171
+(RATTLING)
 
 609
-00:54:20,866 --> 00:54:24,535
-<font face="Comic Sans MS"><i>Grant! No, no, no.
-Grant, Grant, Grant. Please, please.</i></font>
+00:44:09,074 --> 00:44:11,010
+(ALEXI GRUNTS)
+Alexi!
 
 610
-00:54:30,643 --> 00:54:33,746
-<font face="Comic Sans MS"><i>Sun's on my face, ain't it?</i></font>
+00:44:11,043 --> 00:44:13,479
+(GROWLING)
+(ALEXI GRUNTING)
 
 611
-00:54:46,524 --> 00:54:47,993
-<font face="Comic Sans MS"><i>Let him go.</i></font>
+00:44:14,146 --> 00:44:16,048
+- Owens!
+- Take the shot!
 
 612
-00:54:51,997 --> 00:54:53,933
-<font face="Comic Sans MS"><i>We have to move. Now.</i></font>
+00:44:18,584 --> 00:44:20,853
+(GUN FIRING)
+(GROANS)
 
 613
-00:54:55,566 --> 00:54:56,601
-<font face="Comic Sans MS"><i>Get under.</i></font>
+00:44:20,886 --> 00:44:22,187
+(SNARLING)
 
 614
-00:55:06,679 --> 00:55:07,813
-<font face="Comic Sans MS"><i>There she is.</i></font>
+00:44:26,025 --> 00:44:27,226
+I'm all right. I'm okay.
 
 615
-00:55:08,781 --> 00:55:10,182
-<font face="Comic Sans MS"><i>The Armada Vessel.</i></font>
+00:44:27,259 --> 00:44:28,394
+ALEXI: Look out!
 
 616
-00:55:36,574 --> 00:55:37,810
-<font face="Comic Sans MS"><i>Hey, where do you
-think you're going?</i></font>
+00:44:31,230 --> 00:44:32,831
+(SNARLING)
 
 617
-00:55:38,911 --> 00:55:40,145
-<font face="Comic Sans MS"><i>Just give me a minute.</i></font>
+00:44:34,933 --> 00:44:36,302
+ROSE: What the...
 
 618
-00:55:42,781 --> 00:55:43,849
-<font face="Comic Sans MS"><i>Cover her.</i></font>
+00:44:37,870 --> 00:44:39,471
+It can't see.
 
 619
-00:55:50,856 --> 00:55:51,890
-<font face="Comic Sans MS"><i>What is it?</i></font>
+00:44:44,576 --> 00:44:46,812
+(CREATURE SCREECHING)
 
 620
-00:55:56,829 --> 00:55:57,863
-<font face="Comic Sans MS"><i>Looks human.</i></font>
+00:44:52,017 --> 00:44:54,420
+You see that? Do you see
+what they are now?
 
 621
-00:56:00,165 --> 00:56:01,767
-<font face="Comic Sans MS"><i>Maybe from one of our probes.</i></font>
+00:44:55,454 --> 00:44:56,455
+Bloody shells.
 
 622
-00:56:03,568 --> 00:56:04,837
-<font face="Comic Sans MS"><i>Scan it back at the ship.</i></font>
+00:44:58,090 --> 00:44:59,858
+(GROWLS)
+(ROSE AND ALEXI SCREAM)
 
 623
-00:56:07,072 --> 00:56:09,808
-<font face="Comic Sans MS"><i>- Leon, I... I... I can't.
-- Just forget it. All right?</i></font>
+00:44:59,892 --> 00:45:01,093
+LEON: Rose!
 
 624
-00:56:12,778 --> 00:56:13,779
-<font face="Comic Sans MS"><i>I can't.</i></font>
+00:45:01,126 --> 00:45:02,194
+(CREATURES GROWLING)
 
 625
-00:56:25,257 --> 00:56:29,094
-<font face="Comic Sans MS"><i>Look, I wish I could explain
-why it happened.</i></font>
+00:45:02,227 --> 00:45:03,495
+OWENS: Incoming!
 
 626
-00:56:31,663 --> 00:56:32,664
-<font face="Comic Sans MS"><i>But...</i></font>
+00:45:12,104 --> 00:45:13,272
+(WEAPON POWERING UP)
 
 627
-00:56:36,101 --> 00:56:37,602
-<font face="Comic Sans MS"><i>I meant what I said
-about your sister.</i></font>
+00:45:13,305 --> 00:45:14,606
+(GRUNTS)
+(GROANS)
 
 628
-00:56:50,883 --> 00:56:51,917
-<font face="Comic Sans MS"><i>Incoming!</i></font>
+00:45:16,975 --> 00:45:18,410
+Go get Rose! I'll cover you!
 
 629
-00:57:02,694 --> 00:57:03,896
-<font face="Comic Sans MS"><i>Shit.</i></font>
+00:45:20,012 --> 00:45:21,013
+(GRUNTS)
 
 630
-00:57:09,334 --> 00:57:11,103
-<font face="Comic Sans MS"><i>Run to that light shaft!</i></font>
+00:45:22,314 --> 00:45:23,315
+(GRUNTS)
 
 631
-00:57:11,136 --> 00:57:12,171
-<font face="Comic Sans MS"><i>- Run, run.
-- Now, run!</i></font>
+00:45:25,284 --> 00:45:27,052
+(SNARLING)
 
 632
-00:57:18,110 --> 00:57:19,778
-<font face="Comic Sans MS"><i>Get into the light.
-Don't move.</i></font>
+00:45:27,086 --> 00:45:28,220
+(YELLS)
 
 633
-00:57:19,812 --> 00:57:20,846
-<font face="Comic Sans MS"><i>Trust me.</i></font>
+00:45:33,192 --> 00:45:34,193
+(YELLS)
 
 634
-00:57:20,879 --> 00:57:21,914
-<font face="Comic Sans MS"><i>Hurry, Trent!</i></font>
+00:45:41,701 --> 00:45:43,035
+(CLICKING)
 
 635
-00:57:30,189 --> 00:57:34,259
-<font face="Comic Sans MS"><i>They can't see through the light...
-I think.</i></font>
+00:45:46,138 --> 00:45:47,139
+Ha!
 
 636
-00:57:35,227 --> 00:57:37,029
-<font face="Comic Sans MS"><i>You think or you know?</i></font>
+00:45:48,140 --> 00:45:49,475
+(GRUNTING)
+(BLADES SWISHING)
 
 637
-00:57:37,062 --> 00:57:38,197
-<font face="Comic Sans MS"><i>I think.</i></font>
+00:45:51,610 --> 00:45:53,479
+(BOTH GRUNTING)
 
 638
-00:57:49,875 --> 00:57:53,145
-<font face="Comic Sans MS"><i>It's working.
-It's working.</i></font>
+00:45:58,651 --> 00:46:01,120
+(CLICKING)
+Shit.
 
 639
-00:58:06,325 --> 00:58:08,694
-<font face="Comic Sans MS"><i>Son of a bitch.
-It must be sundown.</i></font>
+00:46:01,153 --> 00:46:03,956
+Could use that gift
+of yours right about now.
 
 640
-00:58:09,394 --> 00:58:11,196
-<font face="Comic Sans MS"><i>Well, that was short-lived.</i></font>
+00:46:05,090 --> 00:46:06,458
+(YELLS)
 
 641
-00:58:16,802 --> 00:58:18,003
-<font face="Comic Sans MS"><i>Lock and load, Corporal.</i></font>
+00:46:06,492 --> 00:46:08,327
+Shit, something's wrong.
 
 642
-00:58:24,443 --> 00:58:26,879
-<font face="Comic Sans MS"><i>Oh, shit. Oh, shit.</i></font>
+00:46:08,360 --> 00:46:10,663
+Well, that's just terrific.
 
 643
-00:58:34,987 --> 00:58:35,988
-<font face="Comic Sans MS"><i>Our eye in the sky.</i></font>
+00:46:10,697 --> 00:46:12,632
+(GROWLING)
+(CRUNCHING)
 
 644
-00:58:36,722 --> 00:58:39,992
-<font face="Comic Sans MS"><i>Let's go!
-Run for it! Let's go.</i></font>
+00:46:12,665 --> 00:46:15,067
+Oh, you gotta be kidding me!
 
 645
-00:58:40,025 --> 00:58:41,293
-<font face="Comic Sans MS"><i>What are those things?</i></font>
+00:46:16,335 --> 00:46:18,404
+(KNIFE SWISHING)
+(GRUNTS)
 
 646
-00:58:41,927 --> 00:58:43,162
-<font face="Comic Sans MS"><i>Pilots?</i></font>
+00:46:18,437 --> 00:46:19,938
+(SCREECHES)
 
 647
-00:58:44,496 --> 00:58:46,198
-<font face="Comic Sans MS"><i>Maybe a new species.</i></font>
+00:46:28,247 --> 00:46:29,515
+(GRUNTS)
 
 648
-00:58:47,232 --> 00:58:49,001
-<font face="Comic Sans MS"><i>A mutation.</i></font>
+00:46:31,283 --> 00:46:32,451
+Alexi, wait!
 
 649
-00:58:52,804 --> 00:58:54,006
-<font face="Comic Sans MS"><i>Wipe them out.</i></font>
+00:46:33,419 --> 00:46:34,620
+(ALEXI YELLS INDISTINCTLY)
 
 650
-00:58:56,775 --> 00:58:58,076
-<font face="Comic Sans MS"><i>That's for Alexi.</i></font>
+00:46:36,288 --> 00:46:37,990
+(YELLING)
 
 651
-00:59:01,480 --> 00:59:02,714
-<font face="Comic Sans MS"><i>Open the door.</i></font>
+00:46:42,394 --> 00:46:44,062
+(CREATURE GRUMBLES)
 
 652
-00:59:04,383 --> 00:59:07,686
-<font face="Comic Sans MS"><i>Go. Go. Go. Go!</i></font>
+00:46:49,702 --> 00:46:51,203
+ROSE: Alexi!
 
 653
-00:59:08,086 --> 00:59:09,087
-<font face="Comic Sans MS"><i>Go.</i></font>
+00:46:51,704 --> 00:46:53,172
+(GRUNTS)
 
 654
-00:59:23,335 --> 00:59:24,336
-<font face="Comic Sans MS"><i>Careful, Trent.</i></font>
+00:46:57,109 --> 00:46:58,678
+(YELLING)
 
 655
-00:59:26,305 --> 00:59:29,341
-<font face="Comic Sans MS"><i>Looks like nobody's home.</i></font>
+00:47:03,382 --> 00:47:04,651
+(ROSE YELLS)
 
 656
-00:59:29,374 --> 00:59:34,379
-<font face="Comic Sans MS"><i>If all the Pilots turned rabid, then
-what the hell happened to the Harvesters?</i></font>
+00:47:07,453 --> 00:47:09,388
+(WEAPON POWERS DOWN)
 
 657
-00:59:34,413 --> 00:59:36,114
-<font face="Comic Sans MS"><i>You think they got sick, too?</i></font>
+00:47:10,589 --> 00:47:11,691
+(PANTING)
 
 658
-00:59:36,148 --> 00:59:37,216
-<font face="Comic Sans MS"><i>This way. Let's go.</i></font>
+00:47:12,759 --> 00:47:14,293
+(WHIMPERING)
 
 659
-00:59:53,131 --> 00:59:54,166
-<font face="Comic Sans MS"><i>There it is.</i></font>
+00:47:17,162 --> 00:47:19,264
+(YELLS AND GROWLS)
 
 660
-01:00:03,508 --> 01:00:05,010
-<font face="Comic Sans MS"><i>Outstanding.</i></font>
+00:47:22,401 --> 00:47:23,670
+(SPEAKING ALIEN)
 
 661
-01:00:23,595 --> 01:00:24,796
-<font face="Comic Sans MS"><i>You're up.</i></font>
+00:47:27,606 --> 00:47:29,074
+(GROANING)
 
 662
-01:00:34,439 --> 01:00:35,874
-<font face="Comic Sans MS"><i>Hey, big ugly.</i></font>
+00:47:34,647 --> 00:47:36,448
+LEON: Get up!
+(GUN FIRING IN DISTANCE)
 
 663
-01:00:37,009 --> 01:00:38,010
-<font face="Comic Sans MS"><i>If I'm...</i></font>
+00:47:39,318 --> 00:47:42,421
+(GROANING)
+Alexi! Hold on! Hold on!
 
 664
-01:00:40,312 --> 01:00:43,882
-<font face="Comic Sans MS"><i>If I'm gone,
-promise me you'll finish this.</i></font>
+00:47:42,454 --> 00:47:43,723
+ALEXI: My leg...
 
 665
-01:00:48,854 --> 01:00:49,855
-<font face="Comic Sans MS"><i>No matter what.</i></font>
+00:47:44,724 --> 00:47:45,792
+Okay, just breathe.
 
 666
-01:02:07,099 --> 01:02:08,233
-<font face="Comic Sans MS"><i>What the hell is going on?</i></font>
+00:47:45,825 --> 00:47:48,728
+- Son of a bitch.
+- Come on. Trent will carry you.
 
 667
-01:02:16,709 --> 01:02:18,009
-<font face="Comic Sans MS"><i>Rose?</i></font>
+00:47:48,761 --> 00:47:50,697
+We're gonna pick you up, okay?
 
 668
-01:02:19,077 --> 01:02:20,245
-<font face="Comic Sans MS"><i>You all right?</i></font>
+00:47:50,730 --> 00:47:52,531
+Alexi, come on.
+Now, you've got this.
 
 669
-01:02:53,345 --> 01:02:55,147
-<font face="Comic Sans MS"><i>What the hell happened to her?</i></font>
+00:47:52,564 --> 00:47:53,633
+(PANTING)
 
 670
-01:02:55,180 --> 01:02:57,349
-<font face="Comic Sans MS"><i>She went native.</i></font>
+00:47:53,666 --> 00:47:56,468
+Tell Zhi I'll be
+waiting for him.
 
 671
-01:03:28,046 --> 01:03:29,448
-<font face="Comic Sans MS"><i>Doesn't matter.</i></font>
+00:47:57,603 --> 00:47:59,137
+Wha...
+OWENS: We will.
 
 672
-01:03:29,481 --> 01:03:30,982
-<font face="Comic Sans MS"><i>The core drive is down there.</i></font>
+00:47:59,171 --> 00:48:00,339
+We gotta go.
 
 673
-01:03:34,553 --> 01:03:38,323
-<font face="Comic Sans MS"><i>Relax, Trent. Finding the drive gives
-us the best chance of finding Rose.</i></font>
+00:48:00,372 --> 00:48:02,709
+- No! Owens, we're not leaving her here.
+- We gotta go.
 
 674
-01:03:42,093 --> 01:03:44,996
-<font face="Comic Sans MS"><i>And what if she tries to
-stop us again, huh?</i></font>
+00:48:02,742 --> 00:48:06,245
+- We're not leaving her here.
+- You don't get to make that decision.
 
 675
-01:03:45,030 --> 01:03:47,132
-<font face="Comic Sans MS"><i>You made a promise. Remember?</i></font>
+00:48:06,278 --> 00:48:07,814
+(BREATHING HEAVILY)
 
 676
-01:04:03,716 --> 01:04:04,717
-<font face="Comic Sans MS"><i>Go get her.</i></font>
+00:48:07,847 --> 00:48:09,214
+(WHISPERING) Please.
 
 677
-01:04:54,700 --> 01:04:56,167
-<font face="Comic Sans MS"><i>They're off the grid.</i></font>
+00:48:09,816 --> 00:48:11,083
+Go.
 
 678
-01:04:57,737 --> 01:04:59,538
-<font face="Comic Sans MS"><i>I knew we couldn't trust them.</i></font>
+00:48:21,493 --> 00:48:23,161
+(WHISPERING) Alexi, I'm sorry.
 
 679
-01:04:59,571 --> 01:05:02,307
-<font face="Comic Sans MS"><i>Well, we haven't exactly
-been forthcoming, have we?</i></font>
+00:48:23,195 --> 00:48:24,429
+You're worth it.
 
 680
-01:05:02,340 --> 01:05:03,709
-<font face="Comic Sans MS"><i>Stop. You're breaking my heart.</i></font>
+00:48:26,733 --> 00:48:27,734
+Go on.
 
 681
-01:05:03,743 --> 01:05:07,412
-<font face="Comic Sans MS"><i>I'm just saying this is their world.
-Let them do the dirty work.</i></font>
+00:48:28,835 --> 00:48:30,035
+Go for it.
 
 682
-01:05:09,281 --> 01:05:11,784
-<font face="Comic Sans MS"><i>No one's gonna get out
-of this one clean, kid.</i></font>
+00:48:31,270 --> 00:48:32,371
+Go!
 
 683
-01:08:12,464 --> 01:08:13,598
-<font face="Comic Sans MS">Rose.</font>
+00:48:32,404 --> 00:48:35,107
+OWENS: Come on, Rose. Go! Let's move! Move it!
+Go!
 
 684
-01:08:21,306 --> 01:08:22,307
-<font face="Comic Sans MS">I promise.</font>
+00:48:39,311 --> 00:48:40,379
+OWENS: Move!
+(CLICKS)
 
 685
-01:08:35,721 --> 01:08:36,722
-<font face="Comic Sans MS"><i>All this time.</i></font>
+00:48:40,412 --> 00:48:41,781
+(SNARLING NEARBY)
+(BEEPING)
 
 686
-01:08:37,990 --> 01:08:39,357
-<font face="Comic Sans MS">All the doubt.</font>
+00:48:43,181 --> 00:48:45,752
+(CREATURES SNARLING
+AND GROWLING)
 
 687
-01:08:41,426 --> 01:08:42,594
-<font face="Comic Sans MS">All the fear.</font>
+00:48:45,785 --> 00:48:47,252
+(WHIMPERING)
 
 688
-01:08:44,329 --> 01:08:45,563
-<font face="Comic Sans MS"><i>It was you.</i></font>
+00:48:54,827 --> 00:48:56,395
+(SCREECHING)
 
 689
-01:08:52,972 --> 01:08:54,874
-<font face="Comic Sans MS"><i>You know what? You're right.</i></font>
+00:48:59,766 --> 00:49:01,466
+LEON: Take cover!
 
 690
-01:08:57,575 --> 01:08:59,011
-<font face="Comic Sans MS"><i>I didn't come here
-to destroy you.</i></font>
+00:49:01,500 --> 00:49:03,569
+(ROCKS RUMBLING)
 
 691
-01:09:00,713 --> 01:09:01,714
-<font face="Comic Sans MS"><i>But I will.</i></font>
+00:49:03,602 --> 00:49:05,562
+(MONITOR BEEPING)
+Something's happened to her.
 
 692
-01:09:08,453 --> 01:09:09,454
-<font face="Comic Sans MS"><i>You okay?</i></font>
+00:49:07,539 --> 00:49:10,139
+RADFORD: Well, we don't know what
+it is yet. It could be anything.
 
 693
-01:09:11,056 --> 01:09:12,323
-<font face="Comic Sans MS"><i>Let's go.</i></font>
+00:49:11,276 --> 00:49:13,345
+What about the drone?
 
 694
-01:09:26,571 --> 01:09:27,572
-<font face="Comic Sans MS"><i>Rose?</i></font>
+00:49:13,378 --> 00:49:16,181
+Uh, we lost our comm link
+to it in the crash.
 
 695
-01:09:36,581 --> 01:09:38,751
-<font face="Comic Sans MS"><i>Holy shit.</i></font>
+00:49:18,651 --> 00:49:22,321
+(SNAPS FINGERS) But, I should be able
+to reboot it from the launch bay.
 
 696
-01:09:45,758 --> 01:09:47,059
-<font face="Comic Sans MS"><i>How did you do that?</i></font>
+00:49:22,354 --> 00:49:23,555
+Well, get on it.
 
 697
-01:09:48,761 --> 01:09:50,428
-<font face="Comic Sans MS"><i>I finally stopped
-fighting my nature.</i></font>
+00:49:27,860 --> 00:49:29,361
+(ROSE COUGHING)
 
 698
-01:09:50,461 --> 01:09:53,398
-<font face="Comic Sans MS"><i>But you're feeling
-okay now, right?</i></font>
+00:49:38,604 --> 00:49:40,272
+(TRENT SPEAKING ALIEN)
 
 699
-01:09:53,431 --> 01:09:57,703
-<font face="Comic Sans MS"><i>'Cause, you know, because, like,
-I mean, y-y-you look, uh... great.</i></font>
+00:49:44,610 --> 00:49:46,713
+(GRUNTS) Yeah.
+Yeah, I'm okay.
 
 700
-01:09:57,736 --> 01:09:58,771
-<font face="Comic Sans MS"><i>Where's the core drive?</i></font>
+00:49:46,746 --> 00:49:48,347
+Thanks to you.
+You good?
 
 701
-01:09:59,939 --> 01:10:01,073
-<font face="Comic Sans MS"><i>It's right there.</i></font>
+00:49:49,481 --> 00:49:52,517
+(WHISPERING) Let's go.
+Okay, come on.
 
 702
-01:10:04,143 --> 01:10:05,711
-<font face="Comic Sans MS"><i>You hit like a girl.</i></font>
+00:49:56,188 --> 00:49:57,389
+Care to explain yourselves?
 
 703
-01:10:08,881 --> 01:10:10,082
-<font face="Comic Sans MS"><i>You did it.</i></font>
+00:49:57,422 --> 00:49:58,557
+You wanna do this right now?
 
 704
-01:10:10,115 --> 01:10:10,983
-<font face="Comic Sans MS"><i>We did it.</i></font>
+00:49:58,590 --> 00:50:00,325
+I have one dead solider,
 
 705
-01:10:11,016 --> 01:10:13,384
-<font face="Comic Sans MS"><i>Save the group hug
-for later. Let's go!</i></font>
+00:50:00,359 --> 00:50:02,929
+a second who disobeyed
+a direct order,
 
 706
-01:10:13,418 --> 01:10:14,653
-<font face="Comic Sans MS"><i>Come on, move it.</i></font>
+00:50:02,962 --> 00:50:07,934
+and a third who's either unable or
+unwilling to do her goddamn job.
 
 707
-01:10:26,031 --> 01:10:27,032
-<font face="Comic Sans MS"><i>Cover us.</i></font>
+00:50:07,967 --> 00:50:10,302
+(TRENT SPEAKING ALIEN)
 
 708
-01:10:34,006 --> 01:10:35,473
-<font face="Comic Sans MS"><i>Time to get your hands dirty.</i></font>
+00:50:10,335 --> 00:50:11,503
+LEON: Hey, shut it shell!
 
 709
-01:10:37,142 --> 01:10:38,509
-<font face="Comic Sans MS"><i>Payback's a bitch.</i></font>
+00:50:11,536 --> 00:50:12,839
+You're the one who ran off!
 
 710
-01:10:40,779 --> 01:10:41,780
-<font face="Comic Sans MS"><i>Come on.</i></font>
+00:50:12,872 --> 00:50:14,339
+Hey, he was trying
+to protect us.
 
 711
-01:11:10,843 --> 01:11:12,477
-<font face="Comic Sans MS"><i>Wrong choice, Corporal.</i></font>
+00:50:14,373 --> 00:50:15,908
+Yeah, no thanks to you!
 
 712
-01:11:17,950 --> 01:11:19,051
-<font face="Comic Sans MS"><i>Shit.</i></font>
+00:50:15,942 --> 00:50:19,244
+You had one job
+and once again you froze up.
 
 713
-01:11:19,084 --> 01:11:20,585
-<font face="Comic Sans MS"><i>Trent! Get down!</i></font>
+00:50:19,277 --> 00:50:20,379
+And a good soldier died.
 
 714
-01:11:23,255 --> 01:11:24,123
-<font face="Comic Sans MS">He blew the hatch!</font>
+00:50:22,347 --> 00:50:23,750
+She doesn't know, does she?
 
 715
-01:11:24,156 --> 01:11:26,457
-<font face="Comic Sans MS"><i>Probably hostiles
-at his back.</i></font>
+00:50:27,519 --> 00:50:28,520
+Know what?
 
 716
-01:11:26,491 --> 01:11:27,558
-<font face="Comic Sans MS"><i>And the others?</i></font>
+00:50:34,226 --> 00:50:37,930
+His sister was on that ship
+you destroyed.
 
 717
-01:11:27,592 --> 01:11:29,962
-<font face="Comic Sans MS"><i>Well, we can only
-pray for them now.</i></font>
+00:50:40,867 --> 00:50:42,835
+Now I'm gonna
+ask you this only once.
 
 718
-01:11:29,995 --> 01:11:32,197
-<font face="Comic Sans MS"><i>But thank God
-he's got the core drive.</i></font>
+00:50:45,838 --> 00:50:49,174
+Can you do your job or not?
 
 719
-01:11:32,998 --> 01:11:34,565
-<font face="Comic Sans MS"><i>Clear his path home.</i></font>
+00:50:57,884 --> 00:50:58,885
+ROSE: Shit.
 
 720
-01:11:50,249 --> 01:11:51,482
-<font face="Comic Sans MS"><i>You knew...</i></font>
+00:51:02,889 --> 00:51:06,224
+When was the last time you really used your powers?
+(SIGHS, SNIFFLES)
 
 721
-01:12:39,865 --> 01:12:41,166
-<font face="Comic Sans MS"><i>Rose, I'm sor...</i></font>
+00:51:06,258 --> 00:51:07,259
+A month?
 
 722
-01:12:47,006 --> 01:12:48,240
-<font face="Comic Sans MS"><i>Don't even...</i></font>
+00:51:08,527 --> 00:51:09,528
+A year?
 
 723
-01:13:07,760 --> 01:13:10,829
-<font face="Comic Sans MS"><i>Grant's dead. Your serum is a bust.
-And we're completely surrounded.</i></font>
+00:51:12,364 --> 00:51:13,465
+The Armada?
 
 724
-01:13:10,863 --> 01:13:12,965
-<font face="Comic Sans MS"><i>What the hell
-are we gonna do?</i></font>
+00:51:14,867 --> 00:51:17,770
+Ever since we've been here,
+things have just been off.
 
 725
-01:13:12,998 --> 01:13:14,967
-<font face="Comic Sans MS"><i>We're gonna fight to the end.</i></font>
+00:51:17,804 --> 00:51:19,304
+Off? What do you mean off?
 
 726
-01:13:15,000 --> 01:13:16,802
-<font face="Comic Sans MS"><i>Just like Grant did.</i></font>
+00:51:22,809 --> 00:51:26,913
+- Christ. If you can't do this...
+- I know what's at stake, Owens. Okay?
 
 727
-01:13:16,835 --> 01:13:19,071
-<font face="Comic Sans MS"><i>Now let's get to Huana
-before they do.</i></font>
+00:51:28,681 --> 00:51:30,482
+And I'm not afraid
+to die for it.
 
 728
-01:13:25,844 --> 01:13:26,845
-<font face="Comic Sans MS"><i>Wait.</i></font>
+00:51:35,353 --> 00:51:36,354
+This...
 
 729
-01:13:27,713 --> 01:13:28,814
-<font face="Comic Sans MS"><i>All right, go.</i></font>
+00:51:38,523 --> 00:51:39,624
+gift...
 
 730
-01:13:31,750 --> 01:13:34,219
-<font face="Comic Sans MS"><i>- Hey, ladies. What are you up to?
-- Shh.</i></font>
+00:51:41,426 --> 00:51:43,395
+has been killing me
+my whole life.
 
 731
-01:13:35,620 --> 01:13:36,688
-<font face="Comic Sans MS"><i>Quick!</i></font>
+00:51:44,529 --> 00:51:46,398
+Figured I got one last shot.
 
 732
-01:13:57,643 --> 01:13:58,644
-<font face="Comic Sans MS"><i>Go!</i></font>
+00:51:50,036 --> 00:51:51,536
+So let's make it count.
 
 733
-01:14:11,790 --> 01:14:13,792
-<font face="Comic Sans MS"><i>So the serum actually works?</i></font>
+00:51:53,505 --> 00:51:55,540
+(DRAMATIC MUSIC PLAYING)
 
 734
-01:14:13,826 --> 01:14:16,228
-<font face="Comic Sans MS"><i>Trust me, I'm just as
-surprised as you are.</i></font>
+00:52:09,021 --> 00:52:10,355
+(TWIG SNAPS)
+(GASPS)
 
 735
-01:14:16,261 --> 01:14:17,628
-<font face="Comic Sans MS"><i>Cover the entrance.</i></font>
+00:52:40,720 --> 00:52:42,387
+(WARBLING)
 
 736
-01:14:18,964 --> 01:14:21,100
-<font face="Comic Sans MS"><i>Get what we need.</i></font>
+00:52:46,759 --> 00:52:47,760
+(SNARLS)
 
 737
-01:14:21,900 --> 01:14:23,068
-<font face="Comic Sans MS"><i>This'll do.</i></font>
+00:52:52,031 --> 00:52:53,633
+(WIND CHIMES CLINKING)
+(GASPS)
 
 738
-01:14:24,369 --> 01:14:25,971
-<font face="Comic Sans MS"><i>Get the hell out of here.</i></font>
+00:53:02,108 --> 00:53:03,876
+DR. MAL: Elbows down and in.
+(GASPS)
 
 739
-01:14:34,113 --> 01:14:37,316
-<font face="Comic Sans MS"><i>No respect for science.</i></font>
+00:53:11,651 --> 00:53:13,853
+I was never much of
+a fan of these, either.
 
 740
-01:14:44,723 --> 01:14:45,924
-<font face="Comic Sans MS"><i>How's he doing?</i></font>
+00:53:15,121 --> 00:53:16,856
+No choice without your cure.
 
 741
-01:14:49,795 --> 01:14:51,797
-<font face="Comic Sans MS"><i>You don't look so good
-either, Rose.</i></font>
+00:53:17,757 --> 00:53:18,991
+We'll see.
 
 742
-01:14:53,899 --> 01:14:55,734
-<font face="Comic Sans MS"><i>Please, just let me help you.</i></font>
+00:53:19,025 --> 00:53:20,760
+I've injected half into Huana.
 
 743
-01:14:56,768 --> 01:14:58,003
-<font face="Comic Sans MS"><i>I know you need it.</i></font>
+00:53:21,727 --> 00:53:23,395
+Now all we can do is wait.
 
 744
-01:15:08,247 --> 01:15:09,281
-<font face="Comic Sans MS"><i>And Trent?</i></font>
+00:53:25,631 --> 00:53:26,632
+You try.
 
 745
-01:15:10,415 --> 01:15:13,152
-<font face="Comic Sans MS"><i>What did he inject him with?</i></font>
+00:53:35,074 --> 00:53:36,642
+(INDISTINCT GRUNT)
+(GASPS)
 
 746
-01:15:13,185 --> 01:15:17,389
-<font face="Comic Sans MS"><i>All I know is that
-they want that core drive.</i></font>
+00:53:42,114 --> 00:53:43,582
+(BREATHING HEAVILY)
 
 747
-01:15:18,524 --> 01:15:20,993
-<font face="Comic Sans MS"><i>And they're gonna do everything
-they can to get it.</i></font>
+00:53:47,687 --> 00:53:48,855
+Grant!
 
 748
-01:15:21,026 --> 01:15:22,694
-<font face="Comic Sans MS"><i>Why?</i></font>
+00:53:50,522 --> 00:53:51,523
+Grant!
 
 749
-01:15:22,728 --> 01:15:24,129
-<font face="Comic Sans MS"><i>And don't you bullshit me.</i></font>
+00:53:54,559 --> 00:53:56,662
+(GROWLING)
+(GRUNTS)
 
 750
-01:15:25,197 --> 01:15:29,234
-<font face="Comic Sans MS"><i>It's some kind of weapon.</i></font>
+00:53:57,562 --> 00:53:58,698
+Get back!
 
 751
-01:15:31,203 --> 01:15:34,139
-<font face="Comic Sans MS"><i>Powerful enough to wipe every
-Pilot off the face of the Earth.</i></font>
+00:53:59,799 --> 00:54:02,134
+Hey! Over here!
+(ROARS)
 
 752
-01:15:40,045 --> 01:15:41,914
-<font face="Comic Sans MS"><i>Then why are you helping us?</i></font>
+00:54:02,869 --> 00:54:03,903
+Eat this!
 
 753
-01:15:45,350 --> 01:15:47,085
-<font face="Comic Sans MS"><i>'Cause, I knew...</i></font>
+00:54:04,670 --> 00:54:05,805
+(SNARLING)
 
 754
-01:15:48,420 --> 01:15:53,058
-<font face="Comic Sans MS"><i>I knew deep down...
-why you froze up.</i></font>
+00:54:05,838 --> 00:54:07,572
+Grant, no!
 
 755
-01:15:54,126 --> 01:15:56,762
-<font face="Comic Sans MS"><i>Why my sister died that day.</i></font>
+00:54:07,606 --> 00:54:09,942
+(GROWLING)
+(GRUNTS)
 
 756
-01:15:56,795 --> 01:16:01,033
-<font face="Comic Sans MS"><i>I knew that you couldn't destroy
-them because they're a part of you.</i></font>
+00:54:10,676 --> 00:54:11,911
+(YELLS)
 
 757
-01:16:02,968 --> 01:16:04,803
-<font face="Comic Sans MS"><i>And I hated you for that.</i></font>
+00:54:13,779 --> 00:54:15,614
+Doc! Come and get it!
 
 758
-01:16:06,838 --> 01:16:10,475
-<font face="Comic Sans MS"><i>But that feeling, that feeling's
-simple, it's... It's easy.</i></font>
+00:54:16,481 --> 00:54:17,917
+(GRUNTS)
 
 759
-01:16:10,509 --> 01:16:12,211
-<font face="Comic Sans MS"><i>And now that I know
-who you really are...</i></font>
+00:54:17,950 --> 00:54:19,785
+(PILOT GRUNTING)
+(BREATHES HEAVILY)
 
 760
-01:16:14,279 --> 01:16:16,481
-<font face="Comic Sans MS"><i>Now it's complicated.</i></font>
+00:54:24,190 --> 00:54:26,591
+Shit. I need a stronger dose.
 
 761
-01:16:19,017 --> 01:16:20,118
-<font face="Comic Sans MS"><i>Yes.</i></font>
+00:54:26,625 --> 00:54:27,827
+(ROARS)
 
 762
-01:16:23,355 --> 01:16:24,890
-<font face="Comic Sans MS"><i>Yes, it is.</i></font>
+00:54:31,496 --> 00:54:33,833
+(THUDS)
 
 763
-01:16:33,799 --> 01:16:36,368
-<font face="Comic Sans MS"><i>If we don't get to the ship before
-Owens, we're gonna be stranded here.</i></font>
+00:54:33,866 --> 00:54:37,535
+(SOBBING) Grant! No, no, no.
+Grant, Grant, Grant. Please, please.
 
 764
-01:16:37,536 --> 01:16:39,104
-<font face="Comic Sans MS"><i>Yeah, what d'you want me
-to do? Fly?</i></font>
+00:54:43,643 --> 00:54:46,746
+Sun's on my face, ain't it?
 
 765
-01:16:39,137 --> 01:16:40,172
-<font face="Comic Sans MS"><i>Oh, can you?</i></font>
+00:54:48,480 --> 00:54:49,649
+(SOBBING)
 
 766
-01:16:40,205 --> 01:16:41,406
-<font face="Comic Sans MS"><i>I'm serious, Rose.</i></font>
+00:54:59,524 --> 00:55:00,993
+Let him go.
+(SOBS)
 
 767
-01:16:41,440 --> 01:16:43,108
-<font face="Comic Sans MS"><i>We've gotta pick up the pace,
-otherwise we're gonna be...</i></font>
+00:55:01,027 --> 00:55:02,427
+(WARBLING NEARBY)
 
 768
-01:16:43,141 --> 01:16:45,043
-<font face="Comic Sans MS"><i>Wait. You see that?</i></font>
+00:55:04,997 --> 00:55:06,933
+We have to move. Now.
 
 769
-01:16:46,878 --> 01:16:48,513
-<font face="Comic Sans MS"><i>That's the same
-as our ships.</i></font>
+00:55:08,566 --> 00:55:09,601
+Get under.
 
 770
-01:16:49,915 --> 01:16:51,383
-<font face="Comic Sans MS"><i>Don't move.</i></font>
+00:55:09,635 --> 00:55:10,736
+(PILOTS GROWLING)
 
 771
-01:16:51,416 --> 01:16:53,919
-<font face="Comic Sans MS"><i>We'll just...
-Just wait here for you.</i></font>
+00:55:19,679 --> 00:55:20,813
+There she is.
 
 772
-01:16:53,952 --> 01:16:58,090
-<font face="Comic Sans MS"><i>You know, that sister of yours really
-needs to work on her communication skills.</i></font>
+00:55:21,781 --> 00:55:23,182
+The Armada Vessel.
 
 773
-01:16:58,123 --> 01:16:59,258
-<font face="Comic Sans MS"><i>You're killing me.</i></font>
+00:55:49,574 --> 00:55:51,014
+Hey, where do you
+think you're going?
 
 774
-01:17:01,059 --> 01:17:02,527
-<font face="Comic Sans MS"><i>Shit.</i></font>
+00:55:51,911 --> 00:55:53,145
+Just give me a minute.
 
 775
-01:17:03,428 --> 01:17:05,030
-<font face="Comic Sans MS"><i>Rose, we've got company!</i></font>
+00:55:55,781 --> 00:55:56,849
+OWENS: Cover her.
 
 776
-01:17:08,867 --> 01:17:10,269
-<font face="Comic Sans MS"><i>Shit...</i></font>
+00:56:03,856 --> 00:56:04,890
+LEON: What is it?
 
 777
-01:17:21,113 --> 01:17:22,447
-<font face="Comic Sans MS"><i>I guess this is it, then.</i></font>
+00:56:09,829 --> 00:56:10,863
+Looks human.
 
 778
-01:17:27,986 --> 01:17:31,523
-<font face="Comic Sans MS"><i>Hey, come on!
-Come back over here! Over here!</i></font>
+00:56:13,165 --> 00:56:14,767
+Maybe from one of our probes.
 
 779
-01:17:59,418 --> 01:18:00,419
-<font face="Comic Sans MS"><i>Attagirl.</i></font>
+00:56:16,568 --> 00:56:17,837
+Scan it back at the ship.
 
 780
-01:18:19,004 --> 01:18:20,405
-<font face="Comic Sans MS"><i>Not bad for a human.</i></font>
+00:56:20,072 --> 00:56:22,808
+- Leon, I... I... I can't.
+- Just forget it. All right?
 
 781
-01:18:20,439 --> 01:18:23,075
-<font face="Comic Sans MS"><i>Oh, finally she's impressed.</i></font>
+00:56:25,778 --> 00:56:26,779
+I can't.
 
 782
-01:18:24,042 --> 01:18:25,410
-<font face="Comic Sans MS"><i>Got one in my size?</i></font>
+00:56:38,257 --> 00:56:42,094
+Look, I wish I could explain
+why it happened.
 
 783
-01:18:28,046 --> 01:18:30,148
-<font face="Comic Sans MS"><i>No...</i></font>
+00:56:44,663 --> 00:56:45,664
+But...
 
 784
-01:18:40,425 --> 01:18:42,160
-<font face="Comic Sans MS"><i>Hold tight in there, Trent.</i></font>
+00:56:49,101 --> 00:56:50,602
+I meant what I said
+about your sister.
 
 785
-01:18:44,196 --> 01:18:46,064
-<font face="Comic Sans MS"><i>- What about me?
-- I'm coming.</i></font>
+00:56:54,340 --> 00:56:55,674
+(SNARLING)
 
 786
-01:18:47,265 --> 01:18:48,900
-<font face="Comic Sans MS"><i>This shit's exhausting.</i></font>
+00:56:56,809 --> 00:56:58,677
+(GRUNTING)
 
 787
-01:18:48,934 --> 01:18:50,969
-<font face="Comic Sans MS"><i>That's exhausting?
-What, d'you wanna swap places?</i></font>
+00:56:58,711 --> 00:56:59,945
+(CREATURES SQUEALING)
 
 788
-01:18:51,002 --> 01:18:52,371
-<font face="Comic Sans MS"><i>Hmm. Cheeky.</i></font>
+00:57:03,883 --> 00:57:04,917
+Incoming!
 
 789
-01:18:55,941 --> 01:19:00,145
-<font face="Comic Sans MS"><i>Whoa! Wow. Okay.</i></font>
+00:57:06,085 --> 00:57:08,254
+(CREATURES SNARLING)
 
 790
-01:19:00,178 --> 01:19:02,547
-<font face="Comic Sans MS"><i>Whoo! Um, do you want me to...</i></font>
+00:57:15,694 --> 00:57:16,896
+(SOFTLY) Shit.
 
 791
-01:19:02,581 --> 01:19:04,416
-<font face="Comic Sans MS"><i>Just hold on to something.</i></font>
+00:57:22,334 --> 00:57:24,103
+Run to that light shaft!
+(OWENS SHOUTS)
 
 792
-01:19:04,449 --> 01:19:05,984
-<font face="Comic Sans MS"><i>Okay... Sorry...</i></font>
+00:57:24,136 --> 00:57:25,256
+Run, run.
+ROSE: Now, run!
 
 793
-01:19:06,017 --> 01:19:07,386
-<font face="Comic Sans MS"><i>Not anything.</i></font>
+00:57:31,110 --> 00:57:32,778
+Get into the light.
+Don't move.
 
 794
-01:19:13,592 --> 01:19:15,994
-<font face="Comic Sans MS"><i>You did good, soldier.</i></font>
+00:57:32,812 --> 00:57:33,846
+Trust me.
 
 795
-01:19:16,027 --> 01:19:19,531
-<font face="Comic Sans MS"><i>Hell, you did the impossible.</i></font>
+00:57:33,879 --> 00:57:34,914
+Hurry, Trent!
 
 796
-01:19:26,004 --> 01:19:27,406
-<font face="Comic Sans MS"><i>What about the others?</i></font>
+00:57:38,350 --> 00:57:39,652
+(GROWLS)
 
 797
-01:19:27,439 --> 01:19:28,273
-<font face="Comic Sans MS"><i>Alexi?</i></font>
+00:57:43,189 --> 00:57:47,259
+They can't see through the light...
+I think.
 
 798
-01:19:28,306 --> 01:19:32,611
-<font face="Comic Sans MS"><i>Zhi, make sure
-this man gets some rest.</i></font>
+00:57:48,227 --> 00:57:50,029
+You think or you know?
 
 799
-01:19:32,645 --> 01:19:34,546
-<font face="Comic Sans MS"><i>I've got it from here.</i></font>
+00:57:50,062 --> 00:57:51,197
+I think.
 
 800
-01:19:39,251 --> 01:19:40,887
-<font face="Comic Sans MS"><i>Does this thing go
-any faster?</i></font>
+00:57:51,730 --> 00:57:53,199
+(TRENT SPEAKING ALIEN)
 
 801
-01:19:47,225 --> 01:19:48,326
-<font face="Comic Sans MS"><i>Jesus.</i></font>
+00:58:02,875 --> 00:58:06,145
+It's working. (CHUCKLES)
+It's working.
 
 802
-01:19:52,364 --> 01:19:53,699
-<font face="Comic Sans MS"><i>This wasn't a probe.</i></font>
+00:58:19,325 --> 00:58:21,694
+Son of a bitch.
+It must be sundown.
 
 803
-01:19:54,599 --> 01:19:55,967
-<font face="Comic Sans MS"><i>This was a bomb.</i></font>
+00:58:22,394 --> 00:58:24,196
+Well, that was short-lived.
 
 804
-01:20:01,373 --> 01:20:03,041
-<font face="Comic Sans MS"><i>The shadow creatures...</i></font>
+00:58:24,230 --> 00:58:25,931
+(CREATURES SNARLING)
 
 805
-01:20:04,644 --> 01:20:05,977
-<font face="Comic Sans MS">Pilots back home.</font>
+00:58:29,802 --> 00:58:31,003
+Lock and load, Corporal.
 
 806
-01:20:07,612 --> 01:20:08,681
-<font face="Comic Sans MS">Trent.</font>
+00:58:37,443 --> 00:58:39,879
+ROSE: Oh, shit. Oh, shit.
 
 807
-01:20:09,715 --> 01:20:11,249
-<font face="Comic Sans MS"><i>It's all connected.</i></font>
+00:58:47,987 --> 00:58:49,027
+OWENS: Our eye in the sky.
 
 808
-01:20:13,385 --> 01:20:15,153
-<font face="Comic Sans MS"><i>They aren't just dying...</i></font>
+00:58:49,722 --> 00:58:52,992
+Let's go!
+Run for it! Let's go.
 
 809
-01:20:15,187 --> 01:20:17,122
-<font face="Comic Sans MS"><i>Payback's a bitch!</i></font>
+00:58:53,025 --> 00:58:54,293
+ZHI: What are those things?
 
 810
-01:20:17,155 --> 01:20:18,423
-<font face="Comic Sans MS"><i>They've been poisoned.</i></font>
+00:58:54,927 --> 00:58:56,162
+Pilots?
 
 811
-01:20:21,092 --> 01:20:22,194
-<font face="Comic Sans MS"><i>Radford.</i></font>
+00:58:57,496 --> 00:58:59,198
+RADFORD: Maybe a new species.
 
 812
-01:20:24,062 --> 01:20:25,564
-<font face="Comic Sans MS"><i>That son of a bitch.</i></font>
+00:59:00,232 --> 00:59:02,001
+A mutation.
 
 813
-01:20:27,332 --> 01:20:28,500
-<font face="Comic Sans MS"><i>Let's go get him.</i></font>
+00:59:05,804 --> 00:59:07,006
+Wipe them out.
 
 814
-01:20:32,738 --> 01:20:34,372
-<font face="Comic Sans MS"><i>Violet.</i></font>
+00:59:09,775 --> 00:59:11,076
+(WHISPERS) That's for Alexi.
 
 815
-01:20:34,406 --> 01:20:35,775
-<font face="Comic Sans MS"><i>We need to install this now.</i></font>
+00:59:14,480 --> 00:59:15,714
+OWENS: Open the door.
 
 816
-01:20:40,345 --> 01:20:43,248
-<font face="Comic Sans MS"><i>Just need to scan
-for any contamination.</i></font>
+00:59:15,748 --> 00:59:16,882
+(TRENT SPEAKS ALIEN)
 
 817
-01:20:43,281 --> 01:20:45,116
-<font face="Comic Sans MS"><i>I'm all right. I feel fine.</i></font>
+00:59:17,383 --> 00:59:20,686
+Go. Go. Go. Go!
 
 818
-01:20:45,651 --> 01:20:47,185
-<font face="Comic Sans MS"><i>It's protocol, Owens.</i></font>
+00:59:21,086 --> 00:59:22,087
+Go.
 
 819
-01:20:55,661 --> 01:20:58,063
-<font face="Comic Sans MS"><i>Take us to firing altitude.</i></font>
+00:59:29,962 --> 00:59:31,263
+(TRENT SPEAKING ALIEN)
 
 820
-01:21:16,515 --> 01:21:17,516
-<font face="Comic Sans MS"><i>We're too late.</i></font>
+00:59:36,335 --> 00:59:37,336
+Careful, Trent.
 
 821
-01:21:20,519 --> 01:21:22,755
-<font face="Comic Sans MS"><i>Let's give them a taste
-of their own medicine.</i></font>
+00:59:39,305 --> 00:59:42,341
+Looks like nobody's home.
 
 822
-01:21:24,690 --> 01:21:25,758
-<font face="Comic Sans MS"><i>No.</i></font>
+00:59:42,374 --> 00:59:47,379
+If all the Pilots turned rabid, then
+what the hell happened to the Harvesters?
 
 823
-01:21:26,792 --> 01:21:28,293
-<font face="Comic Sans MS"><i>Not a harvest.</i></font>
+00:59:47,413 --> 00:59:49,114
+You think they got sick, too?
 
 824
-01:21:30,262 --> 01:21:31,797
-<font face="Comic Sans MS"><i>An extermination.</i></font>
+00:59:49,148 --> 00:59:50,216
+This way. Let's go.
 
 825
-01:21:46,779 --> 01:21:48,480
-<font face="Comic Sans MS"><i>Well, it's been nice
-knowing you, Rose.</i></font>
+01:00:06,131 --> 01:00:07,166
+OWENS: There it is.
 
 826
-01:21:55,855 --> 01:21:57,222
-<font face="Comic Sans MS"><i>Brace yourself.</i></font>
+01:00:13,539 --> 01:00:15,007
+(BUZZING)
 
 827
-01:22:03,161 --> 01:22:04,563
-<font face="Comic Sans MS"><i>Hold on!</i></font>
+01:00:15,040 --> 01:00:16,475
+(SPEAKING ALIEN)
 
 828
-01:22:20,445 --> 01:22:23,783
-<font face="Comic Sans MS"><i>Now I am become death.</i></font>
+01:00:16,508 --> 01:00:18,010
+Outstanding.
 
 829
-01:22:37,562 --> 01:22:39,197
-<font face="Comic Sans MS"><i>Destroyer of worlds.</i></font>
+01:00:36,595 --> 01:00:37,796
+You're up.
 
 830
-01:22:45,838 --> 01:22:47,372
-<font face="Comic Sans MS"><i>Plot a course for home.</i></font>
+01:00:47,439 --> 01:00:48,874
+Hey, big ugly.
 
 831
-01:22:49,374 --> 01:22:52,243
-<font face="Comic Sans MS"><i>Engage the drive as soon
-as we're clear of the rings.</i></font>
+01:00:50,009 --> 01:00:51,010
+If I'm...
 
 832
-01:22:57,382 --> 01:22:58,416
-<font face="Comic Sans MS"><i>Hold on!</i></font>
+01:00:53,312 --> 01:00:56,882
+If I'm gone,
+promise me you'll finish this.
 
 833
-01:22:58,450 --> 01:22:59,618
-<font face="Comic Sans MS"><i>I'm holding on!</i></font>
+01:01:01,854 --> 01:01:02,855
+No matter what.
 
 834
-01:23:13,531 --> 01:23:16,936
-<font face="Comic Sans MS"><i>Rose... we're in space.</i></font>
+01:02:20,099 --> 01:02:21,233
+What the hell is going on?
 
 835
-01:23:16,969 --> 01:23:18,203
-<font face="Comic Sans MS"><i>I know.</i></font>
+01:02:25,104 --> 01:02:26,238
+(GROANS)
 
 836
-01:23:21,339 --> 01:23:22,374
-<font face="Comic Sans MS"><i>There it is.</i></font>
+01:02:29,709 --> 01:02:31,009
+Rose?
 
 837
-01:23:29,649 --> 01:23:30,816
-<font face="Comic Sans MS"><i>What are you gonna do?</i></font>
+01:02:32,077 --> 01:02:33,245
+You all right?
 
 838
-01:23:41,459 --> 01:23:43,161
-<font face="Comic Sans MS"><i>It's working.
-We're getting closer!</i></font>
+01:02:54,032 --> 01:02:55,334
+(ALL GROAN)
 
 839
-01:23:54,339 --> 01:23:55,473
-<font face="Comic Sans MS"><i>What about Trent?</i></font>
+01:03:06,345 --> 01:03:08,147
+What the hell happened to her?
 
 840
-01:23:56,408 --> 01:23:57,609
-<font face="Comic Sans MS"><i>How did he die?</i></font>
+01:03:08,180 --> 01:03:10,349
+She went native. (GRUNTS)
 
 841
-01:24:00,813 --> 01:24:02,180
-<font face="Comic Sans MS"><i>What's this about?</i></font>
+01:03:39,211 --> 01:03:41,013
+(TRENT SPEAKING ALIEN)
 
 842
-01:24:05,583 --> 01:24:08,654
-<font face="Comic Sans MS"><i>Just trying to figure out why
-there's traces of a high thyroxine</i></font>
+01:03:41,046 --> 01:03:42,448
+Doesn't matter.
 
 843
-01:24:08,688 --> 01:24:10,422
-<font face="Comic Sans MS"><i>pilot blood on your body.</i></font>
+01:03:42,481 --> 01:03:43,982
+The core drive is down there.
 
 844
-01:24:10,455 --> 01:24:12,590
-<font face="Comic Sans MS"><i>Same as on the diseased pilots
-on Earth.</i></font>
+01:03:47,553 --> 01:03:51,323
+Relax, Trent. Finding the drive gives
+us the best chance of finding Rose.
 
 845
-01:24:12,925 --> 01:24:15,560
-<font face="Comic Sans MS"><i>Huh.</i></font>
+01:03:55,093 --> 01:03:57,996
+And what if she tries to
+stop us again, huh?
 
 846
-01:24:15,593 --> 01:24:19,665
-<font face="Comic Sans MS"><i>If I didn't know any better, I'd think
-they derived from the same source.</i></font>
+01:03:58,030 --> 01:04:00,132
+You made a promise. Remember?
 
 847
-01:24:53,966 --> 01:24:55,533
-<font face="Comic Sans MS"><i>Everything you've got.
-This is it!</i></font>
+01:04:05,504 --> 01:04:06,505
+(GRUNTS)
 
 848
-01:25:18,724 --> 01:25:20,760
-<font face="Comic Sans MS"><i>Get us back
-on this ship, Rose!</i></font>
+01:04:16,716 --> 01:04:17,717
+Go get her.
 
 849
-01:25:20,793 --> 01:25:21,794
-<font face="Comic Sans MS"><i>Get us back!</i></font>
+01:04:48,146 --> 01:04:49,348
+(GROWLING)
 
 850
-01:25:55,527 --> 01:25:56,594
-<font face="Comic Sans MS"><i>Motherfucker.</i></font>
+01:05:05,264 --> 01:05:06,398
+(SNARLS)
 
 851
-01:25:58,030 --> 01:25:59,732
-<font face="Comic Sans MS"><i>Rose?</i></font>
+01:05:07,700 --> 01:05:09,167
+OWENS: They're off the grid.
 
 852
-01:26:01,100 --> 01:26:03,434
-<font face="Comic Sans MS"><i>Get you to the med lab.
-We've got some blood there.</i></font>
+01:05:10,737 --> 01:05:12,538
+I knew we couldn't trust them.
 
 853
-01:26:18,516 --> 01:26:20,719
-<font face="Comic Sans MS"><i>I really like what you've done
-with your hair.</i></font>
+01:05:12,571 --> 01:05:15,307
+Well, we haven't exactly
+been forthcoming, have we?
 
 854
-01:26:22,888 --> 01:26:26,025
-<font face="Comic Sans MS"><i>Obviously, it wasn't supposed
-to be like this.</i></font>
+01:05:15,340 --> 01:05:16,709
+Stop. You're breaking my heart.
 
 855
-01:26:26,058 --> 01:26:27,325
-<font face="Comic Sans MS"><i>General!</i></font>
+01:05:16,743 --> 01:05:20,412
+I'm just saying this is their world.
+Let them do the dirty work.
 
 856
-01:26:27,893 --> 01:26:29,094
-<font face="Comic Sans MS"><i>Zhi.</i></font>
+01:05:22,281 --> 01:05:24,784
+No one's gonna get out
+of this one clean, kid.
 
 857
-01:26:29,128 --> 01:26:31,831
-<font face="Comic Sans MS"><i>Can't you see
-they've been compromised?</i></font>
+01:05:38,597 --> 01:05:39,632
+(GASPS)
 
 858
-01:26:31,864 --> 01:26:34,465
-<font face="Comic Sans MS"><i>He's not the sharpest.
-Just look at her.</i></font>
+01:06:34,586 --> 01:06:35,587
+(ROARING)
 
 859
-01:26:34,499 --> 01:26:35,801
-<font face="Comic Sans MS"><i>Don't listen to him, Zhi.</i></font>
+01:07:10,823 --> 01:07:11,824
+(GRUNTING)
 
 860
-01:26:35,835 --> 01:26:37,837
-<font face="Comic Sans MS"><i>He's been lying
-from the beginning.</i></font>
+01:07:37,684 --> 01:07:39,351
+(SYSTEM POWERING DOWN)
 
 861
-01:26:37,870 --> 01:26:40,371
-<font face="Comic Sans MS"><i>He bombed Cobalt
-before we got here.</i></font>
+01:07:39,852 --> 01:07:40,920
+(GROWLS)
 
 862
-01:26:40,405 --> 01:26:42,675
-<font face="Comic Sans MS"><i>And then he unleashed the same
-virus on the Pilots back home.</i></font>
+01:08:00,973 --> 01:08:02,340
+(TRENT SPEAKING ALIEN)
 
 863
-01:26:42,708 --> 01:26:43,843
-<font face="Comic Sans MS">I know.</font>
+01:08:05,845 --> 01:08:07,345
+(TRENT GROWLING)
 
 864
-01:26:43,876 --> 01:26:45,177
-<font face="Comic Sans MS"><i>And I have the proof.</i></font>
+01:08:23,896 --> 01:08:25,430
+(BREATH QUAVERING)
 
 865
-01:26:45,211 --> 01:26:47,646
-<font face="Comic Sans MS">Shoot them and I send it to
-every military base on Earth.</font>
+01:08:25,464 --> 01:08:26,598
+MARK: <i>Rose.</i>
 
 866
-01:26:47,680 --> 01:26:49,414
-<font face="Comic Sans MS"><i>Be my guest.</i></font>
+01:08:34,306 --> 01:08:35,307
+<i>I promise.</i>
 
 867
-01:26:49,447 --> 01:26:52,151
-<font face="Comic Sans MS"><i>Half of them will probably thank me.
-Call me a hero.</i></font>
+01:08:39,779 --> 01:08:40,780
+(YELLS)
 
 868
-01:26:52,184 --> 01:26:53,518
-<font face="Comic Sans MS"><i>Or a piece of shit.</i></font>
+01:08:48,721 --> 01:08:49,722
+All this time.
 
 869
-01:26:54,653 --> 01:26:56,789
-<font face="Comic Sans MS"><i>Well, now, that's just rude.</i></font>
+01:08:50,990 --> 01:08:52,357
+<i>All the doubt.</i>
 
 870
-01:26:57,622 --> 01:26:59,725
-<font face="Comic Sans MS"><i>No!</i></font>
+01:08:54,426 --> 01:08:55,594
+<i>All the fear.</i>
 
 871
-01:27:03,195 --> 01:27:04,429
-<font face="Comic Sans MS"><i>Damn it!</i></font>
+01:08:57,329 --> 01:08:58,563
+It was you.
 
 872
-01:27:04,462 --> 01:27:06,165
-<font face="Comic Sans MS"><i>You chose the wrong side, Rose.</i></font>
+01:09:05,972 --> 01:09:07,874
+You know what? You're right.
 
 873
-01:27:06,198 --> 01:27:08,566
-<font face="Comic Sans MS"><i>Of what? Genocide?</i></font>
+01:09:10,575 --> 01:09:12,011
+I didn't come here
+to destroy you.
 
 874
-01:27:10,669 --> 01:27:13,772
-<font face="Comic Sans MS"><i>The virus was meant to euthanize
-the Pilots peacefully.</i></font>
+01:09:13,713 --> 01:09:14,714
+But I will.
 
 875
-01:27:14,106 --> 01:27:15,908
-<font face="Comic Sans MS"><i>Humanely.</i></font>
+01:09:16,082 --> 01:09:17,282
+(GROWLS)
 
 876
-01:27:15,941 --> 01:27:17,977
-<font face="Comic Sans MS"><i>And you thought it worked, too.</i></font>
+01:09:21,453 --> 01:09:22,454
+You okay?
 
 877
-01:27:18,010 --> 01:27:21,046
-<font face="Comic Sans MS"><i>So you let it loose
-in your own backyard.</i></font>
+01:09:24,056 --> 01:09:25,323
+Let's go.
 
 878
-01:27:21,080 --> 01:27:24,482
-<font face="Comic Sans MS"><i>But you had no goddamn clue what
-you did until it was too late.</i></font>
+01:09:28,460 --> 01:09:29,662
+(ROARS)
 
 879
-01:27:24,515 --> 01:27:26,952
-<font face="Comic Sans MS"><i>Well, thanks to you,
-I can mop up that error,</i></font>
+01:09:39,571 --> 01:09:40,572
+Rose?
 
 880
-01:27:26,986 --> 01:27:30,421
-<font face="Comic Sans MS"><i>eradicate every last one
-of them, and save London.</i></font>
+01:09:49,581 --> 01:09:51,751
+LEON: Holy shit.
 
 881
-01:27:30,455 --> 01:27:33,659
-<font face="Comic Sans MS"><i>All in time for tea.</i></font>
+01:09:58,758 --> 01:10:00,059
+How did you do that?
 
 882
-01:27:35,861 --> 01:27:38,163
-<font face="Comic Sans MS"><i>Now I can give the Earth
-back to mankind.</i></font>
+01:10:01,761 --> 01:10:03,428
+I finally stopped
+fighting my nature.
 
 883
-01:27:38,998 --> 01:27:40,900
-<font face="Comic Sans MS"><i>The real mankind.</i></font>
+01:10:03,461 --> 01:10:06,398
+But you're feeling
+okay now, right?
 
 884
-01:27:41,901 --> 01:27:43,168
-<font face="Comic Sans MS"><i>You know what?</i></font>
+01:10:06,431 --> 01:10:10,703
+'Cause, you know, because, like,
+I mean, y-y-you look, uh... great.
 
 885
-01:27:44,937 --> 01:27:46,171
-<font face="Comic Sans MS"><i>You're gonna have to
-fight for it.</i></font>
+01:10:10,736 --> 01:10:11,771
+Where's the core drive?
 
 886
-01:28:24,777 --> 01:28:26,946
-<font face="Comic Sans MS"><i>What's the matter, General?</i></font>
+01:10:12,939 --> 01:10:14,073
+It's right there.
 
 887
-01:28:26,979 --> 01:28:28,647
-<font face="Comic Sans MS"><i>Afraid to fight for yourself?</i></font>
+01:10:15,407 --> 01:10:16,642
+(TRENT SPEAKING ALIEN)
 
 888
-01:28:31,516 --> 01:28:33,618
-<font face="Comic Sans MS"><i>Not if I don't have to.</i></font>
+01:10:17,143 --> 01:10:18,711
+You hit like a girl.
 
 889
-01:28:43,528 --> 01:28:45,563
-<font face="Comic Sans MS"><i>- Head for the main road?
-- Brace yourself.</i></font>
+01:10:21,881 --> 01:10:23,082
+You did it.
 
 890
-01:28:46,732 --> 01:28:48,067
-<font face="Comic Sans MS"><i>We're not in Kansas anymore.</i></font>
+01:10:23,115 --> 01:10:23,983
+We did it.
 
 891
-01:29:34,579 --> 01:29:35,647
-<font face="Comic Sans MS"><i>Trent, no!</i></font>
+01:10:24,016 --> 01:10:26,384
+Save the group hug
+for later. Let's go!
 
 892
-01:29:36,181 --> 01:29:37,750
-<font face="Comic Sans MS"><i>Trent! Stop.</i></font>
+01:10:26,418 --> 01:10:27,653
+Come on, move it.
 
 893
-01:29:42,187 --> 01:29:43,188
-<font face="Comic Sans MS"><i>Fight it.</i></font>
+01:10:31,157 --> 01:10:32,758
+(TRENT SPEAKING ALIEN)
 
 894
-01:29:44,156 --> 01:29:45,290
-<font face="Comic Sans MS"><i>Stop.</i></font>
+01:10:35,928 --> 01:10:37,462
+(DISTANT GROWL)
 
 895
-01:29:46,725 --> 01:29:48,093
-<font face="Comic Sans MS"><i>Come back to me.</i></font>
+01:10:39,031 --> 01:10:40,032
+Cover us.
 
 896
-01:30:08,147 --> 01:30:11,216
-<font face="Comic Sans MS"><i>You can't fight
-their nature, Rose.</i></font>
+01:10:44,536 --> 01:10:46,973
+(SHUFFLING, SNARLING)
 
 897
-01:30:13,085 --> 01:30:15,754
-<font face="Comic Sans MS"><i>That was never Trent.</i></font>
+01:10:47,006 --> 01:10:48,473
+Time to get your hands dirty.
 
 898
-01:30:17,022 --> 01:30:20,659
-<font face="Comic Sans MS"><i>Or Violet.</i></font>
+01:10:50,142 --> 01:10:51,509
+Payback's a bitch.
 
 899
-01:30:20,692 --> 01:30:22,593
-<font face="Comic Sans MS"><i>They're abominations!</i></font>
+01:10:53,779 --> 01:10:54,780
+Come on.
 
 900
-01:30:22,627 --> 01:30:25,831
-<font face="Comic Sans MS"><i>Something your father and I
-could never agree on.</i></font>
+01:11:14,100 --> 01:11:15,433
+(SCREECHING)
 
 901
-01:30:25,864 --> 01:30:27,166
-<font face="Comic Sans MS"><i>So he had to go.</i></font>
+01:11:23,843 --> 01:11:25,477
+Wrong choice, Corporal.
 
 902
-01:30:31,136 --> 01:30:32,204
-<font face="Comic Sans MS"><i>As do you.</i></font>
+01:11:30,950 --> 01:11:32,051
+Shit.
 
 903
-01:30:34,273 --> 01:30:36,607
-<font face="Comic Sans MS"><i>You cheap bastard.</i></font>
+01:11:32,084 --> 01:11:33,585
+Trent! Get down!
 
 904
-01:30:36,642 --> 01:30:38,609
-<font face="Comic Sans MS"><i>Time to pay, Corporal.</i></font>
+01:11:36,255 --> 01:11:37,123
+ZHI: <i>He blew the hatch!</i>
 
 905
-01:30:47,052 --> 01:30:50,222
-<font face="Comic Sans MS"><i>Get the fuck out of my way.</i></font>
+01:11:37,156 --> 01:11:39,457
+RADFORD: Probably hostiles
+at his back.
 
 906
-01:31:13,011 --> 01:31:14,379
-<font face="Comic Sans MS"><i>I can't let her
-leave this room.</i></font>
+01:11:39,491 --> 01:11:40,558
+And the others?
 
 907
-01:31:16,248 --> 01:31:17,282
-<font face="Comic Sans MS"><i>Go! Now!</i></font>
+01:11:40,592 --> 01:11:42,962
+Well, we can only
+pray for them now.
 
 908
-01:31:22,454 --> 01:31:23,655
-<font face="Comic Sans MS"><i>Open!</i></font>
+01:11:42,995 --> 01:11:45,197
+But thank God
+he's got the core drive.
 
 909
-01:31:27,159 --> 01:31:28,393
-<font face="Comic Sans MS"><i>Rose!</i></font>
+01:11:45,998 --> 01:11:47,565
+Clear his path home.
 
 910
-01:31:28,427 --> 01:31:29,962
-<font face="Comic Sans MS"><i>Go!</i></font>
+01:11:51,569 --> 01:11:53,072
+(CREATURES GROWLING)
 
 911
-01:31:29,995 --> 01:31:31,196
-<font face="Comic Sans MS"><i>Violet!</i></font>
+01:12:03,249 --> 01:12:04,482
+You knew...
 
 912
-01:31:31,230 --> 01:31:33,765
-<font face="Comic Sans MS"><i>Open the goddamn door!
-That's an order!</i></font>
+01:12:08,688 --> 01:12:10,122
+(CREATURES SNARLING)
 
 913
-01:31:33,799 --> 01:31:34,900
-<font face="Comic Sans MS"><i>Open!</i></font>
+01:12:12,191 --> 01:12:13,192
+(YELLING)
 
 914
-01:31:36,201 --> 01:31:37,236
-<font face="Comic Sans MS"><i>Violet!</i></font>
+01:12:52,865 --> 01:12:54,166
+Rose, I'm sor...
 
 915
-01:31:44,042 --> 01:31:46,078
-<font face="Comic Sans MS"><i>- We've got to go, Rose. Come on.
-- No!</i></font>
+01:12:57,069 --> 01:12:58,570
+(BREATHING HEAVILY)
 
 916
-01:31:46,111 --> 01:31:49,014
-<font face="Comic Sans MS"><i>If she gets to the core drive,
-she'll kill everyone on Earth.</i></font>
+01:13:00,006 --> 01:13:01,240
+Don't even...
 
 917
-01:31:49,047 --> 01:31:50,048
-<font face="Comic Sans MS"><i>Rose!</i></font>
+01:13:01,273 --> 01:13:02,842
+(TRENT GROANING)
 
 918
-01:31:52,017 --> 01:31:53,852
-<font face="Comic Sans MS"><i>Fine. If you're staying,
-I'm staying.</i></font>
+01:13:11,817 --> 01:13:13,585
+(INDISTINCT SHOUTING)
 
 919
-01:32:05,130 --> 01:32:07,366
-<font face="Comic Sans MS"><i>Violet's taking us
-into the wormhole.</i></font>
+01:13:20,760 --> 01:13:23,829
+Grant's dead. Your serum is a bust.
+And we're completely surrounded.
 
 920
-01:32:07,399 --> 01:32:10,068
-<font face="Comic Sans MS"><i>Go get Trent
-and get out of here. Now!</i></font>
+01:13:23,863 --> 01:13:25,965
+What the hell are we gonna do?
 
 921
-01:32:15,908 --> 01:32:17,176
-<font face="Comic Sans MS"><i>What about you?</i></font>
+01:13:25,998 --> 01:13:27,967
+We're gonna fight to the end.
 
 922
-01:32:18,377 --> 01:32:20,812
-<font face="Comic Sans MS"><i>I have to finish this myself.</i></font>
+01:13:28,000 --> 01:13:29,802
+Just like Grant did.
 
 923
-01:32:44,770 --> 01:32:48,207
-<font face="Comic Sans MS"><i>Easy, now, big guy. Easy.</i></font>
+01:13:29,835 --> 01:13:32,071
+Now let's get to Huana
+before they do.
 
 924
-01:32:49,208 --> 01:32:50,909
-<font face="Comic Sans MS"><i>Trent, wait! It's not you.</i></font>
+01:13:38,844 --> 01:13:39,845
+Wait.
 
 925
-01:32:51,543 --> 01:32:52,844
-<font face="Comic Sans MS"><i>No! No!</i></font>
+01:13:40,713 --> 01:13:41,814
+All right, go.
 
 926
-01:33:22,107 --> 01:33:24,276
-<font face="Comic Sans MS"><i>Trent! You need to snap
-out of this!</i></font>
+01:13:44,750 --> 01:13:47,219
+- Hey, ladies. What are you up to?
+- Shh.
 
 927
-01:33:36,955 --> 01:33:38,490
-<font face="Comic Sans MS"><i>Trent! I know you're in there!</i></font>
+01:13:48,620 --> 01:13:49,688
+Quick!
 
 928
-01:33:58,610 --> 01:34:01,213
-<font face="Comic Sans MS"><i>Come on, get your
-shit together, mate!</i></font>
+01:13:51,957 --> 01:13:54,026
+(GRUNTING)
 
 929
-01:34:10,355 --> 01:34:12,090
-<font face="Comic Sans MS"><i>Trent! Trent!</i></font>
+01:14:06,739 --> 01:14:07,740
+(YELLS)
 
 930
-01:34:16,094 --> 01:34:17,129
-<font face="Comic Sans MS"><i>Hold on!</i></font>
+01:14:10,643 --> 01:14:11,644
+Go!
 
 931
-01:35:02,074 --> 01:35:03,241
-<font face="Comic Sans MS"><i>Rose!</i></font>
+01:14:14,780 --> 01:14:16,749
+(PILOT GROWLING)
+(GRUNTING)
 
 932
-01:35:08,046 --> 01:35:09,047
-<font face="Comic Sans MS"><i>Don't let go!</i></font>
+01:14:22,088 --> 01:14:23,155
+(GRUNTS)
 
 933
-01:35:30,469 --> 01:35:31,470
-<font face="Comic Sans MS"><i>No!</i></font>
+01:14:24,790 --> 01:14:26,792
+So the serum actually works?
 
 934
-01:36:39,404 --> 01:36:40,439
-<font face="Comic Sans MS"><i>Trent.</i></font>
+01:14:26,826 --> 01:14:29,228
+Trust me, I'm just as
+surprised as you are.
 
 935
-01:36:40,472 --> 01:36:42,708
-<font face="Comic Sans MS"><i>Stay with me.</i></font>
+01:14:29,261 --> 01:14:30,628
+Cover the entrance.
 
 936
-01:36:42,742 --> 01:36:47,479
-<font face="Comic Sans MS"><i>You'll be okay.
-You'll be okay.</i></font>
+01:14:31,964 --> 01:14:34,100
+Get what we need.
 
 937
-01:37:02,027 --> 01:37:04,062
-<font face="Comic Sans MS"><i>All right. Good as new.</i></font>
+01:14:34,900 --> 01:14:36,068
+This'll do.
 
 938
-01:37:32,658 --> 01:37:34,326
-<font face="Comic Sans MS"><i>It sounds bad, but...</i></font>
+01:14:37,369 --> 01:14:38,971
+Get the hell out of here.
 
 939
-01:37:36,829 --> 01:37:39,097
-<font face="Comic Sans MS"><i>I never really saw them
-as human.</i></font>
+01:14:39,305 --> 01:14:40,706
+(ROARING)
 
 940
-01:37:40,332 --> 01:37:41,399
-<font face="Comic Sans MS"><i>Just the enemy.</i></font>
+01:14:44,009 --> 01:14:45,010
+(GRUNTS)
 
 941
-01:37:42,702 --> 01:37:44,670
-<font face="Comic Sans MS"><i>A reminder of everything
-I've lost.</i></font>
+01:14:47,113 --> 01:14:50,316
+(PANTING)
+No respect for science.
 
 942
-01:37:47,640 --> 01:37:49,742
-<font face="Comic Sans MS"><i>But now?</i></font>
+01:14:57,723 --> 01:14:58,924
+How's he doing?
 
 943
-01:37:49,775 --> 01:37:54,446
-<font face="Comic Sans MS"><i>Now all I see is a brother willing
-to give his life for his sister...</i></font>
+01:15:02,795 --> 01:15:04,797
+You don't look so good
+either, Rose.
 
 944
-01:37:57,817 --> 01:37:59,584
-<font face="Comic Sans MS"><i>and a dickhead like me.</i></font>
+01:15:06,899 --> 01:15:08,734
+Please, just let me help you.
 
 945
-01:38:03,355 --> 01:38:05,390
-<font face="Comic Sans MS"><i>Yeah, well,
-I think he likes you.</i></font>
+01:15:09,768 --> 01:15:11,003
+I know you need it.
 
 946
-01:38:06,558 --> 01:38:07,559
-<font face="Comic Sans MS"><i>You reckon?</i></font>
+01:15:11,036 --> 01:15:12,204
+(TRENT SPEAKING ALIEN)
 
 947
-01:38:10,161 --> 01:38:11,697
-<font face="Comic Sans MS"><i>You're still alive, aren't you?</i></font>
+01:15:21,247 --> 01:15:22,281
+And Trent?
 
 948
-01:38:14,566 --> 01:38:15,567
-<font face="Comic Sans MS"><i>Good point.</i></font>
+01:15:23,415 --> 01:15:26,152
+What did he inject him with?
 
 949
-01:39:06,484 --> 01:39:08,587
-<font face="Comic Sans MS"><i>- How far are we from London?
-- Violet?</i></font>
+01:15:26,185 --> 01:15:30,389
+All I know is that
+they want that core drive.
 
 950
-01:39:10,155 --> 01:39:11,590
-<font face="Comic Sans MS"><i>Let's get there
-as fast as we can.</i></font>
+01:15:31,524 --> 01:15:33,993
+And they're gonna do everything
+they can to get it.
 
 951
-01:39:29,574 --> 01:39:31,543
-<font face="Comic Sans MS"><i>- It's too late.
-- What are we gonna do now?</i></font>
+01:15:34,026 --> 01:15:35,694
+Why?
 
 952
-01:39:31,576 --> 01:39:33,378
-<font face="Comic Sans MS"><i>How are we supposed
-to stop them all?</i></font>
+01:15:35,728 --> 01:15:37,129
+And don't you bullshit me.
 
 953
-01:39:36,581 --> 01:39:37,817
-<font face="Comic Sans MS"><i>Leave that to me.</i></font>
+01:15:38,197 --> 01:15:42,234
+It's some kind of weapon.
 
 954
-01:40:31,603 --> 01:40:33,873
-<font face="Comic Sans MS"><i>- How the hell did you to that?
-- Which part?</i></font>
+01:15:44,203 --> 01:15:47,139
+Powerful enough to wipe every
+Pilot off the face of the Earth.
 
 955
-01:40:33,906 --> 01:40:34,974
-<font face="Comic Sans MS"><i>All of it.</i></font>
+01:15:47,173 --> 01:15:48,340
+(TRENT SPEAKING ALIEN)
 
 956
-01:40:35,007 --> 01:40:37,677
-<font face="Comic Sans MS"><i>Let's just say,
-between your serum and my ship,</i></font>
+01:15:53,045 --> 01:15:54,914
+Then why are you helping us?
 
 957
-01:40:37,710 --> 01:40:40,278
-<font face="Comic Sans MS"><i>we have more than enough power
-now to cure everyone.</i></font>
+01:15:58,350 --> 01:16:00,085
+'Cause, I knew...
 
 958
-01:40:40,311 --> 01:40:41,847
-<font face="Comic Sans MS"><i>Well, I guess
-we're finally even.</i></font>
+01:16:01,420 --> 01:16:06,058
+I knew deep down...
+why you froze up.
 
 959
-01:40:41,881 --> 01:40:43,214
-<font face="Comic Sans MS"><i>I guess we are.</i></font>
+01:16:07,126 --> 01:16:09,762
+Why my sister died that day.
 
 960
-01:40:59,732 --> 01:41:02,333
-<font face="Comic Sans MS"><i>Look at you, all grown up.</i></font>
+01:16:09,795 --> 01:16:14,033
+I knew that you couldn't destroy
+them because they're a part of you.
 
 961
-01:41:02,802 --> 01:41:04,804
-<font face="Comic Sans MS"><i>Wait.</i></font>
+01:16:15,968 --> 01:16:17,803
+And I hated you for that.
 
 962
-01:41:06,504 --> 01:41:07,673
-<font face="Comic Sans MS"><i>Where's Grant?</i></font>
+01:16:19,838 --> 01:16:23,475
+But that feeling, that feeling's
+simple, it's... It's easy.
 
 963
-01:41:10,910 --> 01:41:13,244
-<font face="Comic Sans MS"><i>Wish he could have been here
-to see this.</i></font>
+01:16:23,509 --> 01:16:25,211
+And now that I know
+who you really are...
 
 964
-01:41:13,278 --> 01:41:15,447
-<font face="Comic Sans MS"><i>The stories he'd have told.</i></font>
+01:16:27,279 --> 01:16:29,481
+Now it's complicated.
 
 965
-01:41:17,750 --> 01:41:19,284
-<font face="Comic Sans MS"><i>I guess now it's your turn.</i></font>
+01:16:32,017 --> 01:16:33,118
+Yes.
 
 966
-01:41:20,019 --> 01:41:22,253
-<font face="Comic Sans MS"><i>Come on. I'm double-parked.</i></font>
+01:16:36,355 --> 01:16:37,890
+Yes, it is.
 
 967
-01:41:41,674 --> 01:41:42,540
-<font face="Comic Sans MS"><i>Guys.</i></font>
+01:16:46,799 --> 01:16:49,389
+LEON: If we don't get to the ship before
+Owens, we're gonna be stranded here.
 
 968
-01:41:42,574 --> 01:41:44,176
-<font face="Comic Sans MS"><i>Doc says it's gonna take
-a couple of weeks</i></font>
+01:16:49,401 --> 01:16:50,502
+(TRENT SPEAKS ALIEN)
 
 969
-01:41:44,210 --> 01:41:49,782
-<font face="Comic Sans MS"><i>to get used to the new body, but introducing
-the new and improved Trent Corley.</i></font>
+01:16:50,536 --> 01:16:52,104
+Yeah, what do you want me
+to do? Fly?
 
 970
-01:41:52,685 --> 01:41:55,320
-<font face="Comic Sans MS"><i>Nah, you look good, man.
-You look great.</i></font>
+01:16:52,137 --> 01:16:53,172
+LEON: Oh, can you?
 
 971
-01:41:56,521 --> 01:41:57,723
-<font face="Comic Sans MS"><i>How'd you get uglier?</i></font>
+01:16:53,205 --> 01:16:54,406
+I'm serious, Rose.
 
 972
-01:42:01,392 --> 01:42:02,393
-<font face="Comic Sans MS"><i>Hey, guys.</i></font>
+01:16:54,440 --> 01:16:56,129
+We've gotta pick up the pace,
+otherwise we're gonna be...
 
 973
-01:42:02,928 --> 01:42:04,395
-<font face="Comic Sans MS"><i>Have a look at this.</i></font>
+01:16:56,141 --> 01:16:58,043
+Wait. You see that?
 
 974
-01:42:05,597 --> 01:42:07,867
-<font face="Comic Sans MS"><i>I hacked Radford's
-personal files.</i></font>
+01:16:59,878 --> 01:17:01,513
+LEON: That's the same
+as our ships.
 
 975
-01:42:07,900 --> 01:42:09,034
-<font face="Comic Sans MS"><i>What is it?</i></font>
+01:17:01,547 --> 01:17:02,881
+(TRENT SPEAKING ALIEN)
 
 976
-01:42:09,068 --> 01:42:10,035
-<font face="Comic Sans MS"><i>A prison.</i></font>
+01:17:02,915 --> 01:17:04,383
+Don't move.
 
 977
-01:42:10,069 --> 01:42:12,537
-<font face="Comic Sans MS"><i>Where he kept
-all his enemies of the state.</i></font>
+01:17:04,416 --> 01:17:06,919
+LEON: We'll just...
+Just wait here for you.
 
 978
-01:42:17,042 --> 01:42:18,510
-<font face="Comic Sans MS"><i>Including your father.</i></font>
+01:17:06,952 --> 01:17:11,090
+You know, that sister of yours really
+needs to work on her communication skills.
 
 979
-01:42:24,683 --> 01:42:27,019
-<font face="Comic Sans MS"><i>Violet. Set a new course.</i></font>
+01:17:11,123 --> 01:17:12,563
+You're killing me.
+(TRENT GROWLS)
 
 980
-01:42:28,520 --> 01:42:29,554
-<font face="Comic Sans MS"><i>I told you so.</i></font>
+01:17:14,059 --> 01:17:15,527
+(RATTLING)
+Shit.
 
 981
-01:42:46,906 --> 01:42:48,874
-<font face="Comic Sans MS"><i>I'll go out again.</i></font>
+01:17:16,428 --> 01:17:18,030
+Rose, we've got company!
 
 982
-01:42:49,775 --> 01:42:50,843
-<font face="Comic Sans MS"><i>Cut!</i></font>
+01:17:21,867 --> 01:17:23,269
+Shit...
 
 983
-01:42:55,981 --> 01:42:59,785
-<font face="Comic Sans MS"><i>Whoa. Oh, yes.
-It's quite fun, actually.</i></font>
+01:17:23,302 --> 01:17:25,170
+(CREATURES GROWLING)
 
 984
-01:43:02,755 --> 01:43:03,756
-<font face="Comic Sans MS"><i>Watch your step.</i></font>
+01:17:34,113 --> 01:17:35,447
+I guess this is it, then.
 
 985
-01:43:13,699 --> 01:43:14,934
-<font face="Comic Sans MS"><i>Cut!</i></font>
+01:17:40,986 --> 01:17:44,523
+Hey, come on!
+Come back over here! Over here!
 
 986
-01:43:17,102 --> 01:43:18,603
-<font face="Comic Sans MS"><i>- Cut!
-- Cha! Cha! Cha!</i></font>
+01:17:44,556 --> 01:17:45,924
+(YELLING)
 
 987
-01:43:18,637 --> 01:43:21,006
-<font face="Comic Sans MS"><i>I run fast, despite what they...</i></font>
+01:18:12,418 --> 01:18:13,419
+Attagirl.
 
 988
-01:43:21,040 --> 01:43:22,507
-<font face="Comic Sans MS"><i>All right, I do!</i></font>
+01:18:15,554 --> 01:18:17,189
+(LEON YELLING)
 
 989
-01:43:24,777 --> 01:43:27,478
-<font face="Comic Sans MS"><i>Got him!</i></font>
+01:18:28,500 --> 01:18:29,501
+(EXHALES)
 
 990
-01:43:29,715 --> 01:43:31,984
-<font face="Comic Sans MS"><i>- Catch!
-- Whoa!</i></font>
+01:18:32,004 --> 01:18:33,405
+Not bad for a human.
 
 991
-01:43:44,096 --> 01:43:45,430
-<font face="Comic Sans MS"><i>Fuck!</i></font>
+01:18:33,439 --> 01:18:36,075
+Oh, finally she's impressed.
 
 992
-01:43:46,131 --> 01:43:48,433
-<font face="Comic Sans MS"><i>Shit!</i></font>
+01:18:37,042 --> 01:18:38,410
+Got one in my size?
 
 993
-01:43:49,935 --> 01:43:52,137
-<font face="Comic Sans MS"><i>Sorry!</i></font>
+01:18:41,046 --> 01:18:43,148
+ROSE: (WHISPERS) No...
+(TRENT GROWLING)
 
 994
-01:43:57,609 --> 01:44:00,679
-<font face="Comic Sans MS"><i>That's sweet.
-It's just great that it's you.</i></font>
+01:18:53,425 --> 01:18:55,160
+Hold tight in there, Trent.
 
 995
-01:44:07,119 --> 01:44:09,621
-<font face="Comic Sans MS"><i>Check! Sorry!</i></font>
+01:18:57,196 --> 01:18:59,064
+- What about me?
+- I'm coming.
 
 996
-01:44:09,655 --> 01:44:11,824
-<font face="Comic Sans MS"><i>The leg fell off the table!</i></font>
+01:19:00,265 --> 01:19:01,900
+This shit's exhausting.
 
 997
-01:44:50,029 --> 01:44:52,965
-<font face="Comic Sans MS"><i>No, come on!
-Don't give up on me, Rose!</i></font>
+01:19:01,934 --> 01:19:03,969
+That's exhausting?
+What, do you wanna swap places?
 
 998
-01:44:52,998 --> 01:44:55,234
-<font face="Comic Sans MS"><i>Do not give up on me.
-You got this. Come on.</i></font>
+01:19:04,002 --> 01:19:05,371
+ROSE: Hmm. Cheeky.
 
 999
-01:44:55,267 --> 01:44:57,568
-<font face="Comic Sans MS"><i>Come on, yes. Yes!
-It's working...</i></font>
+01:19:08,941 --> 01:19:13,145
+Whoa! Wow. Okay.
 
 1000
-01:44:57,602 --> 01:45:01,206
-<font face="Comic Sans MS"><i>Fuck you, Liam.
-What the fuck!</i></font>
+01:19:13,178 --> 01:19:15,547
+Whoo! Um, do you want me to...
 
 1001
-01:45:01,240 --> 01:45:02,841
-<font face="Comic Sans MS"><i>Okay, cut.
-Thank you.</i></font>
+01:19:15,581 --> 01:19:17,416
+Just hold on to something.
+
+1002
+01:19:17,449 --> 01:19:18,984
+Okay... Sorry...
+
+1003
+01:19:19,017 --> 01:19:20,386
+ROSE: Not anything.
+
+1004
+01:19:26,592 --> 01:19:28,994
+You did good, soldier.
+
+1005
+01:19:29,027 --> 01:19:32,531
+Hell, you did the impossible.
+
+1006
+01:19:39,004 --> 01:19:40,406
+ZHI: What about the others?
+
+1007
+01:19:40,439 --> 01:19:41,273
+Alexi?
+
+1008
+01:19:41,306 --> 01:19:45,611
+Zhi, make sure
+this man gets some rest.
+
+1009
+01:19:45,645 --> 01:19:47,546
+I've got it from here.
+
+1010
+01:19:52,251 --> 01:19:53,887
+LEON: Does this thing go
+any faster?
+
+1011
+01:20:00,225 --> 01:20:01,326
+Jesus.
+
+1012
+01:20:05,364 --> 01:20:06,699
+ROSE: This wasn't a probe.
+
+1013
+01:20:07,599 --> 01:20:08,967
+This was a bomb.
+
+1014
+01:20:14,373 --> 01:20:16,041
+The shadow creatures...
+
+1015
+01:20:17,644 --> 01:20:18,977
+<i>Pilots back home.</i>
+
+1016
+01:20:20,612 --> 01:20:21,681
+<i>Trent.</i>
+
+1017
+01:20:22,715 --> 01:20:24,249
+It's all connected.
+
+1018
+01:20:26,385 --> 01:20:28,153
+They aren't just dying...
+
+1019
+01:20:28,187 --> 01:20:30,122
+(GRUNTS) Payback's a bitch!
+
+1020
+01:20:30,155 --> 01:20:31,423
+They've been poisoned.
+
+1021
+01:20:34,092 --> 01:20:35,194
+Radford.
+
+1022
+01:20:37,062 --> 01:20:38,564
+(WHISPERS) That son of a bitch.
+
+1023
+01:20:40,332 --> 01:20:41,500
+Let's go get him.
+
+1024
+01:20:45,738 --> 01:20:47,372
+Violet.
+
+1025
+01:20:47,406 --> 01:20:48,775
+We need to install this now.
+
+1026
+01:20:48,808 --> 01:20:50,175
+(VIOLET SPEAKS ALIEN)
+
+1027
+01:20:53,345 --> 01:20:56,248
+Just need to scan
+for any contamination.
+
+1028
+01:20:56,281 --> 01:20:58,116
+I'm all right. I feel fine.
+
+1029
+01:20:58,651 --> 01:21:00,185
+It's protocol, Owens.
+
+1030
+01:21:04,189 --> 01:21:05,591
+(VIOLET SPEAKING ALIEN)
+
+1031
+01:21:08,661 --> 01:21:11,063
+Take us to firing altitude.
+
+1032
+01:21:29,515 --> 01:21:30,516
+We're too late.
+
+1033
+01:21:33,519 --> 01:21:35,755
+Let's give them a taste
+of their own medicine.
+
+1034
+01:21:35,788 --> 01:21:37,155
+(VIOLET SPEAKS ALIEN)
+
+1035
+01:21:37,690 --> 01:21:38,758
+(CHUCKLES) No.
+
+1036
+01:21:39,792 --> 01:21:41,293
+Not a harvest.
+
+1037
+01:21:43,262 --> 01:21:44,797
+An extermination.
+
+1038
+01:21:59,779 --> 01:22:01,480
+Well, it's been nice
+knowing you, Rose.
+
+1039
+01:22:08,855 --> 01:22:10,222
+Brace yourself.
+
+1040
+01:22:16,161 --> 01:22:17,563
+Hold on!
+
+1041
+01:22:33,445 --> 01:22:36,783
+Now I am become death.
+
+1042
+01:22:50,562 --> 01:22:52,197
+Destroyer of worlds.
+
+1043
+01:22:58,838 --> 01:23:00,372
+Plot a course for home.
+
+1044
+01:23:02,374 --> 01:23:05,243
+Engage the drive as soon
+as we're clear of the rings.
+
+1045
+01:23:06,511 --> 01:23:08,347
+(ROSE AND LEON SCREAMING)
+
+1046
+01:23:10,382 --> 01:23:11,416
+ROSE: Hold on!
+
+1047
+01:23:11,450 --> 01:23:12,618
+LEON: I'm holding on!
+
+1048
+01:23:14,954 --> 01:23:17,222
+(SLOWING DOWN)
+
+1049
+01:23:26,531 --> 01:23:29,936
+Rose... we're in space.
+
+1050
+01:23:29,969 --> 01:23:31,203
+I know.
+
+1051
+01:23:34,339 --> 01:23:35,374
+There it is.
+
+1052
+01:23:42,649 --> 01:23:43,816
+What are you gonna do?
+
+1053
+01:23:54,459 --> 01:23:56,161
+It's working.
+We're getting closer!
+
+1054
+01:24:07,339 --> 01:24:08,473
+What about Trent?
+
+1055
+01:24:09,408 --> 01:24:10,609
+How did he die?
+
+1056
+01:24:13,813 --> 01:24:15,180
+What's this about?
+
+1057
+01:24:18,583 --> 01:24:21,654
+Just trying to figure out why
+there's traces of a high thyroxine
+
+1058
+01:24:21,688 --> 01:24:23,422
+pilot blood on your body.
+
+1059
+01:24:23,455 --> 01:24:25,590
+Same as on the diseased pilots
+on Earth.
+
+1060
+01:24:25,925 --> 01:24:28,560
+Huh.
+
+1061
+01:24:28,593 --> 01:24:32,665
+If I didn't know any better, I'd think
+they derived from the same source.
+
+1062
+01:24:35,333 --> 01:24:36,869
+(YELLS)
+(BOTH GRUNTING)
+
+1063
+01:24:57,589 --> 01:24:59,458
+(ALARM BLARING)
+
+1064
+01:25:06,966 --> 01:25:08,533
+Everything you've got.
+This is it!
+
+1065
+01:25:31,724 --> 01:25:33,760
+Get us back on this ship, Rose!
+
+1066
+01:25:33,793 --> 01:25:34,794
+Get us back!
+
+1067
+01:26:08,527 --> 01:26:09,594
+OWENS: Motherfucker.
+
+1068
+01:26:11,030 --> 01:26:12,732
+(ALARM BLARING)
+Rose?
+
+1069
+01:26:14,100 --> 01:26:16,434
+Get you to the med lab.
+We've got some blood there.
+
+1070
+01:26:31,516 --> 01:26:33,719
+I really like what you've done
+with your hair.
+
+1071
+01:26:35,888 --> 01:26:39,025
+Obviously, it wasn't supposed
+to be like this.
+
+1072
+01:26:39,058 --> 01:26:40,325
+General!
+
+1073
+01:26:40,893 --> 01:26:42,094
+Zhi.
+
+1074
+01:26:42,128 --> 01:26:44,831
+Can't you see
+they've been compromised?
+
+1075
+01:26:44,864 --> 01:26:47,465
+He's not the sharpest.
+Just look at her.
+
+1076
+01:26:47,499 --> 01:26:48,801
+Don't listen to him, Zhi.
+
+1077
+01:26:48,835 --> 01:26:50,837
+He's been lying
+from the beginning.
+
+1078
+01:26:50,870 --> 01:26:53,371
+He bombed Cobalt
+before we got here.
+
+1079
+01:26:53,405 --> 01:26:55,696
+And then he unleashed the same
+virus on the Pilots back home.
+
+1080
+01:26:55,708 --> 01:26:56,843
+ZHI: <i>I know.</i>
+
+1081
+01:26:56,876 --> 01:26:58,177
+And I have the proof.
+
+1082
+01:26:58,211 --> 01:27:00,646
+<i>Shoot them and I send it to
+every military base on Earth.</i>
+
+1083
+01:27:00,680 --> 01:27:02,414
+Be my guest.
+
+1084
+01:27:02,447 --> 01:27:05,151
+Half of them will probably thank me.
+Call me a hero.
+
+1085
+01:27:05,184 --> 01:27:06,518
+Or a piece of shit.
+
+1086
+01:27:07,653 --> 01:27:09,789
+Well, now, that's just rude.
+
+1087
+01:27:10,622 --> 01:27:12,725
+No! (GRUNTS)
+
+1088
+01:27:16,195 --> 01:27:17,429
+Damn it!
+
+1089
+01:27:17,462 --> 01:27:19,165
+You chose the wrong side, Rose.
+
+1090
+01:27:19,198 --> 01:27:21,566
+Of what? Genocide?
+
+1091
+01:27:23,669 --> 01:27:26,772
+The virus was meant to euthanize
+the Pilots peacefully.
+
+1092
+01:27:27,106 --> 01:27:28,908
+Humanely.
+
+1093
+01:27:28,941 --> 01:27:30,977
+And you thought it worked, too.
+
+1094
+01:27:31,010 --> 01:27:34,046
+So you let it loose
+in your own backyard.
+
+1095
+01:27:34,080 --> 01:27:37,482
+But you had no goddamn clue what
+you did until it was too late.
+
+1096
+01:27:37,515 --> 01:27:39,952
+Well, thanks to you,
+I can mop up that error,
+
+1097
+01:27:39,986 --> 01:27:43,421
+eradicate every last one
+of them, and save London.
+
+1098
+01:27:43,455 --> 01:27:46,659
+All in time for tea.
+
+1099
+01:27:48,861 --> 01:27:51,163
+Now I can give the Earth
+back to mankind.
+
+1100
+01:27:51,998 --> 01:27:53,900
+The real mankind.
+
+1101
+01:27:54,901 --> 01:27:56,168
+You know what?
+
+1102
+01:27:57,937 --> 01:27:59,257
+You're gonna have to
+fight for it.
+
+1103
+01:28:10,983 --> 01:28:13,085
+(GRUNTS)
+(TRENT GROWLS)
+
+1104
+01:28:26,732 --> 01:28:28,034
+(TRENT SPEAKING ALIEN)
+
+1105
+01:28:37,777 --> 01:28:39,946
+(GRUNTS)
+LEON: What's the matter, General?
+
+1106
+01:28:39,979 --> 01:28:41,647
+Afraid to fight for yourself?
+
+1107
+01:28:41,681 --> 01:28:43,149
+(BONES CRUNCH)
+(SCREAMS)
+
+1108
+01:28:44,516 --> 01:28:46,618
+Not if I don't have to.
+
+1109
+01:28:47,687 --> 01:28:49,055
+(BOTH GRUNTING)
+
+1110
+01:28:56,528 --> 01:28:58,568
+Head for the main road?
+DR. MAL: Brace yourself.
+
+1111
+01:28:59,732 --> 01:29:01,067
+We're not in Kansas anymore.
+
+1112
+01:29:31,563 --> 01:29:32,865
+(SCREAMS)
+
+1113
+01:29:44,076 --> 01:29:45,077
+(YELLS)
+
+1114
+01:29:47,579 --> 01:29:48,647
+Trent, no!
+
+1115
+01:29:49,181 --> 01:29:50,750
+Trent! Stop.
+
+1116
+01:29:55,187 --> 01:29:56,188
+Fight it.
+
+1117
+01:29:57,156 --> 01:29:58,290
+Stop.
+
+1118
+01:29:59,725 --> 01:30:01,093
+Come back to me.
+
+1119
+01:30:02,094 --> 01:30:03,229
+(TRENT STRAINING)
+
+1120
+01:30:06,732 --> 01:30:08,067
+(TRENT ROARS)
+
+1121
+01:30:10,269 --> 01:30:11,637
+(BOTH GRUNTING)
+
+1122
+01:30:21,147 --> 01:30:24,216
+You can't fight
+their nature, Rose.
+
+1123
+01:30:26,085 --> 01:30:28,754
+That was never Trent.
+
+1124
+01:30:30,022 --> 01:30:33,659
+Or Violet. (CHUCKLES)
+
+1125
+01:30:33,692 --> 01:30:35,593
+They're abominations!
+
+1126
+01:30:35,627 --> 01:30:38,831
+Something your father and I
+could never agree on.
+
+1127
+01:30:38,864 --> 01:30:40,166
+So he had to go.
+
+1128
+01:30:42,368 --> 01:30:43,636
+(GUN COCKING)
+
+1129
+01:30:44,136 --> 01:30:45,204
+As do you.
+
+1130
+01:30:45,237 --> 01:30:47,239
+(CRUNCHING)
+(SCREAMS)
+
+1131
+01:30:47,273 --> 01:30:49,607
+You cheap bastard.
+
+1132
+01:30:49,642 --> 01:30:51,609
+(YELLS)
+Time to pay, Corporal.
+
+1133
+01:30:52,711 --> 01:30:53,979
+(SCREAMS)
+
+1134
+01:31:00,052 --> 01:31:03,222
+Get the fuck out of my way.
+
+1135
+01:31:05,191 --> 01:31:06,358
+(MATRIARCH GROWLS)
+
+1136
+01:31:08,327 --> 01:31:09,328
+(SCREAMING)
+
+1137
+01:31:12,164 --> 01:31:13,365
+(LEON SPEAKS INDISTINCTLY)
+
+1138
+01:31:14,800 --> 01:31:15,868
+(SCREAMS)
+
+1139
+01:31:21,974 --> 01:31:23,608
+(MATRIARCH SPEAKING)
+
+1140
+01:31:26,011 --> 01:31:27,379
+I can't let her leave this room.
+
+1141
+01:31:27,413 --> 01:31:28,814
+(VIOLET SPEAKING ALIEN)
+
+1142
+01:31:29,248 --> 01:31:30,282
+Go! Now!
+
+1143
+01:31:35,454 --> 01:31:36,655
+OWENS: Open!
+
+1144
+01:31:40,159 --> 01:31:41,393
+Rose!
+
+1145
+01:31:41,427 --> 01:31:42,962
+Go!
+
+1146
+01:31:42,995 --> 01:31:44,196
+OWENS: Violet!
+
+1147
+01:31:44,230 --> 01:31:46,765
+Open the goddamn door!
+That's an order!
+
+1148
+01:31:46,799 --> 01:31:47,900
+Open!
+
+1149
+01:31:49,201 --> 01:31:50,236
+Violet!
+
+1150
+01:31:53,372 --> 01:31:54,373
+(SCREAMS)
+
+1151
+01:31:57,042 --> 01:31:59,078
+- We've got to go, Rose. Come on.
+- No!
+
+1152
+01:31:59,111 --> 01:32:02,014
+If she gets to the core drive,
+she'll kill everyone on Earth.
+
+1153
+01:32:02,047 --> 01:32:03,048
+Rose!
+
+1154
+01:32:05,017 --> 01:32:06,852
+Fine. If you're staying,
+I'm staying.
+
+1155
+01:32:18,130 --> 01:32:20,366
+ROSE: Violet's taking us
+into the wormhole.
+
+1156
+01:32:20,399 --> 01:32:23,068
+Go get Trent
+and get out of here. Now!
+
+1157
+01:32:28,908 --> 01:32:30,176
+What about you?
+
+1158
+01:32:31,377 --> 01:32:33,812
+I have to finish this myself.
+
+1159
+01:32:57,770 --> 01:33:01,207
+Easy, now, big guy. Easy.
+(TRENT GROWLS)
+
+1160
+01:33:02,208 --> 01:33:03,909
+Trent, wait! It's not you.
+
+1161
+01:33:04,543 --> 01:33:05,844
+No! No!
+
+1162
+01:33:35,107 --> 01:33:37,276
+Trent! You need to snap
+out of this!
+
+1163
+01:33:40,579 --> 01:33:43,749
+(SNARLING)
+(ROSE GRUNTING)
+
+1164
+01:33:45,150 --> 01:33:46,151
+(STRAINING)
+
+1165
+01:33:49,955 --> 01:33:51,490
+Trent! I know you're in there!
+
+1166
+01:34:10,276 --> 01:34:11,577
+(LEON GRUNTING)
+
+1167
+01:34:11,610 --> 01:34:14,213
+Come on, get your
+shit together, mate!
+
+1168
+01:34:14,580 --> 01:34:15,781
+(GRUNTING)
+
+1169
+01:34:23,355 --> 01:34:25,090
+Trent! Trent!
+
+1170
+01:34:29,094 --> 01:34:30,129
+Hold on!
+
+1171
+01:34:30,162 --> 01:34:31,330
+(TRENT WARBLING)
+
+1172
+01:34:40,272 --> 01:34:41,473
+(SCREAMING)
+
+1173
+01:35:01,994 --> 01:35:03,262
+(LEON SCREAMS)
+
+1174
+01:35:15,074 --> 01:35:16,241
+LEON: Rose!
+
+1175
+01:35:21,046 --> 01:35:22,047
+Don't let go!
+
+1176
+01:35:23,683 --> 01:35:24,883
+(YELLS)
+
+1177
+01:35:33,292 --> 01:35:35,027
+(TRENT SPEAKING ALIEN)
+
+1178
+01:35:43,469 --> 01:35:44,470
+No!
+
+1179
+01:36:01,453 --> 01:36:02,655
+(SCREAMING)
+
+1180
+01:36:19,739 --> 01:36:21,173
+(ROSE SCREAMING)
+
+1181
+01:36:38,424 --> 01:36:40,459
+(POWERING DOWN)
+
+1182
+01:36:45,765 --> 01:36:47,299
+(PANTING)
+
+1183
+01:36:52,404 --> 01:36:53,439
+Trent.
+
+1184
+01:36:53,472 --> 01:36:55,708
+Stay with me.
+
+1185
+01:36:55,742 --> 01:37:00,479
+(SOBBING) You'll be okay.
+You'll be okay.
+
+1186
+01:37:15,027 --> 01:37:17,062
+All right. Good as new.
+
+1187
+01:37:45,658 --> 01:37:47,326
+It sounds bad, but...
+
+1188
+01:37:49,829 --> 01:37:52,097
+I never really saw them
+as human.
+
+1189
+01:37:53,332 --> 01:37:54,399
+Just the enemy.
+
+1190
+01:37:55,702 --> 01:37:57,670
+A reminder of everything
+I've lost.
+
+1191
+01:38:00,640 --> 01:38:02,742
+But now?
+
+1192
+01:38:02,775 --> 01:38:07,446
+Now all I see is a brother willing
+to give his life for his sister...
+
+1193
+01:38:10,817 --> 01:38:12,584
+and a dickhead like me.
+
+1194
+01:38:14,754 --> 01:38:16,321
+(CHUCKLES)
+
+1195
+01:38:16,355 --> 01:38:18,390
+Yeah, well,
+I think he likes you.
+
+1196
+01:38:19,558 --> 01:38:20,559
+You reckon?
+
+1197
+01:38:23,161 --> 01:38:24,697
+You're still alive, aren't you?
+
+1198
+01:38:27,566 --> 01:38:28,567
+Good point.
+
+1199
+01:38:44,884 --> 01:38:46,418
+(SCREAMS)
+
+1200
+01:39:19,484 --> 01:39:21,587
+ROSE: How far are we from London?
+LEON: Violet?
+
+1201
+01:39:21,620 --> 01:39:23,121
+(VIOLET SPEAKING ALIEN)
+
+1202
+01:39:23,155 --> 01:39:24,590
+Let's get there
+as fast as we can.
+
+1203
+01:39:42,574 --> 01:39:44,543
+- It's too late.
+- What are we gonna do now?
+
+1204
+01:39:44,576 --> 01:39:46,378
+How are we supposed
+to stop them all?
+
+1205
+01:39:49,581 --> 01:39:50,817
+Leave that to me.
+
+1206
+01:39:52,852 --> 01:39:53,853
+(GRUNTS)
+
+1207
+01:40:22,414 --> 01:40:23,850
+(PILOTS SHRIEKING)
+
+1208
+01:40:44,603 --> 01:40:46,873
+DR. MAL: How the hell did you to that?
+Which part?
+
+1209
+01:40:46,906 --> 01:40:47,974
+All of it.
+
+1210
+01:40:48,007 --> 01:40:50,677
+Let's just say,
+between your serum and my ship,
+
+1211
+01:40:50,710 --> 01:40:53,278
+we have more than enough power
+now to cure everyone.
+
+1212
+01:40:53,311 --> 01:40:54,847
+Well, I guess
+we're finally even.
+
+1213
+01:40:54,881 --> 01:40:56,214
+I guess we are.
+
+1214
+01:41:12,732 --> 01:41:15,333
+Look at you, all grown up.
+
+1215
+01:41:15,802 --> 01:41:17,804
+(CHUCKLES) Wait.
+
+1216
+01:41:19,504 --> 01:41:20,673
+Where's Grant?
+
+1217
+01:41:23,910 --> 01:41:26,244
+Wish he could have been here
+to see this.
+
+1218
+01:41:26,278 --> 01:41:28,447
+The stories he'd have told.
+
+1219
+01:41:30,750 --> 01:41:32,284
+I guess now it's your turn.
+
+1220
+01:41:33,019 --> 01:41:35,253
+Come on. I'm double-parked.
+
+1221
+01:41:45,497 --> 01:41:46,666
+(THUNDERCLAP)
+
+1222
+01:41:54,674 --> 01:41:55,540
+Guys.
+
+1223
+01:41:55,574 --> 01:41:57,198
+Doc says it's gonna take
+a couple of weeks
+
+1224
+01:41:57,210 --> 01:42:02,782
+to get used to the new body, but introducing
+the new and improved Trent Corley.
+
+1225
+01:42:02,815 --> 01:42:04,016
+(TRENT SPEAKING ALIEN)
+
+1226
+01:42:05,685 --> 01:42:08,320
+Nah, you look good, man.
+You look great.
+
+1227
+01:42:09,521 --> 01:42:10,723
+How'd you get uglier?
+
+1228
+01:42:14,392 --> 01:42:15,393
+ZHI: Hey, guys.
+
+1229
+01:42:15,928 --> 01:42:17,395
+Have a look at this.
+
+1230
+01:42:18,597 --> 01:42:20,867
+I hacked Radford's
+personal files.
+
+1231
+01:42:20,900 --> 01:42:22,034
+ROSE: What is it?
+
+1232
+01:42:22,068 --> 01:42:23,035
+ZHI: A prison.
+
+1233
+01:42:23,069 --> 01:42:25,537
+Where he kept
+all his enemies of the state.
+
+1234
+01:42:25,570 --> 01:42:26,739
+(TRENT SPEAKS ALIEN)
+
+1235
+01:42:30,042 --> 01:42:31,510
+ZHI: Including your father.
+
+1236
+01:42:37,683 --> 01:42:40,019
+Violet. Set a new course.
+
+1237
+01:42:40,052 --> 01:42:41,486
+(VIOLET SPEAKING)
+
+1238
+01:42:41,520 --> 01:42:42,554
+I told you so.
+
+1239
+01:42:42,587 --> 01:42:43,990
+(TRENT SPEAKING ALIEN)
+
+1240
+01:42:45,825 --> 01:42:50,029
+<i>♪ I don't know what
+We're supposed to be</i>
+
+1241
+01:42:50,062 --> 01:42:55,001
+<i>♪ But I know we lost it
+Along the way</i>
+
+1242
+01:42:55,034 --> 01:42:57,937
+<i>♪ To something better... ♪</i>
+
+1243
+01:42:59,906 --> 01:43:01,874
+(LAUGHS) I'll go out again.
+
+1244
+01:43:02,775 --> 01:43:03,843
+DIRECTOR: Cut!
+
+1245
+01:43:05,577 --> 01:43:06,946
+(INDISTINCT CHATTER)
+
+1246
+01:43:08,981 --> 01:43:12,785
+Whoa. Oh, yes.
+It's quite fun, actually.
+
+1247
+01:43:13,585 --> 01:43:14,586
+(ROSE LAUGHS)
+
+1248
+01:43:15,755 --> 01:43:16,756
+Watch your step.
+
+1249
+01:43:17,589 --> 01:43:20,425
+(GRUNTS, LAUGHS)
+
+1250
+01:43:26,699 --> 01:43:28,019
+DIRECTOR: Cut!
+(BOTH GRUNTING)
+
+1251
+01:43:30,102 --> 01:43:31,603
+DIRECTOR: Cut!
+Cha! Cha! Cha!
+
+1252
+01:43:31,637 --> 01:43:34,006
+I run fast, despite what they...
+(LEON CHORTLES)
+
+1253
+01:43:34,040 --> 01:43:35,507
+All right, I do!
+
+1254
+01:43:37,777 --> 01:43:40,478
+Got him! (LAUGHS)
+
+1255
+01:43:42,715 --> 01:43:44,984
+Catch!
+MAN: Whoa! (LAUGHS)
+
+1256
+01:43:49,055 --> 01:43:50,656
+(SCREAMING)
+
+1257
+01:43:52,124 --> 01:43:53,558
+(SNORES)
+
+1258
+01:43:54,126 --> 01:43:55,862
+(GRUNTING)
+
+1259
+01:43:57,096 --> 01:43:58,430
+Fuck!
+
+1260
+01:43:59,131 --> 01:44:01,433
+Shit!
+(MAN LAUGHS)
+
+1261
+01:44:02,935 --> 01:44:05,137
+(MIMICS FARTING) Sorry!
+(LAUGHING)
+
+1262
+01:44:10,609 --> 01:44:13,679
+That's sweet.
+It's just great that it's you.
+
+1263
+01:44:13,713 --> 01:44:15,580
+(BOTH GRUNTING)
+
+1264
+01:44:16,581 --> 01:44:17,950
+(BOTH LAUGHING)
+
+1265
+01:44:20,119 --> 01:44:22,621
+Check! Sorry! (LAUGHS)
+
+1266
+01:44:22,655 --> 01:44:24,824
+The leg fell off the table!
+
+1267
+01:44:37,703 --> 01:44:39,639
+(INDISTINCT CONVERSATION)
+
+1268
+01:44:40,940 --> 01:44:42,675
+(BOTH GRUNTING)
+
+1269
+01:44:50,883 --> 01:44:51,884
+(LAUGHS)
+
+1270
+01:44:58,991 --> 01:45:01,027
+(LAUGHTER)
+
+1271
+01:45:03,029 --> 01:45:05,965
+No, come on!
+Don't give up on me, Rose!
+
+1272
+01:45:05,998 --> 01:45:08,234
+Do not give up on me.
+You got this. Come on.
+
+1273
+01:45:08,267 --> 01:45:10,568
+Come on, yes. Yes!
+It's working... (LAUGHS)
+
+1274
+01:45:10,602 --> 01:45:14,206
+Fuck you, Liam.
+What the fuck! (LAUGHS)
+
+1275
+01:45:14,240 --> 01:45:15,841
+DIRECTOR: Okay, cut.
+Thank you.
+
+1276
+01:45:16,048 --> 01:45:21,048
+Subtitles by explosiveskull
 
