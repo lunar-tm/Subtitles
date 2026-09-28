@@ -1,7 +1,6 @@
 1
 00:00:00,039 --> 00:00:35,039
-Www.WorldSrc.com
-All Things in one Place
+Lunar Team
 
 2
 00:00:57,000 --> 00:01:00,200
@@ -6087,7 +6086,7 @@ All Things in one Place
 1336
 01:39:59,002 --> 01:43:00,002
 تمت الترجمة بواسطة
-{\fnAndalus\fs30\b0\c&HFF0000&\3c&HFBF1F0&\4c&HFFFFFF&} || ديـدة إبـرا@ـيـم - رامي الجوهري - محمود فودة ||
-{\fs20\c&HHE73C01&\3c&HFFFFFF&}www.FB.com/Spider.Reviews
-www.FB.com/Spider.Reviews/home.of.subtitles
+{\fnAndalus\fs30\b0\c&HFF0000&\3c&HFBF1F0&\4c&HFFFFFF&} || لونار تيم / Lunar Team ||
+{\fs20\c&HHE73C01&\3c&HFFFFFF&}
+
 
