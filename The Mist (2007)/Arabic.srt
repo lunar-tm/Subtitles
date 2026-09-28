@@ -1,7 +1,7 @@
 ﻿0
 00:00:00,000 --> 00:00:10,000
-{\fnArial\3c&HFFFFFF&\1c&HFF0&\fs15\b1\an0} iTunes : الترجمة
-{\fnArial\3c&HFFFFFF&\1c&FF0000&\fs20\b1\an0} D.LUFFY :تعديل التوقيت
+{\fnArial\3c&HFFFFFF&\1c&HFF0&\fs15\b1\an0} ترجمة وتعديل
+{\fnArial\3c&HFFFFFF&\1c&FF0000&\fs20\b1\an0} فريق لونار / Lunar Team
 
 1
 00:01:42,819 --> 00:01:44,404
@@ -7159,7 +7159,7 @@
 
 1732
 02:05:52,102 --> 02:05:54,104
-‫ترجمة "ناجي بهنان"
+‫ترجمة "فريق لونار / Lunar Team"
 
 ‫
 
