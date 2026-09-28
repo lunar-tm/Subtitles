@@ -12,8 +12,7 @@
 
 4
 00:00:16,000 --> 00:00:22,074
-Support us and become VIP member 
-to remove all ads from www.OpenSubtitles.org
+Lunar Team
 
 5
 00:00:46,212 --> 00:00:47,702
@@ -8679,5 +8678,4 @@ Subtitles extracted by LeapinLar
 
 1987
 02:05:55,305 --> 02:06:55,402
-Please rate this subtitle at www.osdb.link/f9fv
-Help other users to choose the best subtitles
+Lunar Team
