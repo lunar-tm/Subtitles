@@ -1,0 +1,3459 @@
+﻿1
+00:00:34,742 --> 00:00:36,619
+- Hello.
+- "Hey, boy wonder."
+
+2
+00:00:37,370 --> 00:00:38,746
+"Guess what I'm holding in my hand."
+
+3
+00:00:39,080 --> 00:00:41,457
+- Danny?
+- "The one and only."
+
+4
+00:00:42,333 --> 00:00:44,377
+- "So how you doing?"
+- Good. I'm good.
+
+5
+00:00:45,503 --> 00:00:46,629
+It's been a long time.
+
+6
+00:00:47,964 --> 00:00:50,424
+- How are you?
+- Yeah. Good. Good.
+
+7
+00:00:50,841 --> 00:00:53,427
+Listen, I, uh...
+
+8
+00:00:55,555 --> 00:00:56,597
+I need your help.
+
+9
+00:01:00,851 --> 00:01:02,311
+"Units responding to the 187"
+
+10
+00:01:02,436 --> 00:01:04,605
+"at the K-Ram building
+proceed with caution."
+
+11
+00:01:12,113 --> 00:01:13,823
+This is unit 1. We're moving in.
+
+12
+00:01:36,137 --> 00:01:38,639
+Freeze! Drop it!
+Drop the weapon!
+
+13
+00:01:42,685 --> 00:01:43,728
+Turn around.
+
+14
+00:01:45,354 --> 00:01:46,397
+Hey, guys.
+
+15
+00:01:47,440 --> 00:01:48,774
+It's not what it looks like.
+
+16
+00:02:08,709 --> 00:02:11,670
+No, no, no, no. Y-you're going
+about it all wrong, detective.
+
+17
+00:02:11,795 --> 00:02:14,715
+Y-you're coming straight out
+of the gate with bad cop.
+
+18
+00:02:15,215 --> 00:02:17,551
+I mean, you do a good bad cop.
+You are intimidating.
+
+19
+00:02:17,676 --> 00:02:18,719
+I'm not gonna--
+I'm not gonna lie to you
+
+20
+00:02:18,844 --> 00:02:20,429
+but now let's bring good cop out.
+
+21
+00:02:20,763 --> 00:02:23,974
+He's nicer, more pleasant--
+we build a rapport.
+
+22
+00:02:24,099 --> 00:02:26,101
+You-- maybe you say something like
+"You thirsty?"
+
+23
+00:02:26,226 --> 00:02:27,478
+And I say "I'd love a cup of tea."
+
+24
+00:02:28,729 --> 00:02:30,064
+{\an8}Here's another fine mess, eh?
+
+25
+00:02:30,606 --> 00:02:32,066
+{\an8}They really found Jane
+holding the murder weapon?
+
+26
+00:02:32,191 --> 00:02:35,027
+{\an8}Yes, they did. Hightower twisted
+some arms at Sac PD.
+
+27
+00:02:35,152 --> 00:02:38,739
+{\an8}It's a joint investigation. We share
+the sandbox but CBI is taking the lead.
+
+28
+00:02:39,907 --> 00:02:41,241
+{\an8}I don't know why you're smiling.
+
+29
+00:02:41,408 --> 00:02:42,993
+{\an8}Well, it's a new angle
+at least, right?
+
+30
+00:02:43,118 --> 00:02:45,412
+{\an8}I mean, he's never been
+a murder suspect before.
+
+31
+00:02:45,996 --> 00:02:48,582
+{\an8}We got an ID on the victim.
+Landon Wale, 45.
+
+32
+00:02:48,749 --> 00:02:50,959
+He's some real estate mogul
+from San Francisco.
+
+33
+00:02:51,085 --> 00:02:52,127
+{\an8}What was he doing in Sacramento?
+
+34
+00:02:52,252 --> 00:02:55,756
+{\an8}Well, office is a financial brokerage--
+K-Ram investments, Inc.
+
+35
+00:02:55,881 --> 00:02:57,299
+{\an8}Van Pelt's trying to locate the owner.
+
+36
+00:02:57,925 --> 00:02:59,218
+{\an8}What's Jane say he was doing?
+
+37
+00:02:59,843 --> 00:03:02,429
+I-I was taking a walk
+and--to get some air
+
+38
+00:03:02,554 --> 00:03:04,264
+{\an8}and when I came by here I heard a shot
+
+39
+00:03:04,390 --> 00:03:06,475
+{\an8}so, uh, I came to see if I could help
+
+40
+00:03:06,600 --> 00:03:08,352
+{\an8}and that's when I discovered this man
+
+41
+00:03:09,103 --> 00:03:11,480
+{\an8}lying here with the blood and--and no pulse.
+
+42
+00:03:11,605 --> 00:03:12,815
+He had the gun in his hand.
+
+43
+00:03:13,607 --> 00:03:15,901
+{\an8}Yes, I confess. I-I picked it up.
+
+44
+00:03:17,403 --> 00:03:18,487
+I'm not good with forensics.
+
+45
+00:03:18,654 --> 00:03:20,864
+No, I can vouch for that.
+He is, uh, terrible.
+
+46
+00:03:21,073 --> 00:03:23,409
+{\an8}You heard a gunshot and ran in to help?
+
+47
+00:03:23,617 --> 00:03:25,452
+{\an8}Yes, I did. I'm no hero.
+
+48
+00:03:25,577 --> 00:03:27,913
+{\an8}I just did what any person
+would do in that situation.
+
+49
+00:03:28,038 --> 00:03:29,790
+No one is calling you a hero.
+
+50
+00:03:31,208 --> 00:03:32,543
+Really? Okay.
+
+51
+00:03:32,668 --> 00:03:35,504
+Detective, how'd your guys catch this? 911?
+
+52
+00:03:35,796 --> 00:03:37,840
+Yeah. Uh, an anonymous call
+
+53
+00:03:37,965 --> 00:03:40,342
+said a man was murdered at this location.
+
+54
+00:03:40,968 --> 00:03:42,803
+- Did you make that call, Jane?
+- No.
+
+55
+00:03:43,971 --> 00:03:45,514
+- Why would I do that?
+- Hang on, boss.
+
+56
+00:03:46,807 --> 00:03:48,100
+{\an8}This was stuck in his pocket.
+
+57
+00:03:48,976 --> 00:03:50,018
+Looks like a ruby.
+
+58
+00:03:50,769 --> 00:03:51,812
+A pretty nice one.
+
+59
+00:03:54,481 --> 00:03:56,442
+- Cool.
+- Yeah, great.
+
+60
+00:03:56,984 --> 00:03:59,695
+{\an8}Detective, could you uncuff
+this one now, please?
+
+61
+00:04:01,447 --> 00:04:02,614
+He's still a suspect.
+
+62
+00:04:02,740 --> 00:04:05,492
+And he is not gonna leave town.
+Release him into my custody.
+
+63
+00:04:05,659 --> 00:04:08,328
+You know he's not good for it.
+Zero connection to the victim.
+
+64
+00:04:08,954 --> 00:04:10,748
+"Nada. Niente."
+
+65
+00:04:11,540 --> 00:04:12,583
+Zip.
+
+66
+00:04:13,876 --> 00:04:15,627
+"Naught."
+I could go on.
+
+67
+00:04:16,378 --> 00:04:19,131
+I am reaching out to you, detective.
+I know this man
+
+68
+00:04:19,256 --> 00:04:21,592
+and I know he's telling the truth
+about what happened.
+
+69
+00:04:23,051 --> 00:04:25,929
+{\an8}- The truth. Now.
+- Beg your pardon?
+
+70
+00:04:26,305 --> 00:04:29,308
+{\an8}Talk, or I will give you back
+to Detective Reece. Seriously.
+
+71
+00:04:29,683 --> 00:04:31,477
+{\an8}My wife's brother called me
+and asked for my help.
+
+72
+00:04:31,602 --> 00:04:33,812
+{\an8}He gave me this address
+and when I got here
+
+73
+00:04:33,937 --> 00:04:36,565
+{\an8}I found the dead guy. I guess
+he called the police on me.
+
+74
+00:04:36,857 --> 00:04:38,150
+Your wife has a brother?
+
+75
+00:04:38,650 --> 00:04:42,196
+{\an8}- Yeah. Danny Ruskin.
+- Okay. Why'd he call the cops?
+
+76
+00:04:43,363 --> 00:04:45,073
+- Force my involvement.
+- Why?
+
+77
+00:04:45,491 --> 00:04:46,784
+Well, either he didn't kill Landon Wale
+
+78
+00:04:46,909 --> 00:04:48,327
+{\an8}and he wants me to help him
+catch the real killer
+
+79
+00:04:48,452 --> 00:04:50,954
+{\an8}or he did kill Landon Wale and he
+wants me to help him elude justice.
+
+80
+00:04:51,079 --> 00:04:53,207
+- And you would do that for him?
+- That's a very good question.
+
+81
+00:04:53,415 --> 00:04:54,750
+You know if the County Fair's
+in town?
+
+82
+00:04:59,505 --> 00:05:00,881
+{\an8}Mrs. Wale, what was
+your husband's connection
+
+83
+00:05:01,006 --> 00:05:02,090
+to K-Ram Investments?
+
+84
+00:05:03,091 --> 00:05:04,176
+{\an8}Where you found him?
+
+85
+00:05:06,261 --> 00:05:07,971
+{\an8}I've never heard of it before today.
+
+86
+00:05:08,514 --> 00:05:09,681
+{\an8}Me, neither and...
+
+87
+00:05:10,641 --> 00:05:12,351
+{\an8}my brother and I were
+business partners.
+
+88
+00:05:13,268 --> 00:05:14,311
+{\an8}Real estate.
+
+89
+00:05:14,520 --> 00:05:17,731
+Landon was a good man.
+Why would someone wanna hurt him?
+
+90
+00:05:18,273 --> 00:05:19,316
+We'll let you know.
+
+91
+00:05:20,275 --> 00:05:21,610
+And we understand
+that Heather Rade is here?
+
+92
+00:05:21,985 --> 00:05:24,363
+Lan's assistant?
+Upstairs.
+
+93
+00:05:25,739 --> 00:05:26,782
+Heather!
+
+94
+00:05:29,159 --> 00:05:30,202
+Concetta, honey...
+
+95
+00:05:30,744 --> 00:05:33,080
+People are bringing lots of food.
+You don't need to do this.
+
+96
+00:05:33,205 --> 00:05:35,165
+No, I do. I need to keep busy.
+
+97
+00:05:35,582 --> 00:05:37,584
+I can't believe this is happening.
+
+98
+00:05:38,710 --> 00:05:39,753
+Yes, Melanie?
+
+99
+00:05:40,587 --> 00:05:43,048
+- Oh. The police?
+- Yes, ma'am.
+
+100
+00:05:43,382 --> 00:05:45,467
+Did Mr. Wale ever speak to you
+about a brokerage in Sacramento
+
+101
+00:05:45,592 --> 00:05:47,511
+- called K-Ram Investments?
+- Sacramento?
+
+102
+00:05:48,220 --> 00:05:49,680
+Landon has a money guy here.
+
+103
+00:05:50,639 --> 00:05:51,682
+Sorry, no.
+
+104
+00:05:52,391 --> 00:05:54,351
+Mrs. Wale, did your husband
+ever wear jewelry?
+
+105
+00:05:55,894 --> 00:05:56,937
+No.
+
+106
+00:05:59,606 --> 00:06:01,984
+We, uh, found this on him.
+
+107
+00:06:02,943 --> 00:06:04,820
+It's a Ruby. Half-carat.
+
+108
+00:06:14,371 --> 00:06:17,916
+Oh, my God. It's gone.
+Why would Landon take it?
+
+109
+00:06:19,751 --> 00:06:23,672
+Landon gave me the statue
+of Aphrodite on our honeymoon.
+
+110
+00:06:23,797 --> 00:06:24,882
+You know, Aphrodite...
+
+111
+00:06:25,090 --> 00:06:26,842
+The Greek goddess of love and sexuality.
+Yes, ma'am.
+
+112
+00:06:27,050 --> 00:06:29,261
+It had rubies along the base.
+
+113
+00:06:30,220 --> 00:06:33,098
+I have a photo of it
+for insurance purposes here.
+
+114
+00:06:33,223 --> 00:06:34,266
+How valuable is it?
+
+115
+00:06:35,017 --> 00:06:37,185
+It was worth over $200,000.
+
+116
+00:06:38,186 --> 00:06:40,647
+Well, you should file a claim.
+Looks like the killer took it.
+
+117
+00:06:45,777 --> 00:06:47,195
+- Jane.
+- Yeah.
+
+118
+00:06:48,238 --> 00:06:49,907
+- Okay. Thank you.
+- Jane?
+
+119
+00:06:50,073 --> 00:06:51,575
+County Fair starts Saturday.
+
+120
+00:06:51,783 --> 00:06:54,036
+- So Danny'll be there?
+- Well, no. He's not that simple
+
+121
+00:06:54,161 --> 00:06:55,954
+but someone there will know where he is.
+
+122
+00:06:56,121 --> 00:06:57,831
+He's a carny like you used to be?
+
+123
+00:06:57,998 --> 00:07:00,375
+Uh, carny is a very
+broad term, Lisbon.
+
+124
+00:07:00,500 --> 00:07:02,794
+Uh, Danny's more showbiz
+but it's--it's been a while.
+
+125
+00:07:02,920 --> 00:07:05,464
+Before last night, when was
+the last time you talked to him?
+
+126
+00:07:07,799 --> 00:07:10,260
+When I called him to tell him
+what Red John had done.
+
+127
+00:07:12,763 --> 00:07:15,974
+Boss? K-Ram Investments
+doesn't exist.
+
+128
+00:07:16,183 --> 00:07:17,851
+It's not registered
+on any stock exchange.
+
+129
+00:07:17,976 --> 00:07:19,811
+- It's not even a real company.
+- Who owns it?
+
+130
+00:07:20,020 --> 00:07:21,647
+A holding company
+signed the lease.
+
+131
+00:07:21,772 --> 00:07:24,942
+I tracked that through three other outfits
+to get to a Daniel Ruskin.
+
+132
+00:07:25,442 --> 00:07:27,569
+Daniel Ruskin. He got a sheet?
+
+133
+00:07:27,819 --> 00:07:32,658
+Long one. Got hooked for larceny
+passing bad checks. Nothing violent.
+
+134
+00:07:32,908 --> 00:07:35,243
+Then was popped for fraud
+two years ago in Toronto.
+
+135
+00:07:35,535 --> 00:07:37,079
+He's a con man, basically.
+
+136
+00:07:38,121 --> 00:07:41,500
+- Show business, eh?
+- Well, confidence, game, showbiz--
+
+137
+00:07:41,917 --> 00:07:42,960
+it's a thin line.
+
+138
+00:07:43,085 --> 00:07:45,921
+So maybe the victim was a mark
+in one of Danny's cons.
+
+139
+00:07:46,046 --> 00:07:47,756
+Vic finds out. They fight.
+
+140
+00:07:47,881 --> 00:07:49,800
+Danny kills him
+and steals the statuette.
+
+141
+00:07:49,967 --> 00:07:52,761
+Possible. Danny is usually
+smoother than that.
+
+142
+00:07:53,136 --> 00:07:56,139
+Right. Very smooth, the way
+he forced you onto this case.
+
+143
+00:07:56,264 --> 00:07:58,684
+It's clever.
+You're a pawn in his game.
+
+144
+00:07:58,934 --> 00:08:00,185
+I'm not a pawn. He...
+
+145
+00:08:01,311 --> 00:08:02,896
+Yeah? What?
+
+146
+00:08:03,021 --> 00:08:04,815
+Oh, you're very good.
+You almost got me talking.
+
+147
+00:08:04,940 --> 00:08:06,358
+All right.
+What are you keeping from me?
+
+148
+00:08:06,483 --> 00:08:08,443
+Nothing. He's family.
+That's all.
+
+149
+00:08:08,568 --> 00:08:10,237
+- "Van Pelt."
+- Complicated, right?
+
+150
+00:08:10,362 --> 00:08:12,197
+"Boss, it's Detective Reece for you."
+
+151
+00:08:12,322 --> 00:08:13,615
+- They got a call to Jane's phone
+- It's for you.
+
+152
+00:08:13,740 --> 00:08:16,243
+- from the K-Ram offices.
+- He's on his way over.
+
+153
+00:08:16,660 --> 00:08:17,703
+Stall him.
+
+154
+00:08:17,911 --> 00:08:18,954
+Stall him?
+
+155
+00:08:38,640 --> 00:08:40,684
+I didn't know your wife
+was from this world, too.
+
+156
+00:08:42,019 --> 00:08:45,439
+Oh, yeah.
+Her grandparents were carny royalty.
+
+157
+00:08:46,732 --> 00:08:47,816
+They ran big metal--
+
+158
+00:08:48,316 --> 00:08:50,193
+Ferris wheels, ghost trains.
+
+159
+00:08:50,652 --> 00:08:52,029
+They ran 'em all across the Midwest
+
+160
+00:08:52,154 --> 00:08:54,281
+but, uh, my wife--
+she, uh...
+
+161
+00:08:55,449 --> 00:08:56,575
+She didn't wanna have any part of it.
+
+162
+00:08:57,200 --> 00:08:58,243
+Why?
+
+163
+00:08:58,994 --> 00:09:00,037
+Well...
+
+164
+00:09:01,121 --> 00:09:02,664
+Carnies are good people
+but, uh--
+
+165
+00:09:02,789 --> 00:09:04,541
+you know, you're either
+with the show or you're not.
+
+166
+00:09:04,666 --> 00:09:06,001
+There's-- there's nowhere
+in the middle.
+
+167
+00:09:06,126 --> 00:09:08,128
+And if you're not with the show
+then you're a mark.
+
+168
+00:09:08,754 --> 00:09:09,796
+You're a sucker.
+
+169
+00:09:10,922 --> 00:09:11,965
+And she didn't like that.
+
+170
+00:09:12,924 --> 00:09:15,469
+You're not gonna need the badge.
+They're gonna tell you're a cop without it.
+
+171
+00:09:16,303 --> 00:09:19,139
+Actually, people very rarely
+guess I'm a cop.
+
+172
+00:09:19,264 --> 00:09:21,058
+Oh, yeah. Let me do the talking.
+
+173
+00:09:21,224 --> 00:09:22,517
+When it's advisable.
+
+174
+00:09:22,934 --> 00:09:25,729
+- And don't mention Danny until I do.
+- I'll be the judge of that.
+
+175
+00:09:26,063 --> 00:09:27,981
+Hey! No trespassing.
+
+176
+00:09:28,774 --> 00:09:30,484
+Fair's not open yet.
+Scram.
+
+177
+00:09:31,943 --> 00:09:32,986
+Or else what?
+
+178
+00:09:36,573 --> 00:09:38,867
+Or else I'll give you a good whoppin'.
+That's what else.
+
+179
+00:09:39,201 --> 00:09:41,203
+Uh, how about this, Pete?
+If you can catch me
+
+180
+00:09:41,703 --> 00:09:44,206
+then I will marry that damn
+ugly sister of yours.
+
+181
+00:09:48,835 --> 00:09:51,213
+Patrick Jane.
+Son of a bitch.
+
+182
+00:09:54,299 --> 00:09:55,592
+Oh, man!
+
+183
+00:09:58,011 --> 00:09:59,304
+I heard you were police.
+
+184
+00:09:59,888 --> 00:10:01,139
+I didn't believe it
+
+185
+00:10:01,556 --> 00:10:03,433
+but here you are
+with a real, live cop.
+
+186
+00:10:03,642 --> 00:10:05,102
+This is my good friend Teresa.
+
+187
+00:10:05,769 --> 00:10:06,812
+Doesn't bite.
+
+188
+00:10:07,354 --> 00:10:11,066
+If you're okay with Jane
+I guess you're okay with me.
+
+189
+00:10:11,608 --> 00:10:12,651
+Thanks.
+
+190
+00:10:13,610 --> 00:10:15,153
+You know, I haven't
+seen you a while, eh?
+
+191
+00:10:15,278 --> 00:10:16,321
+Well, you know.
+
+192
+00:10:16,530 --> 00:10:19,032
+Yeah, I know.
+So what brings you here now?
+
+193
+00:10:19,199 --> 00:10:21,201
+- I'll give you three guesses.
+- Uh, Danny?
+
+194
+00:10:21,451 --> 00:10:22,494
+Got it in one.
+
+195
+00:10:23,036 --> 00:10:25,247
+- Danny's a good boy.
+- What's he been up to?
+
+196
+00:10:26,039 --> 00:10:27,666
+Hey, Sam.
+Come on out here.
+
+197
+00:10:27,791 --> 00:10:29,292
+I got a surprise for you, honey.
+
+198
+00:10:29,835 --> 00:10:30,877
+Come on. You ready?
+
+199
+00:10:31,962 --> 00:10:33,713
+Oh, look at you, huh?
+
+200
+00:10:34,965 --> 00:10:36,007
+Yeah.
+
+201
+00:10:38,760 --> 00:10:40,387
+- Uh, what was that for?
+- Detroit.
+
+202
+00:10:40,595 --> 00:10:42,305
+Oh, yeah. Fair enough.
+
+203
+00:10:43,306 --> 00:10:44,558
+What's with the State Trooper?
+
+204
+00:10:44,808 --> 00:10:48,270
+Yeah, it's, like, unreal, huh?
+A Jane working with the law.
+
+205
+00:10:48,770 --> 00:10:50,605
+- How do I look like a cop?
+- Oh, please.
+
+206
+00:10:50,730 --> 00:10:53,191
+Look like Cagney and Lacey
+had a baby, called it Pepper.
+
+207
+00:10:54,234 --> 00:10:56,528
+- They're looking for Danny.
+- Danny's in trouble.
+
+208
+00:10:56,778 --> 00:10:58,989
+Yeah, what else is new?
+Danny's always in trouble.
+
+209
+00:10:59,239 --> 00:11:00,866
+Remember the morning
+of your wedding?
+
+210
+00:11:02,701 --> 00:11:07,289
+Oh, yes. Yeah. My--my wife had
+to bail Danny out in her dress.
+
+211
+00:11:07,414 --> 00:11:08,540
+She was not very happy.
+
+212
+00:11:09,291 --> 00:11:12,377
+Well, it's good to see you and all
+but the police is the police. No offense.
+
+213
+00:11:12,919 --> 00:11:13,962
+None taken.
+
+214
+00:11:14,546 --> 00:11:16,756
+Well, Pete, wh-why don't you
+take Pepper here
+
+215
+00:11:16,882 --> 00:11:18,717
+and, uh, show her the elephant?
+
+216
+00:11:20,051 --> 00:11:23,430
+- I'd love to see the elephant.
+- My pleasure. Right this way.
+
+217
+00:11:25,473 --> 00:11:26,683
+Her name is Daisy.
+
+218
+00:11:27,601 --> 00:11:28,643
+She's cute.
+
+219
+00:11:29,561 --> 00:11:30,896
+She's a mean old girl.
+
+220
+00:11:31,188 --> 00:11:33,023
+She'd run down her own kids
+for an apple.
+
+221
+00:11:33,148 --> 00:11:34,191
+No.
+
+222
+00:11:34,524 --> 00:11:36,234
+You think I'm kidding?
+Here. Give her one.
+
+223
+00:11:36,735 --> 00:11:38,695
+- Where do I put it?
+- In here.
+
+224
+00:11:41,239 --> 00:11:43,158
+You two get along
+you can take her home with you.
+
+225
+00:11:43,658 --> 00:11:44,743
+You want another one?
+
+226
+00:11:47,579 --> 00:11:48,914
+What kinda trouble Danny got?
+
+227
+00:11:49,915 --> 00:11:51,166
+Worst kind of trouble.
+
+228
+00:11:52,042 --> 00:11:53,126
+Damn shame.
+
+229
+00:11:54,586 --> 00:11:55,712
+Not surprised though.
+
+230
+00:11:56,213 --> 00:11:59,090
+Danny's been heading downhill
+all the way since Angela died.
+
+231
+00:11:59,841 --> 00:12:01,593
+There's a man
+need a big sister.
+
+232
+00:12:03,595 --> 00:12:05,263
+- Yeah.
+- So...
+
+233
+00:12:06,014 --> 00:12:08,975
+I should help you
+and the cops find him...
+
+234
+00:12:10,435 --> 00:12:11,478
+Why?
+
+235
+00:12:12,812 --> 00:12:15,982
+Danny called me,
+uh, just out of the blue
+
+236
+00:12:16,107 --> 00:12:17,234
+and he asked for my help.
+
+237
+00:12:17,567 --> 00:12:21,404
+Danny doesn't always do
+what's best for his own interests.
+
+238
+00:12:21,821 --> 00:12:24,908
+- Tendency to outfox himself.
+- True.
+
+239
+00:12:27,577 --> 00:12:29,454
+But he asked for my help
+and that's what I'll give him.
+
+240
+00:12:36,127 --> 00:12:38,588
+A few hours ago, I was wiping
+a murder weapon clean
+
+241
+00:12:38,797 --> 00:12:40,715
+in case it had Danny's fingerprints
+on it.
+
+242
+00:12:47,472 --> 00:12:49,432
+I don't know
+where Danny is now...
+
+243
+00:12:52,102 --> 00:12:53,353
+But Nicki does.
+
+244
+00:12:54,604 --> 00:12:56,064
+Talk to Biltmore Nicki.
+
+245
+00:12:58,775 --> 00:13:00,485
+Same gig as always.
+
+246
+00:13:05,490 --> 00:13:06,574
+It's good to see you.
+
+247
+00:13:07,784 --> 00:13:09,411
+I'm glad you're doing okay.
+
+248
+00:13:11,037 --> 00:13:12,330
+You are doing okay, aren't you?
+
+249
+00:13:12,706 --> 00:13:13,748
+Oh, yeah.
+
+250
+00:13:18,461 --> 00:13:21,214
+My little friend Pepper is gonna need
+a ride back to the office.
+
+251
+00:13:21,506 --> 00:13:22,549
+She's huge.
+
+252
+00:13:25,552 --> 00:13:26,720
+Kinda tickles.
+
+253
+00:13:31,308 --> 00:13:32,350
+Hey!
+
+254
+00:13:34,185 --> 00:13:35,228
+Jane!
+
+255
+00:13:44,794 --> 00:13:46,629
+Detective Reece called three times.
+He's pissed.
+
+256
+00:13:46,754 --> 00:13:48,798
+He can get in line.
+Where's Van Pelt?
+
+257
+00:13:49,173 --> 00:13:51,092
+Oh, hey, boss.
+Can I borrow the car?
+
+258
+00:13:52,385 --> 00:13:54,262
+That's funny.
+Anything on Ruskin?
+
+259
+00:13:54,387 --> 00:13:56,681
+Uh, yeah, he's a, uh,
+former escape artist.
+
+260
+00:13:56,806 --> 00:13:59,600
+Had an act as a kid
+just like Jane, Houdini Junior.
+
+261
+00:13:59,767 --> 00:14:01,978
+Says he could do the water
+torture cell trick at 17
+
+262
+00:14:02,103 --> 00:14:04,397
+which I guess is good
+if you like that sort of thing.
+
+263
+00:14:05,064 --> 00:14:06,607
+Cho, go and talk
+to the victim's wife.
+
+264
+00:14:06,732 --> 00:14:08,025
+See if she knows Ruskin.
+
+265
+00:14:08,359 --> 00:14:11,070
+Rigsby, have Van Pelt help you
+look into his financials.
+
+266
+00:14:11,279 --> 00:14:13,698
+Look for other names.
+Con men rarely work alone.
+
+267
+00:14:14,157 --> 00:14:15,491
+Where is Van Pelt?
+
+268
+00:14:28,754 --> 00:14:30,173
+Daniel Ruskin.
+
+269
+00:14:31,340 --> 00:14:33,217
+I don't know him. Sorry.
+
+270
+00:14:34,594 --> 00:14:35,636
+But you do?
+
+271
+00:14:37,096 --> 00:14:40,016
+I have met Daniel.
+He's very charming.
+
+272
+00:14:41,142 --> 00:14:43,811
+- I'm sure he wouldn't hurt Landon.
+- You know Ruskin?
+
+273
+00:14:45,021 --> 00:14:47,023
+But you told us you never heard
+of his company, K-Ram.
+
+274
+00:14:47,982 --> 00:14:52,653
+No. I-I have no notion of his business.
+I met Daniel socially...
+
+275
+00:14:53,362 --> 00:14:55,907
+at Landon's country club--
+Murphy introduced us.
+
+276
+00:14:56,240 --> 00:14:57,366
+Murphy Traver?
+
+277
+00:14:57,742 --> 00:15:01,078
+Oh, a lovely man.
+Of the Long Island Travers.
+
+278
+00:15:06,626 --> 00:15:08,294
+Thank you for your cooperation, Mr. Traver.
+
+279
+00:15:08,419 --> 00:15:09,754
+Oh, happy to talk, agents.
+
+280
+00:15:09,879 --> 00:15:11,881
+Yeah, I just need to get back
+to this meeting in a few.
+
+281
+00:15:12,298 --> 00:15:15,051
+Can't trust computer nerds alone
+too long, you know.
+
+282
+00:15:15,968 --> 00:15:18,387
+Oh, gosh.
+Poor Landon. It's horrible.
+
+283
+00:15:18,513 --> 00:15:19,764
+So you introduced him
+to Ruskin?
+
+284
+00:15:19,931 --> 00:15:22,725
+Yeah, yeah. Sure did.
+I, uh yeah, met Daniel at the club.
+
+285
+00:15:22,850 --> 00:15:24,310
+He's just an outstanding guy.
+
+286
+00:15:24,477 --> 00:15:26,187
+But, well, why do you wanna
+know about Daniel?
+
+287
+00:15:26,729 --> 00:15:29,106
+Well, he's a con man.
+He may have killed Mr. Wale.
+
+288
+00:15:29,774 --> 00:15:32,568
+- You know where he is?
+- Con man? Oh, my God.
+
+289
+00:15:32,902 --> 00:15:35,279
+My God. I invested with him.
+Oh, my God.
+
+290
+00:15:36,572 --> 00:15:37,823
+Where's your assistant?
+
+291
+00:15:39,909 --> 00:15:42,203
+I'm--I'm sorry, agent.
+I-I have to call my bank.
+
+292
+00:15:42,328 --> 00:15:43,955
+Yeah, you know, a place like this,
+bunch of people
+
+293
+00:15:44,121 --> 00:15:46,165
+you should have an assistant.
+At least a receptionist.
+
+294
+00:15:46,332 --> 00:15:47,625
+And with all those employees
+
+295
+00:15:47,750 --> 00:15:49,919
+the phone lines should be
+ringing off the hook.
+
+296
+00:15:50,545 --> 00:15:53,297
+Landlines. So 20th-century.
+No, agent. I-I'm sorry.
+
+297
+00:15:53,422 --> 00:15:55,508
+You c-- you're not allowed in there.
+That's a clean room, agent!
+
+298
+00:16:00,179 --> 00:16:01,347
+Very clean.
+
+299
+00:16:09,772 --> 00:16:12,233
+I am having a very bad day
+
+300
+00:16:13,025 --> 00:16:14,944
+and you're gonna tell us
+about Daniel Ruskin.
+
+301
+00:16:15,069 --> 00:16:16,904
+- Come on.
+- Okay. All right.
+
+302
+00:16:23,286 --> 00:16:26,080
+My dear, sorry to bother.
+
+303
+00:16:26,539 --> 00:16:28,624
+Did you see two boys
+run down the street?
+
+304
+00:16:29,208 --> 00:16:30,251
+No.
+
+305
+00:16:30,835 --> 00:16:35,089
+- Ma'am, what's wrong?
+- I was walking to the train station
+
+306
+00:16:35,214 --> 00:16:36,382
+it's such a nice day--
+
+307
+00:16:36,549 --> 00:16:39,969
+and these two boys
+just took my purse.
+
+308
+00:16:40,136 --> 00:16:41,512
+Ma'am, here. Come here.
+Sit down.
+
+309
+00:16:46,142 --> 00:16:48,144
+I have to visit my sister.
+
+310
+00:16:48,561 --> 00:16:51,147
+She's in the hospital
+in Bakersfield.
+
+311
+00:16:52,023 --> 00:16:54,942
+- I feel so stupid.
+- That's terrible.
+
+312
+00:16:55,067 --> 00:16:59,530
+And the--the last train to Bakersfield
+leaves in 40 minutes.
+
+313
+00:17:00,072 --> 00:17:01,115
+Oh, dear.
+
+314
+00:17:01,616 --> 00:17:04,118
+Oh. Look, uh...
+
+315
+00:17:05,578 --> 00:17:07,830
+Can I drive you
+to the train station?
+
+316
+00:17:08,289 --> 00:17:09,373
+You would do that?
+
+317
+00:17:09,999 --> 00:17:11,083
+Oh, my dear.
+
+318
+00:17:11,542 --> 00:17:13,294
+- Oh, thank you.
+- Sure.
+
+319
+00:17:14,920 --> 00:17:16,213
+"You're not taking her
+anywhere, Grace."
+
+320
+00:17:20,551 --> 00:17:21,802
+Nice hook, Nicki.
+
+321
+00:17:24,764 --> 00:17:26,599
+You're such a sweet old lady.
+
+322
+00:17:28,267 --> 00:17:29,769
+Grace, Nicki. Nicki, Grace.
+
+323
+00:17:30,227 --> 00:17:33,856
+If this were for real, this old fox
+would have you stripped bare.
+
+324
+00:17:36,275 --> 00:17:38,986
+This sweet piece of fruit
+is a cop?
+
+325
+00:17:40,071 --> 00:17:41,113
+Damn.
+
+326
+00:17:41,822 --> 00:17:44,659
+- Guess I'm losing my touch.
+- I'm looking for Danny.
+
+327
+00:17:46,452 --> 00:17:48,454
+- Look at me.
+- Danny?
+
+328
+00:17:49,830 --> 00:17:50,873
+Look at me.
+
+329
+00:17:51,415 --> 00:17:52,500
+This is a family thing.
+
+330
+00:17:53,209 --> 00:17:55,086
+I know you know where he is.
+Tell me, Nicki
+
+331
+00:17:55,211 --> 00:17:56,879
+or this nice piece of fruit
+will take you downtown
+
+332
+00:17:57,004 --> 00:17:59,173
+and treat you to a complimentary
+cavity search.
+
+333
+00:18:04,553 --> 00:18:07,181
+- Hypothetically, what happened?
+- Hypothetically?
+
+334
+00:18:09,517 --> 00:18:11,602
+We were running "the rag".
+
+335
+00:18:12,144 --> 00:18:14,772
+"We'll let you invest
+in a surefire stock market winner."
+
+336
+00:18:14,897 --> 00:18:17,900
+"It's a little illegal. Don't tell anybody.
+Blah, blah."
+
+337
+00:18:19,026 --> 00:18:20,069
+Hypothetically...
+
+338
+00:18:21,028 --> 00:18:22,697
+Danny hooked Landon good.
+
+339
+00:18:22,822 --> 00:18:24,782
+I mean, had him begging us
+to let him invest.
+
+340
+00:18:24,907 --> 00:18:28,077
+He was bringing us
+some statue worth 200 grand.
+
+341
+00:18:28,202 --> 00:18:30,204
+So you and Danny killed Landon
+and took the statue?
+
+342
+00:18:30,579 --> 00:18:33,374
+No. No. Why take it when he was
+gonna give it to us in the morning?
+
+343
+00:18:33,499 --> 00:18:34,667
+Maybe you took it, Murphy.
+
+344
+00:18:35,126 --> 00:18:36,502
+You didn't wanna share with Danny
+
+345
+00:18:36,627 --> 00:18:38,337
+so you called Wale
+and met him early.
+
+346
+00:18:38,671 --> 00:18:41,465
+Things got outta hand. You need
+to help yourself, tell your side.
+
+347
+00:18:41,716 --> 00:18:42,800
+No, no, no, no.
+
+348
+00:18:42,925 --> 00:18:44,593
+- You're a liar.
+- She's right. You are.
+
+349
+00:18:44,885 --> 00:18:46,011
+Where's Danny Ruskin?
+
+350
+00:18:48,806 --> 00:18:51,517
+You're a businessman, so's Danny.
+He'll understand.
+
+351
+00:18:52,685 --> 00:18:54,562
+I don't know. I don't.
+
+352
+00:18:55,896 --> 00:18:57,356
+But I know who he's with.
+
+353
+00:18:57,857 --> 00:18:59,734
+Trixie... somebody.
+
+354
+00:19:00,192 --> 00:19:01,986
+Rich and hot.
+
+355
+00:19:02,611 --> 00:19:05,614
+Yeah. Danny's always got
+a second revenue stream.
+
+356
+00:19:06,282 --> 00:19:07,324
+Always...
+
+357
+00:19:07,992 --> 00:19:09,076
+monetizing.
+
+358
+00:19:14,790 --> 00:19:17,293
+Excuse me.
+Jane, where the hell are you?
+
+359
+00:19:17,626 --> 00:19:19,211
+"Wow. Hope that's the decaf
+you're getting."
+
+360
+00:19:19,378 --> 00:19:21,589
+- How did you--
+- "I can hear the foam machine."
+
+361
+00:19:22,590 --> 00:19:24,967
+Anyway, I promised Grace
+I'd call, so I called.
+
+362
+00:19:25,259 --> 00:19:26,594
+Lovely to talk to you. Bye now.
+
+363
+00:19:26,844 --> 00:19:28,637
+- Put her on now.
+- No, I've already ditched her.
+
+364
+00:19:28,763 --> 00:19:32,057
+Jane, you have to come in.
+Danny could be dangerous.
+
+365
+00:19:32,183 --> 00:19:34,602
+We're not looking to use
+deadly force, but things happen.
+
+366
+00:19:34,727 --> 00:19:35,811
+It's not safe for you.
+
+367
+00:19:35,936 --> 00:19:38,397
+Getting close to nabbing him, are you?
+Oh, that's good to hear.
+
+368
+00:19:38,856 --> 00:19:40,441
+Well, may the best man win, Lisbon.
+
+369
+00:19:40,983 --> 00:19:42,026
+- Jane!
+- Boss.
+
+370
+00:19:44,653 --> 00:19:47,281
+Checked the sign-in logs at the K-Ram
+offices. Found a Trixie Mercado.
+
+371
+00:19:47,531 --> 00:19:48,908
+She's the daughter of the guy
+who owns the building.
+
+372
+00:19:49,033 --> 00:19:50,659
+- She has a place in Midtown.
+- Thanks.
+
+373
+00:19:52,077 --> 00:19:53,496
+May the best man win.
+
+374
+00:19:56,665 --> 00:19:59,668
+Detective Reece, it's Lisbon.
+We've got a lead on Ruskin.
+
+375
+00:20:02,004 --> 00:20:04,507
+It's party time.
+
+376
+00:20:07,301 --> 00:20:08,469
+Baby, why are you packing?
+
+377
+00:20:09,011 --> 00:20:11,931
+God, you are killing me.
+You're so gorgeous.
+
+378
+00:20:12,264 --> 00:20:15,935
+Seriously, uh, I'm dying
+but I gotta go, baby.
+
+379
+00:20:16,310 --> 00:20:17,353
+Something came up.
+
+380
+00:20:17,853 --> 00:20:19,188
+I'll be back soon, all right?
+
+381
+00:20:20,773 --> 00:20:21,941
+- Danny.
+- Hey.
+
+382
+00:20:22,483 --> 00:20:23,526
+Long time.
+
+383
+00:20:25,361 --> 00:20:26,403
+Danny, what the hell?
+
+384
+00:20:27,071 --> 00:20:28,823
+You must be, uh, Trixie, huh?
+
+385
+00:20:29,657 --> 00:20:30,991
+Hi. I'm--I'm Patrick.
+
+386
+00:20:31,116 --> 00:20:32,952
+No need to be scared.
+Danny and I--we're family.
+
+387
+00:20:33,786 --> 00:20:36,205
+Biltmore Nicki called you, huh? And that's
+it, you're just gonna hop on out of here?
+
+388
+00:20:36,330 --> 00:20:37,623
+- I--You're mad.
+- I just got here.
+
+389
+00:20:37,748 --> 00:20:39,208
+You're mad. I get that. I do.
+
+390
+00:20:39,333 --> 00:20:40,960
+But I needed your help.
+
+391
+00:20:41,377 --> 00:20:42,795
+I needed your wisdom
+and--and cunning and--
+
+392
+00:20:42,920 --> 00:20:45,047
+Yeah, how much help can I be to you
+when I'm in handcuffs, Danny?
+
+393
+00:20:45,381 --> 00:20:46,757
+Wh-what can I say?
+
+394
+00:20:47,091 --> 00:20:49,552
+Calling you in was the best
+of some very unsavory options.
+
+395
+00:20:49,677 --> 00:20:51,345
+Then tell me what happened
+with Landon Wale last night--
+
+396
+00:20:51,512 --> 00:20:53,305
+honest and quick.
+I don't have all day.
+
+397
+00:20:54,682 --> 00:20:55,975
+"Police, open up!'
+
+398
+00:20:59,603 --> 00:21:01,689
+- You son of a bitch.
+- That has nothing to do with me.
+
+399
+00:21:01,814 --> 00:21:03,315
+"Trixie Mercado, are you in there?"
+
+400
+00:21:04,233 --> 00:21:06,068
+- "We've got some questions."
+- Oh, please.
+
+401
+00:21:07,236 --> 00:21:08,904
+What the hell is going on?
+
+402
+00:21:10,072 --> 00:21:12,116
+Look, just talk to 'em.
+I have influence.
+
+403
+00:21:12,241 --> 00:21:13,993
+- We can sort this thing out.
+- "Ms. Mercado?"
+
+404
+00:21:14,118 --> 00:21:16,328
+If you didn't do anything
+you got nothing to worry about.
+
+405
+00:21:16,620 --> 00:21:17,663
+Nothing to worry about?
+
+406
+00:21:17,913 --> 00:21:20,541
+I am not spending a day in jail!
+Not one day.
+
+407
+00:21:21,208 --> 00:21:22,877
+Never again. Ever. You got me?
+
+408
+00:21:31,492 --> 00:21:33,744
+Ms. Mercado, open the door
+right now!
+
+409
+00:21:34,161 --> 00:21:36,205
+Back up. I'm going in.
+Give me some room.
+
+410
+00:21:38,165 --> 00:21:39,208
+Back up!
+
+411
+00:21:44,296 --> 00:21:47,591
+Whoa. Whoa, whoa, whoa.
+Whoa, whoa, whoa. Danny's not here.
+
+412
+00:21:54,056 --> 00:21:55,098
+Yep.
+
+413
+00:21:55,599 --> 00:21:56,642
+Danny went that way.
+
+414
+00:21:57,643 --> 00:21:58,685
+All by himself.
+
+415
+00:21:58,811 --> 00:22:01,188
+All units search the area.
+Suspect has fled.
+
+416
+00:22:01,313 --> 00:22:03,857
+Establish a 2-block perimeter
+around this block.
+
+417
+00:22:05,818 --> 00:22:07,778
+Hey. You're Patrick's friend, right?
+
+418
+00:22:08,403 --> 00:22:09,446
+- Yeah.
+- He said to tell you
+
+419
+00:22:09,571 --> 00:22:11,406
+he's really, really sorry about all this.
+
+420
+00:22:11,573 --> 00:22:12,825
+Jane's with Danny?
+
+421
+00:22:13,534 --> 00:22:15,369
+Jane? No.
+
+422
+00:22:15,911 --> 00:22:18,372
+It was a man. Patrick.
+
+423
+00:22:24,127 --> 00:22:26,046
+Tell me what happened
+with Landon Wale.
+
+424
+00:22:27,130 --> 00:22:29,633
+- Ooh, big detective.
+- Consultant.
+
+425
+00:22:30,509 --> 00:22:31,552
+Consultant.
+
+426
+00:22:31,677 --> 00:22:33,554
+Stop stalling. Just tell me
+if you killed the man
+
+427
+00:22:33,720 --> 00:22:34,930
+and I'll take you to Mexico.
+
+428
+00:22:35,180 --> 00:22:37,140
+I'm touched. Cabo?
+
+429
+00:22:37,766 --> 00:22:39,935
+- You--you'd do that for me?
+- Yes, I would.
+
+430
+00:22:40,519 --> 00:22:41,562
+Why?
+
+431
+00:22:42,479 --> 00:22:44,231
+Because your sister
+would want me to.
+
+432
+00:22:44,606 --> 00:22:47,025
+You sound like a mark.
+Or you think I'm a mark.
+
+433
+00:22:47,734 --> 00:22:49,403
+- Which?
+- You sound like you're in over your head.
+
+434
+00:22:49,528 --> 00:22:51,196
+Yeah, way over my head.
+
+435
+00:22:51,780 --> 00:22:54,032
+Not like Patrick. No.
+
+436
+00:22:54,324 --> 00:22:56,451
+You would never get in
+way over your head, would you?
+
+437
+00:22:56,618 --> 00:22:59,288
+Too smart for that, never make
+mistakes. Not the boy wonder.
+
+438
+00:22:59,538 --> 00:23:01,123
+Why won't you answer
+my question?
+
+439
+00:23:02,958 --> 00:23:04,167
+Is it because you hate me?
+
+440
+00:23:04,751 --> 00:23:06,837
+Or is it because you did
+in fact, kill the man?
+
+441
+00:23:08,255 --> 00:23:09,298
+Hate.
+
+442
+00:23:10,924 --> 00:23:12,384
+Why would I hate you, bro?
+
+443
+00:23:13,010 --> 00:23:14,803
+I asked my question first.
+
+444
+00:23:15,846 --> 00:23:17,180
+I didn't kill Landon.
+
+445
+00:23:19,433 --> 00:23:20,851
+I smell deception
+
+446
+00:23:21,602 --> 00:23:23,937
+but it's hard to tell with you
+because you're kind of a sociopath
+
+447
+00:23:24,062 --> 00:23:25,480
+like all the great con men.
+
+448
+00:23:26,440 --> 00:23:27,608
+I am great, huh?
+
+449
+00:23:29,318 --> 00:23:31,737
+First compliment you ever
+gave me, I can recall.
+
+450
+00:23:32,696 --> 00:23:34,615
+Convince me, Danny.
+Come on. Try.
+
+451
+00:23:34,781 --> 00:23:37,409
+Just--just make me believe
+that you didn't kill that guy.
+
+452
+00:23:37,618 --> 00:23:42,414
+You want me to dance for you?
+Hmm? I should crawl for you?
+
+453
+00:23:42,623 --> 00:23:45,125
+Okay, that's it. I'm leaving
+and I'm gonna call the cops.
+
+454
+00:23:45,250 --> 00:23:46,710
+They will be here
+in five minutes.
+
+455
+00:23:47,085 --> 00:23:48,378
+I'd make yourself scarce.
+
+456
+00:23:49,963 --> 00:23:51,006
+Stop!
+
+457
+00:23:51,632 --> 00:23:52,674
+Stop!
+
+458
+00:23:54,885 --> 00:23:56,053
+You think I won't do it?
+
+459
+00:23:57,054 --> 00:23:58,096
+Not sure.
+
+460
+00:23:59,890 --> 00:24:02,517
+But... I wouldn't blame you
+if you did.
+
+461
+00:24:17,658 --> 00:24:18,825
+Agent Hightower.
+
+462
+00:24:22,120 --> 00:24:24,456
+- You lied to me.
+- Detective Reece has some concerns
+
+463
+00:24:24,581 --> 00:24:26,208
+about the Landon Wale case.
+
+464
+00:24:27,000 --> 00:24:30,295
+Seems like you didn't tell him
+that Jane is the brother-in-law
+
+465
+00:24:30,420 --> 00:24:33,173
+of Daniel Ruskin
+the prime suspect.
+
+466
+00:24:33,298 --> 00:24:35,092
+At the time of my conversation
+with Detective Reece
+
+467
+00:24:35,217 --> 00:24:36,593
+I didn't know
+about the connection.
+
+468
+00:24:36,885 --> 00:24:38,679
+I apologize for the oversight.
+
+469
+00:24:39,805 --> 00:24:43,225
+- I'm supposed to buy that?
+- No purchase required, detective.
+
+470
+00:24:43,475 --> 00:24:45,686
+- Where's Jane now?
+- No, I don't know where he is.
+
+471
+00:24:46,061 --> 00:24:48,105
+You don't know where he is?
+Okay.
+
+472
+00:24:48,939 --> 00:24:50,649
+I tell you what,
+this is what I'm going to do.
+
+473
+00:24:51,608 --> 00:24:53,110
+I'm gonna get an arrest warrant
+
+474
+00:24:53,402 --> 00:24:55,445
+and I'm gonna have
+every cop on the street
+
+475
+00:24:55,779 --> 00:24:57,114
+looking for him and Ruskin.
+
+476
+00:24:57,489 --> 00:24:59,116
+You need to get control
+of your unit, lady.
+
+477
+00:24:59,241 --> 00:25:01,660
+What you have right here
+is slackness.
+
+478
+00:25:04,204 --> 00:25:07,165
+If Mr. Jane is involved
+in obstruction of justice
+
+479
+00:25:07,791 --> 00:25:08,834
+aiding and abetting
+
+480
+00:25:09,584 --> 00:25:10,919
+or anything like that
+
+481
+00:25:12,129 --> 00:25:13,171
+he's yours.
+
+482
+00:25:14,506 --> 00:25:15,549
+Are we done?
+
+483
+00:25:16,466 --> 00:25:18,927
+- I guess we are.
+- Keep in touch.
+
+484
+00:25:29,855 --> 00:25:30,981
+Jane's in trouble.
+
+485
+00:25:35,694 --> 00:25:36,737
+Detective Rigsby.
+
+486
+00:25:37,404 --> 00:25:39,364
+- You wanted to talk to me?
+- It's agent.
+
+487
+00:25:39,698 --> 00:25:42,117
+Uh, we're reinterviewing a number
+of Mr. Wale's associates.
+
+488
+00:25:42,242 --> 00:25:44,036
+It's just routine.
+Let's go to desk, shall we?
+
+489
+00:25:45,495 --> 00:25:46,830
+You look... different.
+
+490
+00:25:47,831 --> 00:25:51,293
+Yeah, it's really hot at the office.
+The air's broken.
+
+491
+00:25:51,626 --> 00:25:52,711
+No money to fix it?
+
+492
+00:25:54,463 --> 00:25:56,840
+We found out that the company was
+gonna file for bankruptcy, Heather.
+
+493
+00:25:57,215 --> 00:25:59,509
+- The place is broke.
+-You should really talk to Melanie.
+
+494
+00:25:59,843 --> 00:26:01,386
+Yeah, but what happened
+to the company?
+
+495
+00:26:02,596 --> 00:26:03,680
+Do you read the news?
+
+496
+00:26:04,181 --> 00:26:06,308
+- After you.
+- Real estate's not doing so well
+
+497
+00:26:06,600 --> 00:26:08,560
+and Landon made a bad deal
+or seven.
+
+498
+00:26:09,186 --> 00:26:11,563
+He was a cowboy
+a win big, lose big.
+
+499
+00:26:12,064 --> 00:26:13,440
+Please, take a seat.
+
+500
+00:26:18,820 --> 00:26:21,531
+So how did, uh, Melanie and Concetta
+take the bankruptcy news?
+
+501
+00:26:21,907 --> 00:26:24,117
+They didn't know.
+Landon only told me.
+
+502
+00:26:24,451 --> 00:26:27,120
+I, uh, I keep the books.
+
+503
+00:26:30,749 --> 00:26:32,459
+So you're looking at them, huh?
+
+504
+00:26:33,543 --> 00:26:35,837
+We look at every place
+at everybody.
+
+505
+00:26:36,171 --> 00:26:37,214
+Hmm.
+
+506
+00:26:37,589 --> 00:26:39,049
+"Hmm" meaning what?
+
+507
+00:26:39,257 --> 00:26:41,009
+No, nothing. It's just...
+
+508
+00:26:41,760 --> 00:26:44,221
+Who knew he'd be worth more
+dead than alive?
+
+509
+00:26:44,554 --> 00:26:46,264
+- You mean life insurance?
+- Uh-huh.
+
+510
+00:26:55,690 --> 00:26:56,733
+Thank you.
+
+511
+00:27:03,323 --> 00:27:05,033
+Well, this policy's less
+than three months old.
+
+512
+00:27:05,367 --> 00:27:07,077
+- Did Mrs. Wale take it out?
+- Connie?
+
+513
+00:27:07,828 --> 00:27:11,414
+No. She's not the beneficiary.
+Melanie is.
+
+514
+00:27:11,998 --> 00:27:13,041
+The sister.
+
+515
+00:27:14,292 --> 00:27:15,335
+Well, what's it worth?
+
+516
+00:27:15,627 --> 00:27:17,546
+$2 million.
+
+517
+00:27:19,089 --> 00:27:21,341
+If you know where they are
+you need to tell me.
+
+518
+00:27:21,716 --> 00:27:23,593
+Sac PD's got a manhunt going.
+
+519
+00:27:24,136 --> 00:27:26,763
+Jane and Danny
+could get arrested or shot.
+
+520
+00:27:27,597 --> 00:27:29,850
+They're survivors.
+They're gonna do okay.
+
+521
+00:27:30,016 --> 00:27:33,103
+- Jane will get fired from the CBI.
+- Oh, no.
+
+522
+00:27:33,353 --> 00:27:35,605
+This job is all he has.
+
+523
+00:27:36,606 --> 00:27:40,610
+If he's arrested they'll take that from him.
+I'm his friend. I can help.
+
+524
+00:27:42,821 --> 00:27:43,864
+Ms. Lisbon
+
+525
+00:27:44,990 --> 00:27:47,659
+they just took off.
+We don't know where they went.
+
+526
+00:27:47,951 --> 00:27:48,994
+You swear?
+
+527
+00:27:49,411 --> 00:27:50,453
+I swear.
+
+528
+00:28:05,343 --> 00:28:06,386
+My sister...
+
+529
+00:28:08,013 --> 00:28:09,139
+was the only good--
+
+530
+00:28:10,015 --> 00:28:11,933
+clean honest thing
+that I had in my life...
+
+531
+00:28:13,101 --> 00:28:14,144
+and you ran off with her.
+
+532
+00:28:16,146 --> 00:28:18,565
+You took her away from me
+away from what she knew, so...
+
+533
+00:28:19,357 --> 00:28:21,693
+You know, yeah.
+I've been mad at you.
+
+534
+00:28:22,152 --> 00:28:23,195
+Very mad.
+
+535
+00:28:24,321 --> 00:28:26,198
+I didn't--
+I didn't take her away.
+
+536
+00:28:29,326 --> 00:28:31,578
+She didn't--she didn't want
+the carny life. She hated it.
+
+537
+00:28:31,703 --> 00:28:34,039
+She wanted to get out.
+We--we both did.
+
+538
+00:28:34,873 --> 00:28:36,374
+And you know how hard that is.
+
+539
+00:28:37,167 --> 00:28:39,252
+That was--that was our thing.
+That's what we did together.
+
+540
+00:28:39,377 --> 00:28:41,671
+We--we--we escaped together.
+
+541
+00:28:42,130 --> 00:28:43,632
+Nice escape plan, bro.
+
+542
+00:28:44,174 --> 00:28:46,259
+- You got her killed.
+- Thanks for reminding me.
+
+543
+00:28:46,551 --> 00:28:48,428
+Yeah, you just had
+to be a big shot
+
+544
+00:28:48,720 --> 00:28:51,223
+had to get on the TV
+and run your mouth.
+
+545
+00:28:52,807 --> 00:28:54,267
+It's your fault she's dead.
+
+546
+00:28:55,602 --> 00:28:57,437
+Yes. It is.
+
+547
+00:28:58,939 --> 00:29:01,107
+I know that.
+It is my fault.
+
+548
+00:29:02,984 --> 00:29:06,279
+And I just-- I hope that one day
+you will, uh, forgive me.
+
+549
+00:29:07,739 --> 00:29:09,282
+And maybe one day
+I'll forgive myself.
+
+550
+00:29:10,033 --> 00:29:12,827
+- Forgive you?
+- Not for my sake. For yours.
+
+551
+00:29:13,828 --> 00:29:17,457
+Because hating me is just a waste
+of your energy. It's pointless.
+
+552
+00:29:18,833 --> 00:29:21,336
+Just move on. Drop it.
+
+553
+00:29:21,544 --> 00:29:23,129
+Find something to love.
+
+554
+00:29:24,047 --> 00:29:25,090
+Love?
+
+555
+00:29:26,800 --> 00:29:28,885
+- Man, you really have changed.
+- Yeah.
+
+556
+00:29:31,513 --> 00:29:33,682
+I don't--
+I don't know if I...
+
+557
+00:29:34,808 --> 00:29:37,936
+I don't require an answer, Danny.
+I just...
+
+558
+00:29:43,066 --> 00:29:44,317
+You got something in your eye?
+
+559
+00:29:45,360 --> 00:29:47,529
+I got allergies. It's...
+
+560
+00:29:48,488 --> 00:29:49,614
+It's pollen.
+
+561
+00:29:51,533 --> 00:29:52,575
+Hey.
+
+562
+00:29:53,910 --> 00:29:54,953
+I'm sorry.
+
+563
+00:29:59,499 --> 00:30:00,542
+Landon Wale.
+
+564
+00:30:05,964 --> 00:30:07,132
+Yeah, Landon.
+
+565
+00:30:07,841 --> 00:30:08,883
+Boy...
+
+566
+00:30:09,968 --> 00:30:11,011
+There's a mark.
+
+567
+00:30:13,972 --> 00:30:16,391
+He was so hot to get taken.
+
+568
+00:30:16,516 --> 00:30:17,976
+He called me that night
+
+569
+00:30:18,560 --> 00:30:20,061
+and wanted to move up
+the action.
+
+570
+00:30:21,479 --> 00:30:23,982
+When I got there, he was dead.
+That's it.
+
+571
+00:30:25,650 --> 00:30:27,986
+- I did not kill him.
+- What was the action?
+
+572
+00:30:29,112 --> 00:30:31,656
+Landon was supposed to bring me
+the gold statue--
+
+573
+00:30:32,032 --> 00:30:34,159
+not to give to me
+just to show me, you know
+
+574
+00:30:34,284 --> 00:30:37,120
+to prove he had the collateral
+to invest in my hedge fund coup.
+
+575
+00:30:37,454 --> 00:30:39,414
+And this mook
+was hooked deep.
+
+576
+00:30:39,998 --> 00:30:41,916
+Thought he was flying to Brazil
+with his hot assistant
+
+577
+00:30:42,042 --> 00:30:43,126
+and all the money.
+
+578
+00:30:43,376 --> 00:30:44,878
+Brazil, I like it.
+
+579
+00:30:45,503 --> 00:30:46,671
+- Old school.
+- Yeah.
+
+580
+00:30:47,630 --> 00:30:50,967
+He had it all mapped out little place
+on the beach, a fishing boat.
+
+581
+00:30:51,343 --> 00:30:52,385
+Perfect mark.
+
+582
+00:30:54,262 --> 00:30:57,724
+Hey. To suckers. Gotta love 'em.
+
+583
+00:31:15,492 --> 00:31:16,534
+Don't move.
+
+584
+00:31:20,955 --> 00:31:21,998
+Keys.
+
+585
+00:31:28,797 --> 00:31:29,839
+Go on.
+
+586
+00:31:41,142 --> 00:31:42,185
+Jane!
+
+587
+00:31:44,771 --> 00:31:45,814
+Jane!
+
+588
+00:31:51,027 --> 00:31:52,153
+Jane, it's me.
+
+589
+00:31:53,071 --> 00:31:54,114
+Hey, Lisbon.
+
+590
+00:31:55,031 --> 00:31:58,243
+- Excellent work finding us.
+- I am very unhappy with you.
+
+591
+00:31:58,701 --> 00:31:59,994
+- Is he in there?
+- Yeah.
+
+592
+00:32:00,453 --> 00:32:03,373
+Bring him out. No funny business
+or I will shoot to kill.
+
+593
+00:32:04,165 --> 00:32:06,126
+You're very persuasive.
+We'll be right out.
+
+594
+00:32:20,723 --> 00:32:22,016
+Ms. Anders, thanks for coming in.
+
+595
+00:32:22,183 --> 00:32:23,518
+Sure. Uh, what's this about?
+
+596
+00:32:23,643 --> 00:32:25,728
+Uh, the insurance policy.
+We, uh, have a few questions.
+
+597
+00:32:25,937 --> 00:32:26,980
+Policy?
+
+598
+00:32:27,814 --> 00:32:29,566
+Oh, for Landon. Sure.
+
+599
+00:32:30,233 --> 00:32:31,985
+You know, it's common to have
+a key man policy
+
+600
+00:32:32,110 --> 00:32:33,945
+- for small businesses.
+- I'm sure you can straighten things out.
+
+601
+00:32:34,112 --> 00:32:35,947
+We have some, uh, paperwork
+to take care of.
+
+602
+00:32:38,032 --> 00:32:40,410
+If you could heck here
+and sign here, please.
+
+603
+00:32:45,832 --> 00:32:47,041
+Thanks for the call, Agent Lisbon.
+
+604
+00:32:47,250 --> 00:32:49,043
+My pleasure. We have a deal?
+
+605
+00:32:49,210 --> 00:32:51,337
+Yeah, we'll forget about
+your lies and incompetence.
+
+606
+00:32:51,504 --> 00:32:52,547
+- All right, up against the car.
+- Hey, what!
+
+607
+00:32:52,672 --> 00:32:53,715
+- Get your hands behind your back.
+- Wait. Hey.
+
+608
+00:32:53,840 --> 00:32:54,883
+- Hands behind the back.
+- Hey!
+
+609
+00:32:55,008 --> 00:32:56,593
+You said we could work it out
+if I came in, not him.
+
+610
+00:32:56,718 --> 00:32:58,344
+- I got no deal with him.
+- It's for the best, Danny.
+
+611
+00:32:58,470 --> 00:33:00,430
+It's for the best. We've all gotta get out
+from underneath it sometime.
+
+612
+00:33:00,555 --> 00:33:01,848
+- You bastard!
+- Sorry.
+
+613
+00:33:02,765 --> 00:33:06,102
+God. You son of a bitch!
+I'll kill you! I'll kill you!
+
+614
+00:33:06,603 --> 00:33:07,687
+- How could you do this?
+- Take it easy.
+
+615
+00:33:07,937 --> 00:33:10,106
+I'll kill you! You betrayed me.
+
+616
+00:33:12,901 --> 00:33:13,943
+I will kill you!
+
+617
+00:33:25,205 --> 00:33:27,540
+- Did you have to be so rough with him?
+- "Don't tell me how to do my job."
+
+618
+00:33:27,665 --> 00:33:29,042
+- I mean, your bedside--
+- "You're lucky I'm not taking you in."
+
+619
+00:33:29,209 --> 00:33:30,251
+- All right, both of you--
+- Are you threatening me?
+
+620
+00:33:30,376 --> 00:33:31,419
+I'm not threatening anybody.
+
+621
+00:33:31,544 --> 00:33:32,587
+If it weren't for me
+you wouldn't even have him!
+
+622
+00:33:32,712 --> 00:33:34,464
+Are you delusional?
+You blocked the investigation
+
+623
+00:33:34,589 --> 00:33:35,632
+- You spat on me.
+- every step of the way.
+
+624
+00:33:35,757 --> 00:33:36,799
+- He spat on me!
+- That's enough.
+
+625
+00:33:36,925 --> 00:33:37,967
+- You wanna go in with him? Say the word.
+- Enough.
+
+626
+00:33:38,092 --> 00:33:39,135
+I'd be happy--
+
+627
+00:33:40,386 --> 00:33:41,471
+"This whole investigation..."
+
+628
+00:33:44,182 --> 00:33:47,143
+- Hey! Hey, hey! Stop!
+- Lisbon! Lisbon!
+
+629
+00:33:48,019 --> 00:33:49,062
+Hey!
+
+630
+00:33:50,063 --> 00:33:52,023
+Stop! Hey!
+
+631
+00:34:16,629 --> 00:34:18,047
+Hi. This is police business.
+
+632
+00:34:19,048 --> 00:34:20,841
+Patrick Jane. I'm with the CBI.
+
+633
+00:34:21,467 --> 00:34:23,135
+Yes, I saw you there
+
+634
+00:34:23,261 --> 00:34:24,512
+- when the killer escaped.
+- Yeah.
+
+635
+00:34:24,929 --> 00:34:27,515
+It was horrible, Connie.
+Terrible story.
+
+636
+00:34:27,807 --> 00:34:29,892
+Yeah, well, I'd like to speak
+to Ms. Wale alone, please.
+
+637
+00:34:30,017 --> 00:34:31,143
+It's very important.
+
+638
+00:34:33,187 --> 00:34:34,230
+Thank you.
+
+639
+00:34:53,708 --> 00:34:55,626
+This is awkward
+but we have reason to believe
+
+640
+00:34:55,751 --> 00:34:58,212
+that Danny Ruskin has
+every intention of killing you.
+
+641
+00:34:58,879 --> 00:34:59,922
+- Me?
+- Yes, you.
+
+642
+00:35:00,047 --> 00:35:02,300
+He has a violent temper
+and several convictions to prove it
+
+643
+00:35:02,425 --> 00:35:05,219
+including shooting and killing a man
+ten years ago.
+
+644
+00:35:06,095 --> 00:35:07,680
+But why would
+he wanna hurt me?
+
+645
+00:35:09,515 --> 00:35:10,808
+He figured it out.
+
+646
+00:35:12,310 --> 00:35:14,687
+Oh, I-I'm sorry.
+That you killed your own husband
+
+647
+00:35:14,812 --> 00:35:17,315
+and in doing so
+ruined Danny Ruskin's life.
+
+648
+00:35:17,940 --> 00:35:18,983
+What?
+
+649
+00:35:19,191 --> 00:35:21,569
+Mr. Jane, that's an outrageous charge.
+
+650
+00:35:21,694 --> 00:35:23,863
+Yes, one I almost
+didn't believe myself
+
+651
+00:35:23,988 --> 00:35:25,031
+until meeting you just now.
+
+652
+00:35:25,156 --> 00:35:28,284
+Then it became glaringly obvious
+you have deep-seated control issues
+
+653
+00:35:28,409 --> 00:35:29,577
+mixed in with jealousy
+
+654
+00:35:29,702 --> 00:35:32,121
+and your own weird lust
+for violence.
+
+655
+00:35:32,455 --> 00:35:35,166
+Landon was gonna take the money
+and run away with that leggy assistant.
+
+656
+00:35:35,291 --> 00:35:37,918
+- What's her name?
+- Shut up. Landon loved me.
+
+657
+00:35:38,044 --> 00:35:39,420
+No, he didn't
+and you know he didn't.
+
+658
+00:35:39,545 --> 00:35:42,048
+Hell, maybe you even knew that he was
+headed off to Brazil with her
+
+659
+00:35:42,173 --> 00:35:45,676
+but what you didn't know, Mrs. Wale
+is that Landon was being played.
+
+660
+00:35:45,801 --> 00:35:48,638
+He was being conned by no one
+other than Danny Ruskin.
+
+661
+00:35:49,388 --> 00:35:51,474
+And when Landon
+took your Aphrodite statue
+
+662
+00:35:51,932 --> 00:35:54,060
+you assumed he was
+gonna give it to the mistress.
+
+663
+00:35:54,935 --> 00:35:56,228
+Your honeymoon gift--
+
+664
+00:35:57,688 --> 00:35:59,940
+the very symbol
+of your love for each other.
+
+665
+00:36:01,067 --> 00:36:03,527
+"So you followed Landon to where
+you thought he was gonna meet"
+
+666
+00:36:03,653 --> 00:36:05,279
+"with that statuesque strumpet"
+
+667
+00:36:05,696 --> 00:36:06,822
+"and you killed him."
+
+668
+00:36:17,750 --> 00:36:20,169
+"Then you took what you thought
+was rightfully yours."
+
+669
+00:36:23,089 --> 00:36:24,215
+That's ridiculous.
+
+670
+00:36:24,924 --> 00:36:27,134
+That Ruskin character killed Landon.
+
+671
+00:36:32,723 --> 00:36:34,809
+Where is the statue now, Concetta?
+
+672
+00:36:35,893 --> 00:36:36,936
+Huh?
+
+673
+00:36:38,688 --> 00:36:39,730
+Hey, wait!
+
+674
+00:36:40,690 --> 00:36:41,732
+Wait!
+
+675
+00:36:42,358 --> 00:36:43,401
+"You can't go in there!"
+
+676
+00:36:43,526 --> 00:36:45,444
+Oh, look at this. You could land
+a jumbo jet in here.
+
+677
+00:36:45,945 --> 00:36:47,988
+Landon wasn't big
+on the, uh, subtlety, was he?
+
+678
+00:36:48,114 --> 00:36:50,157
+Probably why you knew
+he was having an affair.
+
+679
+00:36:50,991 --> 00:36:52,827
+You must leave, Mr. Jane.
+
+680
+00:36:54,662 --> 00:36:55,996
+Right now.
+
+681
+00:36:56,122 --> 00:36:57,206
+You bitch.
+
+682
+00:37:00,084 --> 00:37:01,919
+- And you.
+- Easy.
+
+683
+00:37:02,336 --> 00:37:04,755
+- Christmas came early this year.
+- Oh, Danny, another gun?
+
+684
+00:37:04,880 --> 00:37:06,799
+Come on. Really?
+What--just...
+
+685
+00:37:06,924 --> 00:37:08,467
+None of this would have happened
+except for you.
+
+686
+00:37:08,592 --> 00:37:10,594
+- You ruined everything.
+- Okay, listen. Danny...
+
+687
+00:37:11,137 --> 00:37:12,888
+- You don't have to do this.
+- Shut up!
+
+688
+00:37:13,180 --> 00:37:16,600
+Okay, listen to me.
+You're not this person.
+
+689
+00:37:17,017 --> 00:37:19,395
+- Okay? You're not this person. Look--
+- You backstabbed me!
+
+690
+00:37:19,937 --> 00:37:21,063
+I trusted you.
+
+691
+00:37:21,897 --> 00:37:24,400
+You think I'm a mark?
+You think you can run games on me?
+
+692
+00:37:26,736 --> 00:37:28,237
+Oh. Oh, my God.
+
+693
+00:37:30,531 --> 00:37:31,907
+You shot me, Danny.
+
+694
+00:37:33,617 --> 00:37:34,660
+Son of a bitch.
+
+695
+00:37:36,746 --> 00:37:37,788
+What'd you do that for?
+
+696
+00:37:37,913 --> 00:37:39,039
+- Oh, my God.
+- Patrick.
+
+697
+00:37:40,541 --> 00:37:41,584
+Bastard.
+
+698
+00:37:42,668 --> 00:37:43,711
+No.
+
+699
+00:37:45,171 --> 00:37:46,964
+No. No, no, no, no.
+
+700
+00:37:51,761 --> 00:37:54,472
+Stay with me.
+Stay with me. I'm sorry.
+
+701
+00:37:54,722 --> 00:37:56,265
+I'm sorry.
+
+702
+00:38:02,396 --> 00:38:03,439
+You made me shoot him.
+
+703
+00:38:03,814 --> 00:38:05,399
+No, no. No, please.
+
+704
+00:38:05,733 --> 00:38:06,984
+- This is your fault.
+- No.
+
+705
+00:38:07,526 --> 00:38:09,612
+This is your fault! God!
+
+706
+00:38:10,863 --> 00:38:12,323
+You ruined my life!
+
+707
+00:38:13,032 --> 00:38:14,325
+You deserve this, bitch.
+
+708
+00:38:14,492 --> 00:38:16,160
+Your ruined my life.
+I could've had everything!
+
+709
+00:38:16,285 --> 00:38:17,369
+Okay, I can fix it!
+
+710
+00:38:18,621 --> 00:38:20,623
+I'll fix it. I swear.
+
+711
+00:38:22,041 --> 00:38:23,083
+Money.
+
+712
+00:38:23,292 --> 00:38:26,337
+So much money, you can go to Switzerland.
+You can go anywhere you want.
+
+713
+00:38:26,462 --> 00:38:28,172
+- Yeah?
+- You don't have to kill me.
+
+714
+00:38:29,423 --> 00:38:31,550
+Look, I can prove it.
+
+715
+00:38:32,092 --> 00:38:33,344
+Yeah? Go!
+
+716
+00:38:33,677 --> 00:38:35,387
+Okay. Okay.
+
+717
+00:38:39,099 --> 00:38:40,142
+Okay.
+
+718
+00:38:41,435 --> 00:38:43,604
+This is worth a lot of money.
+Take it.
+
+719
+00:38:43,813 --> 00:38:45,147
+It's yours. Take it!
+
+720
+00:38:52,613 --> 00:38:55,741
+Connie, Connie, Connie.
+You fell for the oldest gag in the book.
+
+721
+00:38:56,200 --> 00:38:58,035
+Huh?
+And one of the cheapest--
+
+722
+00:38:58,160 --> 00:39:00,162
+$3.55 at a novelty store near you.
+
+723
+00:39:00,412 --> 00:39:02,122
+Beats the hell outta the cackle bladder.
+
+724
+00:39:02,873 --> 00:39:06,085
+- You got a little...
+- A li--a little...
+
+725
+00:39:06,919 --> 00:39:09,004
+Kind of minty.
+How are my teeth?
+
+726
+00:39:09,922 --> 00:39:11,215
+They're good?
+That was great, huh?
+
+727
+00:39:12,842 --> 00:39:14,176
+Concetta Wale, you're under arrest.
+
+728
+00:39:14,635 --> 00:39:16,178
+Turn around. Put your hands
+behind your back.
+
+729
+00:39:18,013 --> 00:39:19,139
+- Turn around.
+- I'll take that.
+
+730
+00:39:24,228 --> 00:39:25,271
+You...
+
+731
+00:39:26,438 --> 00:39:27,565
+Come on. Let's go.
+
+732
+00:39:29,817 --> 00:39:32,695
+Sac PD wanna talk to you
+about Landon Wale and K-Ram.
+
+733
+00:39:32,820 --> 00:39:34,446
+There are some
+fraud charges pending.
+
+734
+00:39:36,240 --> 00:39:38,367
+Fraud is very hard to prove
+
+735
+00:39:38,492 --> 00:39:40,286
+especially when nothing
+changed hands.
+
+736
+00:39:40,411 --> 00:39:42,538
+In fact, now I think of it
+
+737
+00:39:43,038 --> 00:39:44,164
+I'm actually innocent here.
+
+738
+00:39:44,623 --> 00:39:45,958
+Whatever. They're on their way.
+
+739
+00:39:48,043 --> 00:39:50,671
+I believe she's telling you
+to scram.
+
+740
+00:39:51,630 --> 00:39:52,965
+That's not what I said.
+
+741
+00:40:05,561 --> 00:40:07,605
+- Thank you, Lisbon.
+- I didn't hear that.
+
+742
+00:40:10,649 --> 00:40:11,734
+Thank you, Lisbon.
+
+743
+00:40:12,484 --> 00:40:13,694
+I can't hear anything.
+
+744
+00:40:33,797 --> 00:40:34,840
+So...
+
+745
+00:40:35,382 --> 00:40:36,425
+This is it, huh?
+
+746
+00:40:38,135 --> 00:40:39,178
+It's nice.
+
+747
+00:40:39,720 --> 00:40:40,763
+Classy.
+
+748
+00:40:42,097 --> 00:40:44,141
+They'd like it, I guess
+
+749
+00:40:45,017 --> 00:40:46,101
+if they had a preference.
+
+750
+00:40:48,020 --> 00:40:49,772
+You know, this is
+the first time I've been here
+
+751
+00:40:50,731 --> 00:40:51,774
+since the funeral.
+
+752
+00:40:55,194 --> 00:40:56,236
+Why is that?
+
+753
+00:40:58,572 --> 00:40:59,823
+Because they're not here.
+
+754
+00:41:05,120 --> 00:41:10,125
+Hey, who knows for sure? Maybe they're up
+there right now looking down at us.
+
+755
+00:41:11,585 --> 00:41:14,713
+You know, Annie's saying
+"Lighten up, you dummies."
+
+756
+00:41:16,298 --> 00:41:17,424
+Yeah, maybe.
+
+757
+00:41:21,178 --> 00:41:22,596
+I'm sorry I asked to come.
+
+758
+00:41:23,222 --> 00:41:26,016
+Who knew a trip to the cemetery
+would be such a downer?
+
+759
+00:41:27,601 --> 00:41:30,020
+Sorry. It's irrational.
+No reason to be sad.
+
+760
+00:41:35,818 --> 00:41:37,945
+You gonna give 'em
+those flowers or what?
+
+761
+00:41:50,624 --> 00:41:51,959
+Guilt is for marks.
+
+762
+00:41:55,004 --> 00:41:56,130
+You know that, right?
+
+763
+00:41:57,756 --> 00:41:58,799
+Yeah.
+
