@@ -1,0 +1,3958 @@
+1
+00:00:05,657 --> 00:00:07,703
+[papers rustling]
+
+2
+00:00:07,790 --> 00:00:11,968
+Oh, your, uh...identification.
+
+3
+00:00:12,055 --> 00:00:16,799
+Congratulations. You are once
+again a consultant for the CBI.
+
+4
+00:00:16,886 --> 00:00:19,497
+Thank you.
+What about Lisbon?
+
+5
+00:00:19,584 --> 00:00:21,978
+Agent Lisbon
+remains on suspension
+
+6
+00:00:22,065 --> 00:00:23,414
+pending departmental
+investigation
+
+7
+00:00:23,501 --> 00:00:26,983
+of her actions
+in the Red John matter.
+
+8
+00:00:27,070 --> 00:00:28,941
+'You'll be working with..'
+
+9
+00:00:29,029 --> 00:00:30,769
+Ray Haffner from now on.
+
+10
+00:00:30,856 --> 00:00:33,946
+He's an excellent agent.
+Top-flight team.
+
+11
+00:00:34,034 --> 00:00:36,427
+- You're dumping her.
+- Not at all.
+
+12
+00:00:36,514 --> 00:00:41,780
+Uh, we're conducting a careful
+and scrupulously fair review.
+
+13
+00:00:41,867 --> 00:00:43,869
+You're rehiring me
+and you're firing Lisbon.
+
+14
+00:00:43,956 --> 00:00:46,220
+That's a little...perverse,
+don't you think?
+
+15
+00:00:46,307 --> 00:00:48,265
+No, see, you close cases.
+
+16
+00:00:48,352 --> 00:00:50,311
+Agent Lisbon ran a covert
+operation that led
+
+17
+00:00:50,398 --> 00:00:53,531
+to the deaths of two police
+officers and one FBI agent.
+
+18
+00:00:53,618 --> 00:00:56,056
+There just has to be
+some accountability there.
+
+19
+00:00:56,143 --> 00:00:58,145
+My operation.
+
+20
+00:00:58,232 --> 00:00:59,885
+That was my operation.
+
+21
+00:00:59,972 --> 00:01:01,844
+'Well, that's
+exactly the problem.'
+
+22
+00:01:01,931 --> 00:01:04,368
+'We expect better supervision
+from our senior agents'
+
+23
+00:01:04,455 --> 00:01:06,544
+which is why Lisbon
+is being investigated
+
+24
+00:01:06,631 --> 00:01:09,460
+and her team reassigned
+to other posts.
+
+25
+00:01:09,547 --> 00:01:13,464
+Uh, Haffner and his team
+already caught another case.
+
+26
+00:01:13,551 --> 00:01:16,206
+Here's the address.
+You can hit the ground running.
+
+27
+00:01:16,293 --> 00:01:18,600
+No, I don't think so.
+
+28
+00:01:18,687 --> 00:01:21,472
+No? What-what do you mean?
+
+29
+00:01:21,559 --> 00:01:22,865
+Just what I said.
+
+30
+00:01:25,041 --> 00:01:26,695
+I'll get right on this.
+
+31
+00:01:31,656 --> 00:01:34,355
+[indistinct chattering on radio]
+
+32
+00:01:34,442 --> 00:01:36,661
+- Jane, right?
+- Yup.
+
+33
+00:01:36,748 --> 00:01:38,315
+- Ray Haffner.
+- Hi.
+
+34
+00:01:38,402 --> 00:01:40,839
+I'm-I'm hoping we can
+jump in and do the job.
+
+35
+00:01:40,926 --> 00:01:42,102
+- Sound good?
+- Sure.
+
+36
+00:01:42,189 --> 00:01:43,712
+Great.
+
+37
+00:01:43,799 --> 00:01:45,975
+'This is Patrick Jane.
+Jane, this is Rick Tork.'
+
+38
+00:01:46,062 --> 00:01:47,368
+- How are you?
+- Hi.
+
+39
+00:01:47,455 --> 00:01:48,934
+- Anthony Niskin.
+- Nice to meet you.
+
+40
+00:01:49,021 --> 00:01:50,197
+- Hi.
+- And Ed Masterson.
+
+41
+00:01:50,284 --> 00:01:52,721
+- Hello. Hi.
+- Yeah.
+
+42
+00:01:52,808 --> 00:01:54,810
+[indistinct chattering on radio]
+
+43
+00:01:54,897 --> 00:01:57,378
+- I'll just..
+- Absolutely.
+
+44
+00:01:57,465 --> 00:02:00,816
+[Masterson]
+'The victim's name
+is Markus Kuzmenko.'
+
+45
+00:02:00,903 --> 00:02:03,993
+'Got hit with something heavy
+on the left side of his head.'
+
+46
+00:02:04,080 --> 00:02:06,300
+'No sign of the murder weapon.'
+
+47
+00:02:06,387 --> 00:02:08,693
+May I? Thank you.
+
+48
+00:02:08,780 --> 00:02:11,174
+[Masterson]
+'Gardener found the body
+when he came today.'
+
+49
+00:02:11,261 --> 00:02:13,655
+Coroner says it happened
+around 11 last night.
+
+50
+00:02:13,742 --> 00:02:15,439
+Haven't found any witnesses.
+
+51
+00:02:19,530 --> 00:02:21,053
+Jane?
+
+52
+00:02:21,141 --> 00:02:22,185
+Hmm?
+
+53
+00:02:22,272 --> 00:02:23,578
+Any thoughts?
+
+54
+00:02:23,665 --> 00:02:24,840
+Yeah.
+
+55
+00:02:28,148 --> 00:02:30,628
+"The years teach us patience.
+
+56
+00:02:30,715 --> 00:02:32,152
+"The shorter our time,
+the greater
+
+57
+00:02:32,239 --> 00:02:34,980
+our capacity for waiting."
+
+58
+00:02:35,067 --> 00:02:37,069
+That's pretty deep.
+Is it Buddha?
+
+59
+00:02:37,157 --> 00:02:38,680
+Elizabeth Taylor.
+
+60
+00:02:38,767 --> 00:02:40,986
+This man's dead.
+I'm all but certain of it.
+
+61
+00:02:46,340 --> 00:02:47,297
+What?
+
+62
+00:02:47,384 --> 00:02:48,690
+[sighs]
+Alright then.
+
+63
+00:02:49,517 --> 00:02:52,389
+[theme music]
+
+64
+00:03:00,310 --> 00:03:01,920
+Thank you.
+
+65
+00:03:06,708 --> 00:03:08,013
+Mmm.
+
+66
+00:03:08,100 --> 00:03:09,493
+How's the arm?
+
+67
+00:03:09,580 --> 00:03:11,669
+Better. Yeah, physical
+therapy's helping.
+
+68
+00:03:11,756 --> 00:03:12,714
+Good.
+
+69
+00:03:12,801 --> 00:03:14,890
+[sighs]
+
+70
+00:03:14,977 --> 00:03:16,805
+Tell me, uh
+
+71
+00:03:16,892 --> 00:03:19,982
+what do you know about
+this guy Ray Haffner?
+
+72
+00:03:20,069 --> 00:03:21,766
+You're back at work?
+
+73
+00:03:21,853 --> 00:03:24,465
+Yeah, you know,
+just consulting.
+
+74
+00:03:26,118 --> 00:03:28,338
+Haffner, uh..
+
+75
+00:03:28,425 --> 00:03:30,775
+...word is he's tough,
+by the book.
+
+76
+00:03:30,862 --> 00:03:32,255
+I think he started out
+
+77
+00:03:32,342 --> 00:03:34,388
+in the FBI organized
+crime division.
+
+78
+00:03:34,475 --> 00:03:36,216
+He had a couple
+of high-profile busts
+
+79
+00:03:36,303 --> 00:03:39,828
+using wiretaps and creative
+surveillance techniques.
+
+80
+00:03:39,915 --> 00:03:41,177
+Surveillance, huh?
+
+81
+00:03:41,264 --> 00:03:43,179
+- Yeah.
+- Hmm.
+
+82
+00:03:43,266 --> 00:03:44,485
+Why do you wanna know?
+
+83
+00:03:44,572 --> 00:03:47,009
+Eh, just curious.
+
+84
+00:03:47,096 --> 00:03:49,881
+- Oh.
+- Can I take this?
+
+85
+00:03:49,968 --> 00:03:51,753
+- You're leaving?
+- Yeah, new case.
+
+86
+00:03:51,840 --> 00:03:54,756
+I, uh, I gotta man the phones,
+hit the sidewalk.
+
+87
+00:03:54,843 --> 00:03:56,801
+- You know how it is.
+- Yeah, I know.
+
+88
+00:03:56,888 --> 00:03:58,107
+- Thanks for coming by.
+- Pleasure.
+
+89
+00:03:58,194 --> 00:04:00,065
+Yeah.
+
+90
+00:04:00,152 --> 00:04:02,677
+Just so you know,
+Jane, I'm okay.
+
+91
+00:04:02,764 --> 00:04:03,808
+About?
+
+92
+00:04:03,895 --> 00:04:05,332
+Losing my job.
+
+93
+00:04:05,419 --> 00:04:07,159
+I'm not gonna say
+I like it
+
+94
+00:04:07,247 --> 00:04:10,293
+but we got Red John.
+It was worth it.
+
+95
+00:04:10,380 --> 00:04:12,774
+Don't be silly.
+A, you haven't lost your job.
+
+96
+00:04:12,861 --> 00:04:14,515
+The hearing's a formality.
+
+97
+00:04:14,602 --> 00:04:16,734
+And B, we didn't
+get Red John.
+
+98
+00:04:16,821 --> 00:04:19,824
+Timothy Carter told
+you he was Red John.
+
+99
+00:04:19,911 --> 00:04:20,912
+He lied.
+
+100
+00:04:20,999 --> 00:04:21,957
+'Carter must've known him'
+
+101
+00:04:22,044 --> 00:04:23,524
+because he told me things that
+
+102
+00:04:23,611 --> 00:04:25,526
+only my wife and daughter's
+killer could know.
+
+103
+00:04:25,613 --> 00:04:26,918
+But he's not the man.
+
+104
+00:04:27,005 --> 00:04:29,356
+- That man's still out there.
+- Jane.
+
+105
+00:04:29,443 --> 00:04:31,967
+Someone told that security
+guard to take Carter's gun
+
+106
+00:04:32,054 --> 00:04:34,491
+and phone, then killed him.
+
+107
+00:04:34,578 --> 00:04:36,754
+Who would do that
+besides Red John?
+
+108
+00:04:36,841 --> 00:04:39,017
+Ergo, Timothy Carter
+is not Red John.
+
+109
+00:04:39,104 --> 00:04:41,324
+Carter had to have known
+there was a possibility
+
+110
+00:04:41,411 --> 00:04:43,370
+you'd kill him.
+You always said you would.
+
+111
+00:04:43,457 --> 00:04:45,894
+So maybe he asked
+a guard to take the gun
+
+112
+00:04:45,981 --> 00:04:47,722
+and the cell phone
+if you did.
+
+113
+00:04:47,809 --> 00:04:49,245
+- Why?
+- To mess with your head.
+
+114
+00:04:49,332 --> 00:04:50,594
+And it's working.
+
+115
+00:04:50,681 --> 00:04:53,031
+You're looking for a man
+you already killed.
+
+116
+00:04:53,118 --> 00:04:54,598
+Carter's wife is in custody.
+
+117
+00:04:54,685 --> 00:04:56,861
+- 'She said anything?'
+- Nothing.
+
+118
+00:04:56,948 --> 00:04:59,168
+When she does talk,
+you know what she'll say?
+
+119
+00:04:59,255 --> 00:05:01,562
+That you shot
+and killed Red John.
+
+120
+00:05:01,649 --> 00:05:03,433
+Good for you.
+
+121
+00:05:03,520 --> 00:05:05,087
+No.
+
+122
+00:05:05,174 --> 00:05:06,131
+Thanks for the tea.
+
+123
+00:05:06,218 --> 00:05:07,219
+What do you mean?
+
+124
+00:05:07,307 --> 00:05:09,352
+Uh, lovely to see you.
+
+125
+00:05:09,439 --> 00:05:10,875
+Keep working that bum wing.
+
+126
+00:05:15,184 --> 00:05:17,839
+Keys, change, anything metal.
+
+127
+00:05:17,926 --> 00:05:19,841
+Thank you.
+
+128
+00:05:19,928 --> 00:05:22,104
+[Rigsby]
+Thanks.
+
+129
+00:05:22,191 --> 00:05:23,584
+- Jane.
+- New assignment?
+
+130
+00:05:23,671 --> 00:05:26,108
+Just temporary.
+Security's shorthanded.
+
+131
+00:05:26,195 --> 00:05:27,892
+At least that's
+what they tell me.
+
+132
+00:05:27,979 --> 00:05:30,721
+Cho got a call today. Not sure
+where they're putting him.
+
+133
+00:05:30,808 --> 00:05:33,942
+Grace is still waiting to hear.
+At least we still have jobs.
+
+134
+00:05:36,988 --> 00:05:38,860
+You, uh, talk to Lisbon?
+
+135
+00:05:38,947 --> 00:05:39,948
+Uh, yes.
+
+136
+00:05:40,035 --> 00:05:41,906
+We're gonna have a..
+
+137
+00:05:41,993 --> 00:05:43,473
+...a little secret
+meeting later.
+
+138
+00:05:43,560 --> 00:05:45,432
+- Tell Cho and Van Pelt.
+- Secret meeting?
+
+139
+00:05:45,519 --> 00:05:47,825
+- About what?
+- I'll tell you then.
+
+140
+00:05:50,524 --> 00:05:51,481
+Keys.
+
+141
+00:05:51,568 --> 00:05:54,441
+[instrumental music]
+
+142
+00:06:05,365 --> 00:06:08,933
+Hey, Tork, you're still
+20 short on Tuesday's dinner.
+
+143
+00:06:09,020 --> 00:06:10,892
+Man up, my brother.
+
+144
+00:06:10,979 --> 00:06:12,589
+Yeah.
+
+145
+00:06:16,027 --> 00:06:18,247
+Jane, heard you used
+to be in the circus.
+
+146
+00:06:18,334 --> 00:06:21,206
+- Is that right?
+- Well, um, not exactly.
+
+147
+00:06:27,082 --> 00:06:29,258
+I like your shoes.
+
+148
+00:06:29,345 --> 00:06:31,434
+Yeah.
+
+149
+00:06:31,521 --> 00:06:33,480
+Hey.
+
+150
+00:06:33,567 --> 00:06:36,134
+I doubt Niskin meant
+anything, by the way.
+
+151
+00:06:36,221 --> 00:06:37,484
+What do you mean?
+
+152
+00:06:37,571 --> 00:06:40,487
+"You're short." "Man up."
+
+153
+00:06:40,574 --> 00:06:43,272
+I don't think
+he was referring to..
+
+154
+00:06:43,359 --> 00:06:44,316
+No.
+
+155
+00:06:44,404 --> 00:06:45,709
+I mean..
+
+156
+00:06:49,147 --> 00:06:50,322
+...no.
+
+157
+00:06:52,237 --> 00:06:54,936
+What have we got on the victim?
+
+158
+00:06:55,023 --> 00:06:58,592
+Kuzmenko was a naturalized
+citizen originally from Estonia.
+
+159
+00:06:58,679 --> 00:07:00,985
+Was a swimmer on
+the Estonian National Swim Team
+
+160
+00:07:01,072 --> 00:07:04,293
+came over to the US 2002,
+no family here.
+
+161
+00:07:04,380 --> 00:07:07,122
+Stop playing with that little
+ball. You're driving me crazy.
+
+162
+00:07:07,209 --> 00:07:10,647
+[Masterson]
+He worked as a personal trainer
+at a gym called Work-It.
+
+163
+00:07:10,734 --> 00:07:12,475
+'Got his picture
+off their web site.'
+
+164
+00:07:12,562 --> 00:07:16,131
+I know that gym.
+A lot of bigwigs work out there.
+
+165
+00:07:16,218 --> 00:07:19,482
+Hey. Jane.
+
+166
+00:07:19,569 --> 00:07:22,137
+Your thing's reading people.
+What's this guy say to you?
+
+167
+00:07:22,224 --> 00:07:24,487
+I'd guess he was a narcissist
+
+168
+00:07:24,574 --> 00:07:26,446
+and a serial seducer.
+
+169
+00:07:26,533 --> 00:07:28,796
+How do you get that?
+
+170
+00:07:28,883 --> 00:07:30,362
+A jock with manicured nails
+
+171
+00:07:30,450 --> 00:07:32,582
+too much cologne,
+too tight of pants
+
+172
+00:07:32,669 --> 00:07:34,845
+and he drives
+a 20-year-old muscle car.
+
+173
+00:07:36,673 --> 00:07:38,806
+Okay. We'll see
+if that's useful.
+
+174
+00:07:38,893 --> 00:07:41,461
+Masterson, you and Tork, you
+cover Kuzmenko's neighborhood.
+
+175
+00:07:41,548 --> 00:07:44,159
+Niskin, you run his
+phone and e-mails.
+
+176
+00:07:44,246 --> 00:07:48,250
+- I'll cover the gym.
+- I'll go with you.
+
+177
+00:07:48,337 --> 00:07:49,556
+Sure. You can come.
+
+178
+00:07:49,643 --> 00:07:51,993
+Agent Haffner,
+you asked to see me?
+
+179
+00:07:52,080 --> 00:07:55,126
+Yeah, Cho, let's talk in my
+office. Meet you at the gym.
+
+180
+00:07:58,608 --> 00:07:59,914
+Sit down.
+
+181
+00:08:01,785 --> 00:08:04,440
+I saw your old team member
+downstairs...Rigsby?
+
+182
+00:08:06,268 --> 00:08:09,053
+- 'That's tough.'
+- I guess.
+
+183
+00:08:09,140 --> 00:08:12,622
+I know your reputation, Cho.
+I read your file.
+
+184
+00:08:12,709 --> 00:08:14,450
+'You're a good cop'
+
+185
+00:08:14,537 --> 00:08:17,584
+but this Red John thing
+really pissed Bertram off.
+
+186
+00:08:17,671 --> 00:08:19,499
+Puts you in a bad spot.
+
+187
+00:08:23,067 --> 00:08:25,287
+- What's your take on Jane?
+- What do you mean?
+
+188
+00:08:25,374 --> 00:08:28,116
+- You trust him?
+- 'Depends.'
+
+189
+00:08:28,203 --> 00:08:29,770
+Think he's smarter than you?
+
+190
+00:08:29,857 --> 00:08:31,728
+Yes.
+
+191
+00:08:31,815 --> 00:08:34,862
+- Think he's smarter than me?
+- Yes.
+
+192
+00:08:34,949 --> 00:08:36,341
+You're probably right.
+
+193
+00:08:36,428 --> 00:08:38,387
+I read Jane's file.
+I know what'll happen.
+
+194
+00:08:38,474 --> 00:08:40,258
+He's gonna go behind my back..
+
+195
+00:08:40,345 --> 00:08:42,565
+...lie to me,
+run a scam on me, right?
+
+196
+00:08:42,652 --> 00:08:45,046
+- Pretty much.
+- 'He's also gonna close cases.'
+
+197
+00:08:45,133 --> 00:08:47,309
+I get that too.
+I can work with Jane.
+
+198
+00:08:47,396 --> 00:08:49,659
+I just need some help
+
+199
+00:08:49,746 --> 00:08:52,793
+'someone who knows him, someone
+who can tell me what's going on'
+
+200
+00:08:52,880 --> 00:08:55,099
+warn me when something's coming.
+
+201
+00:08:55,186 --> 00:08:56,927
+'I'm not talking about
+betraying a confidence.'
+
+202
+00:08:57,014 --> 00:08:59,495
+- I wanna be kept in the loop.
+- What's the difference?
+
+203
+00:08:59,582 --> 00:09:01,802
+You help me, you're
+at your desk working cases.
+
+204
+00:09:01,889 --> 00:09:03,543
+You don't, you're
+downstairs working the lobby
+
+205
+00:09:03,630 --> 00:09:06,154
+with your pal Rigsby.
+
+206
+00:09:06,241 --> 00:09:08,156
+Where doyouwant to be?
+
+207
+00:09:09,636 --> 00:09:11,072
+Here.
+
+208
+00:09:11,159 --> 00:09:12,639
+'Glad to hear it.'
+
+209
+00:09:13,814 --> 00:09:14,902
+Here's the case file.
+
+210
+00:09:16,251 --> 00:09:18,122
+Good to have you aboard, Cho.
+
+211
+00:09:18,209 --> 00:09:21,125
+[intense music]
+
+212
+00:09:28,002 --> 00:09:30,744
+[phone ringing]
+
+213
+00:09:30,831 --> 00:09:33,921
+Oh. Just admiring your son.
+He as tall as you?
+
+214
+00:09:34,008 --> 00:09:36,097
+No, no.
+He's just nine years old.
+
+215
+00:09:36,184 --> 00:09:39,361
+Right. So, what, he's
+about, uh, Tork's size?
+
+216
+00:09:39,448 --> 00:09:42,364
+[Niskin laughing]
+
+217
+00:09:45,236 --> 00:09:47,674
+[laughing]
+No, man. No,
+Tork's not that short.
+
+218
+00:09:47,761 --> 00:09:49,893
+No, my little man's probably
+about, like, right here.
+
+219
+00:09:51,982 --> 00:09:54,855
+[Niskin laughing]
+
+220
+00:10:06,040 --> 00:10:06,954
+Hey.
+
+221
+00:10:08,825 --> 00:10:12,133
+Was Niskin just
+talking about me?
+
+222
+00:10:12,220 --> 00:10:14,396
+Yeah, I-I gotta make
+an important phone call.
+
+223
+00:10:16,572 --> 00:10:18,530
+Son of a bitch.
+
+224
+00:10:21,664 --> 00:10:24,711
+Hi. I need some help
+locating a special item.
+
+225
+00:10:29,019 --> 00:10:31,413
+Gym's owner is Jocelyn Chapin.
+
+226
+00:10:31,500 --> 00:10:33,197
+If you don't mind,
+I'll take lead.
+
+227
+00:10:33,284 --> 00:10:35,896
+- Lead. Sure.
+- Good.
+
+228
+00:10:35,983 --> 00:10:36,897
+Ms. Chapin?
+
+229
+00:10:38,333 --> 00:10:40,988
+Ms. Chapin, hi.
+Agent Ray Haffner, CBI.
+
+230
+00:10:41,075 --> 00:10:42,424
+This is Patrick Jane.
+
+231
+00:10:42,511 --> 00:10:44,948
+- He's a consultant.
+- Hi.
+
+232
+00:10:45,035 --> 00:10:46,863
+- I can't believe what happened.
+- I understand.
+
+233
+00:10:46,950 --> 00:10:48,691
+How long had
+Kuzmenko worked here?
+
+234
+00:10:48,778 --> 00:10:51,999
+Uh, almost nine years.
+
+235
+00:10:52,086 --> 00:10:54,305
+He started here
+when he got to the US.
+
+236
+00:10:54,392 --> 00:10:56,307
+- He get along with people?
+- Yeah, everybody.
+
+237
+00:10:56,394 --> 00:10:58,962
+Markus was a real people person,
+just charming.
+
+238
+00:10:59,049 --> 00:11:00,703
+You couldn't say no to him.
+
+239
+00:11:00,790 --> 00:11:04,141
+So was he having any
+troubles recently or..
+
+240
+00:11:04,228 --> 00:11:06,187
+Not that I know of. Uh..
+
+241
+00:11:06,274 --> 00:11:07,275
+Um..
+
+242
+00:11:07,362 --> 00:11:08,842
+[weights clanking]
+
+243
+00:11:08,929 --> 00:11:10,670
+- Mike.
+- Yeah?
+
+244
+00:11:10,757 --> 00:11:13,020
+This-this is Mike Villanueva.
+He and Markus were friends.
+
+245
+00:11:13,107 --> 00:11:14,717
+These are, uh, agents from CBI.
+
+246
+00:11:14,804 --> 00:11:16,501
+Oh. Oh, it's crazy, huh?
+
+247
+00:11:16,588 --> 00:11:18,025
+Yeah, we're all
+pretty racked up..
+
+248
+00:11:18,112 --> 00:11:21,158
+Yeah, did Markus mention
+any other difficulties
+
+249
+00:11:21,245 --> 00:11:23,378
+that he was having,
+money, other issues?
+
+250
+00:11:23,465 --> 00:11:26,120
+No. No, he was doing great.
+
+251
+00:11:26,207 --> 00:11:30,167
+Ooh. Feeling that. Yeah.
+
+252
+00:11:30,254 --> 00:11:33,214
+- We boring you, Jane?
+- Nope. Not at all.
+
+253
+00:11:33,301 --> 00:11:35,825
+[grunts]
+
+254
+00:11:35,912 --> 00:11:37,566
+[clanks]
+
+255
+00:11:37,653 --> 00:11:38,959
+Sorry.
+
+256
+00:11:39,046 --> 00:11:42,005
+I thought you were
+taking lead on this.
+
+257
+00:11:42,092 --> 00:11:46,096
+How many clients was
+Kuzmenko sleeping with?
+
+258
+00:11:46,183 --> 00:11:48,969
+- Excuse me?
+- You said he was charming.
+
+259
+00:11:49,056 --> 00:11:52,102
+Good-looker. He must've
+had his pick of the bunch.
+
+260
+00:11:52,189 --> 00:11:55,802
+I, uh, I gotta get
+back to my client now.
+
+261
+00:11:55,889 --> 00:11:58,282
+Uh, I have a firm
+policy against that.
+
+262
+00:11:58,369 --> 00:11:59,762
+Doesn't answer the question.
+
+263
+00:11:59,849 --> 00:12:01,546
+Listen, a lot
+of prominent people
+
+264
+00:12:01,633 --> 00:12:03,766
+come here, alright?
+
+265
+00:12:03,853 --> 00:12:07,204
+Politicians,
+politicians' wives
+
+266
+00:12:07,291 --> 00:12:08,815
+and frankly, they
+expect some discretion.
+
+267
+00:12:08,902 --> 00:12:11,992
+Yeah, we don't really care.
+Answer his question.
+
+268
+00:12:12,079 --> 00:12:14,951
+Yeah, I-I heard rumors about
+Markus and some of his clients.
+
+269
+00:12:15,038 --> 00:12:16,518
+If they were true, I would've
+
+270
+00:12:16,605 --> 00:12:18,825
+had to fire him.
+I didn't wanna do that.
+
+271
+00:12:18,912 --> 00:12:22,045
+Markus was the most
+successful trainer that we had
+
+272
+00:12:22,132 --> 00:12:24,656
+so I-I didn't ask.
+
+273
+00:12:24,744 --> 00:12:26,528
+I don't have any names.
+
+274
+00:12:26,615 --> 00:12:27,790
+Except your own.
+
+275
+00:12:27,877 --> 00:12:29,879
+Yeah.
+
+276
+00:12:29,966 --> 00:12:31,272
+Yeah, a long time ago
+
+277
+00:12:31,359 --> 00:12:34,057
+very, very briefly,
+Markus and I had a thing.
+
+278
+00:12:34,144 --> 00:12:35,755
+A thing?
+
+279
+00:12:35,842 --> 00:12:38,627
+Nothing serious.
+
+280
+00:12:38,714 --> 00:12:42,892
+- We were friends.
+- Oh. Okay.
+
+281
+00:12:42,979 --> 00:12:45,460
+I'm gonna need the names
+of all of Kuzmenko's clients.
+
+282
+00:12:56,732 --> 00:12:59,648
+[instrumental music]
+
+283
+00:13:01,084 --> 00:13:02,216
+Hi.
+
+284
+00:13:03,608 --> 00:13:05,088
+Lovely rings you have.
+
+285
+00:13:05,175 --> 00:13:06,568
+Thanks.
+
+286
+00:13:06,655 --> 00:13:08,178
+Expensive, I expect.
+
+287
+00:13:08,265 --> 00:13:10,093
+Your husband must
+be very generous.
+
+288
+00:13:10,180 --> 00:13:12,095
+Yeah. Do you mind?
+
+289
+00:13:15,316 --> 00:13:17,274
+Just, uh, one more thing.
+
+290
+00:13:17,361 --> 00:13:19,015
+Markus Kuzmenko
+
+291
+00:13:19,102 --> 00:13:21,626
+more of a gentle lover
+or a brute?
+
+292
+00:13:21,713 --> 00:13:23,541
+[woman grunts]
+
+293
+00:13:23,628 --> 00:13:26,066
+[female #1]
+'Oh! Are you alright?'
+
+294
+00:13:26,153 --> 00:13:27,894
+- You okay?
+- Man down!
+
+295
+00:13:27,981 --> 00:13:29,678
+[door opening]
+
+296
+00:13:30,505 --> 00:13:31,811
+[door closes]
+
+297
+00:13:37,686 --> 00:13:39,427
+Your Mr. Jane,
+how did he know?
+
+298
+00:13:39,514 --> 00:13:42,082
+Your eyes were puffy.
+He could tell you'd been crying.
+
+299
+00:13:42,169 --> 00:13:44,867
+Does my husband have
+to find out about this?
+
+300
+00:13:44,954 --> 00:13:46,303
+Depends on what you say.
+
+301
+00:13:46,390 --> 00:13:48,088
+[sighs]
+
+302
+00:13:49,916 --> 00:13:52,266
+It happened
+a few months back.
+
+303
+00:13:52,353 --> 00:13:55,573
+Markus was coming
+by my house once a week
+
+304
+00:13:55,660 --> 00:13:58,054
+to work on my abs.
+
+305
+00:13:58,141 --> 00:14:00,317
+He was so funny and charming
+
+306
+00:14:00,404 --> 00:14:03,668
+with a faintly...wicked quality.
+
+307
+00:14:05,192 --> 00:14:07,759
+Amoral, you know what I mean?
+
+308
+00:14:07,847 --> 00:14:09,718
+Unaware of moral precepts
+
+309
+00:14:09,805 --> 00:14:11,241
+as opposed
+to being purposely bad.
+
+310
+00:14:11,328 --> 00:14:13,113
+'It can be a very
+attractive quality.'
+
+311
+00:14:14,288 --> 00:14:16,638
+My husband's not like that.
+
+312
+00:14:16,725 --> 00:14:19,249
+Amoral, I mean.
+
+313
+00:14:19,336 --> 00:14:23,166
+Markus never hit on me.
+I think I seduced him.
+
+314
+00:14:23,253 --> 00:14:25,125
+How long did
+the relationship last?
+
+315
+00:14:26,822 --> 00:14:29,216
+Twice.
+
+316
+00:14:29,303 --> 00:14:30,913
+Markus wasn't a relationship.
+
+317
+00:14:31,000 --> 00:14:33,698
+If it was a just a fling
+a couple months back
+
+318
+00:14:33,785 --> 00:14:35,918
+why were you crying
+this morning?
+
+319
+00:14:36,005 --> 00:14:38,616
+He's dead.
+
+320
+00:14:38,703 --> 00:14:40,053
+It's sad.
+
+321
+00:14:42,794 --> 00:14:45,754
+Your phone records show
+Markus called you last week.
+
+322
+00:14:45,841 --> 00:14:47,538
+'You sure
+the relationship was over?'
+
+323
+00:14:47,625 --> 00:14:49,410
+Um..
+
+324
+00:14:49,497 --> 00:14:51,499
+...Markus said that
+he had a business venture
+
+325
+00:14:51,586 --> 00:14:55,068
+he wanted to talk to my husband
+and me about investing in.
+
+326
+00:14:55,155 --> 00:14:56,852
+[sighs]
+It didn't occur to him that
+
+327
+00:14:56,939 --> 00:14:58,549
+that would be
+an awkward conversation.
+
+328
+00:14:58,636 --> 00:14:59,986
+What was the business?
+
+329
+00:15:00,073 --> 00:15:01,291
+I don't know.
+
+330
+00:15:01,378 --> 00:15:03,293
+I told him
+we couldn't discuss it.
+
+331
+00:15:06,035 --> 00:15:09,256
+[sighs]
+So what about my husband?
+
+332
+00:15:09,343 --> 00:15:12,302
+There's a pretty good chance
+we won't need to talk to him.
+
+333
+00:15:12,389 --> 00:15:15,088
+I'd hate for him
+to have to find out
+
+334
+00:15:15,175 --> 00:15:17,133
+although a little bit,
+I wish he would.
+
+335
+00:15:19,440 --> 00:15:22,530
+- Should we keep an eye on her?
+- She seemed sincere to me.
+
+336
+00:15:22,617 --> 00:15:24,967
+Eh, she's a timid
+suburban adulteress.
+
+337
+00:15:25,054 --> 00:15:26,490
+The only thing
+she's killed lately
+
+338
+00:15:26,577 --> 00:15:27,883
+is a bottle of chardonnay.
+
+339
+00:15:27,970 --> 00:15:29,058
+[indistinct chattering on radio]
+
+340
+00:15:29,145 --> 00:15:32,540
+Niskin! You think this is funny?
+
+341
+00:15:32,627 --> 00:15:34,324
+What do you mean?
+
+342
+00:15:34,411 --> 00:15:37,371
+I just found these
+on my desk with a note.
+
+343
+00:15:37,458 --> 00:15:40,200
+"Tork, try theselifts."
+That funny to you?
+
+344
+00:15:40,287 --> 00:15:42,506
+[laughing]
+I got nothing
+to do with that, man.
+
+345
+00:15:42,593 --> 00:15:44,378
+I wear lifts,
+so I'm a joke?
+
+346
+00:15:44,465 --> 00:15:46,162
+I don't know
+about your lifts
+
+347
+00:15:46,249 --> 00:15:48,773
+but, yes, these are
+real funny, man.
+
+348
+00:15:48,860 --> 00:15:50,688
+[both grunting]
+
+349
+00:15:50,775 --> 00:15:52,473
+[shattering]
+
+350
+00:15:52,560 --> 00:15:54,083
+[both grunting]
+
+351
+00:15:54,170 --> 00:15:55,955
+- Come on, come on.
+- Help.
+
+352
+00:15:56,042 --> 00:15:58,261
+- Break it up!
+- My money's on the little guy.
+
+353
+00:16:04,267 --> 00:16:07,792
+I was engaged
+to this guy, Craig.
+
+354
+00:16:07,879 --> 00:16:10,143
+You know, he seemed
+like a good person.
+
+355
+00:16:10,230 --> 00:16:11,753
+We were happy.
+
+356
+00:16:13,146 --> 00:16:15,322
+Then I found out
+that he was an assassin
+
+357
+00:16:15,409 --> 00:16:18,412
+for a serial killer
+named Red John
+
+358
+00:16:18,499 --> 00:16:21,676
+and he tried to...kill me
+
+359
+00:16:21,763 --> 00:16:23,895
+and some other people, so..
+
+360
+00:16:23,983 --> 00:16:26,333
+I had to shoot him.
+
+361
+00:16:26,420 --> 00:16:29,945
+Tell me, how it does
+it feel telling that
+
+362
+00:16:30,032 --> 00:16:32,600
+recounting it?
+
+363
+00:16:32,687 --> 00:16:35,777
+Not good. Pretty bad.
+
+364
+00:16:35,864 --> 00:16:38,258
+Can you elaborate?
+
+365
+00:16:38,345 --> 00:16:41,043
+Can I ask, how long does
+this therapy usually last?
+
+366
+00:16:41,130 --> 00:16:43,306
+'It depends.
+There's no set calendar.'
+
+367
+00:16:44,699 --> 00:16:47,571
+I'm sensing
+hesitation on your part.
+
+368
+00:16:47,658 --> 00:16:50,139
+I guess..
+
+369
+00:16:50,226 --> 00:16:52,924
+...I just don't believe
+that this will really work.
+
+370
+00:16:53,012 --> 00:16:54,926
+Talking about it.
+
+371
+00:16:55,014 --> 00:16:57,320
+What's the point?
+
+372
+00:16:57,407 --> 00:17:01,237
+Grace, somebody you trusted
+and loved betrayed you
+
+373
+00:17:01,324 --> 00:17:04,719
+betrayed you so badly,
+you had to take his life.
+
+374
+00:17:04,806 --> 00:17:06,590
+That needs to be talked about.
+
+375
+00:17:08,375 --> 00:17:10,638
+[chuckles]
+It could've been worse.
+
+376
+00:17:10,725 --> 00:17:13,380
+I could've married him.
+
+377
+00:17:13,467 --> 00:17:16,426
+[cell phone ringing]
+
+378
+00:17:16,513 --> 00:17:18,776
+No phone calls during session.
+That's a rule.
+
+379
+00:17:18,863 --> 00:17:22,258
+It's work. I gotta take this.
+
+380
+00:17:22,345 --> 00:17:24,304
+Sorry.
+
+381
+00:17:24,391 --> 00:17:26,828
+Van Pelt.
+
+382
+00:17:26,915 --> 00:17:30,092
+I can be there in 15 minutes.
+Who should I report to?
+
+383
+00:17:30,179 --> 00:17:32,921
+Since Agent Tork has been
+removed from active duty
+
+384
+00:17:33,008 --> 00:17:35,793
+I assumed you would
+want to replace him.
+
+385
+00:17:35,880 --> 00:17:37,708
+Was I incorrect?
+
+386
+00:17:38,970 --> 00:17:41,625
+[instrumental music]
+
+387
+00:17:43,453 --> 00:17:45,934
+- Agent?
+- No, you were not.
+
+388
+00:17:46,021 --> 00:17:48,937
+We could, uh, definitely
+use another set of hands.
+
+389
+00:17:49,024 --> 00:17:51,592
+- Go in. We'll put you to work.
+- Thank you, sir.
+
+390
+00:17:51,679 --> 00:17:53,637
+Alright.
+
+391
+00:17:58,599 --> 00:18:01,080
+Everything alright, agent?
+
+392
+00:18:02,342 --> 00:18:04,213
+Oh, yeah. Excuse me.
+
+393
+00:18:11,177 --> 00:18:13,353
+That was a nice game
+you ran on Tork.
+
+394
+00:18:13,440 --> 00:18:16,095
+Hmm. Tork.
+
+395
+00:18:16,182 --> 00:18:18,706
+He was angry with
+everybody taller than him.
+
+396
+00:18:18,793 --> 00:18:20,577
+Certain to burst eventually.
+
+397
+00:18:20,664 --> 00:18:22,753
+You wanted my attention.
+
+398
+00:18:22,840 --> 00:18:24,712
+You got my attention.
+
+399
+00:18:24,799 --> 00:18:28,455
+But if you try to run
+another game on me or my people
+
+400
+00:18:28,542 --> 00:18:29,978
+we're gonna have a problem.
+
+401
+00:18:30,065 --> 00:18:33,155
+You know that Babe Ruth
+wore a cabbage leaf
+
+402
+00:18:33,242 --> 00:18:36,071
+under his cap
+to keep himself cool?
+
+403
+00:18:36,158 --> 00:18:37,899
+Changed it
+every other inning.
+
+404
+00:18:37,986 --> 00:18:39,770
+- Agent?
+- Yeah.
+
+405
+00:18:39,857 --> 00:18:42,077
+The night before the murder,
+a woman called in
+
+406
+00:18:42,164 --> 00:18:44,384
+a suspicious man in a car
+near Kuzmenko's house.
+
+407
+00:18:44,471 --> 00:18:47,300
+- Said he'd been there a while.
+- She get the plate?
+
+408
+00:18:47,387 --> 00:18:49,171
+Belongs to Mike Villanueva.
+
+409
+00:18:49,258 --> 00:18:52,261
+Mike, when we talked,
+you didn't mention visiting
+
+410
+00:18:52,348 --> 00:18:54,568
+your buddy Markus' house
+right before he got killed.
+
+411
+00:18:54,655 --> 00:18:57,310
+I didn't wanna talk about
+it in front of my boss.
+
+412
+00:18:57,397 --> 00:18:59,877
+Why are you worried
+about your boss?
+
+413
+00:18:59,964 --> 00:19:02,271
+Business is down at the gym.
+
+414
+00:19:02,358 --> 00:19:05,013
+Jocelyn's on us
+to bring in new clients.
+
+415
+00:19:05,100 --> 00:19:07,581
+Anyone who loses
+clients is in trouble.
+
+416
+00:19:07,668 --> 00:19:09,409
+And you're losing clients.
+
+417
+00:19:09,496 --> 00:19:10,453
+No.
+
+418
+00:19:10,540 --> 00:19:12,412
+[chuckles]
+No, I'm not.
+
+419
+00:19:12,499 --> 00:19:14,153
+Was Markus stealing
+your clients?
+
+420
+00:19:14,240 --> 00:19:17,678
+Yeah. Basically.
+
+421
+00:19:17,765 --> 00:19:20,637
+Look, Markus got
+the looks and the talk
+
+422
+00:19:20,724 --> 00:19:23,684
+so people wanna
+work with him.
+
+423
+00:19:23,771 --> 00:19:26,469
+He doesn't push
+them like I do.
+
+424
+00:19:26,556 --> 00:19:29,603
+I work 'em hard.
+And you know what I get?
+
+425
+00:19:29,690 --> 00:19:31,866
+Five clients signing up
+with Markus in a month.
+
+426
+00:19:31,953 --> 00:19:33,998
+You went to Markus'
+house to confront him.
+
+427
+00:19:34,085 --> 00:19:36,523
+- I had to have it out with him.
+- What happened?
+
+428
+00:19:36,610 --> 00:19:38,177
+'Nothing. He apologized.'
+
+429
+00:19:38,264 --> 00:19:40,483
+He took the clients
+'cause he needed the cash.
+
+430
+00:19:40,570 --> 00:19:43,269
+But he'd gotten money. He didn't
+need the extra clients anymore.
+
+431
+00:19:43,356 --> 00:19:45,532
+Then we went into his house
+and got wasted.
+
+432
+00:19:45,619 --> 00:19:47,838
+[chuckles]
+And that's Markus, man.
+
+433
+00:19:47,925 --> 00:19:49,884
+Went there to punch him,
+ended up partying.
+
+434
+00:19:49,971 --> 00:19:52,452
+- What'd he need the money for?
+- He wouldn't tell me.
+
+435
+00:19:52,539 --> 00:19:54,541
+Said that nobody
+at the gym could know.
+
+436
+00:19:54,628 --> 00:19:56,369
+Where'd he get the cash?
+
+437
+00:19:56,456 --> 00:19:58,197
+He wouldn't tell me.
+
+438
+00:19:58,284 --> 00:19:59,633
+But, uh..
+
+439
+00:19:59,720 --> 00:20:01,200
+...I got a feeling..
+
+440
+00:20:01,287 --> 00:20:03,593
+...from the way he talked..
+
+441
+00:20:03,680 --> 00:20:05,291
+...it wasn't anyplace good.
+
+442
+00:20:07,075 --> 00:20:10,905
+The question is, what did
+Kuzmenko need money for?
+
+443
+00:20:10,992 --> 00:20:13,560
+- And who did he get it from?
+- That's two questions.
+
+444
+00:20:13,647 --> 00:20:16,693
+- Excuse me?
+- Two questions.
+
+445
+00:20:16,780 --> 00:20:19,043
+Kuzmenko's boss at the gym,
+Jocelyn Chapin
+
+446
+00:20:19,130 --> 00:20:20,828
+sent over a list of his clients.
+
+447
+00:20:20,915 --> 00:20:23,004
+There are some pretty
+high-powered people on it.
+
+448
+00:20:23,091 --> 00:20:26,137
+State senator, assemblyman,
+people working for the governor.
+
+449
+00:20:26,225 --> 00:20:29,358
+- It's the names I recognized.
+- There's a lot of women here.
+
+450
+00:20:29,445 --> 00:20:32,709
+[Haffner]
+'Some of them would pay to keep
+an affair with Kuzmenko quiet.'
+
+451
+00:20:32,796 --> 00:20:35,234
+Think Kuzmenko slept with one
+of them then blackmailed her.
+
+452
+00:20:35,321 --> 00:20:38,715
+Maybe. What do you think, Jane?
+
+453
+00:20:38,802 --> 00:20:40,456
+Mmm..
+
+454
+00:20:40,543 --> 00:20:43,242
+Well, I wanna pursue it.
+Look for the money Kuzmenko got.
+
+455
+00:20:43,329 --> 00:20:45,766
+If it's not in his bank account,
+check other accounts
+
+456
+00:20:45,853 --> 00:20:46,767
+'safety deposit boxes..'
+
+457
+00:20:46,854 --> 00:20:48,116
+Okay.
+
+458
+00:20:48,203 --> 00:20:49,639
+Cho, we'll work
+through this list
+
+459
+00:20:49,726 --> 00:20:51,206
+starting with
+his most recent clients
+
+460
+00:20:51,293 --> 00:20:53,164
+try identifying
+who he was sleeping with.
+
+461
+00:20:53,252 --> 00:20:55,819
+Where are you going?
+
+462
+00:20:55,906 --> 00:20:58,344
+Uh, I thought I'd just go
+over to Kuzmenko's house
+
+463
+00:20:58,431 --> 00:20:59,997
+take a little look around.
+
+464
+00:21:00,084 --> 00:21:04,001
+- Why?
+- It's what I do.
+
+465
+00:21:04,088 --> 00:21:07,091
+Not alone.
+Masterson, go with him.
+
+466
+00:21:07,178 --> 00:21:08,615
+- Okay.
+- Keep an eye on him.
+
+467
+00:21:08,702 --> 00:21:09,703
+Yep.
+
+468
+00:21:11,835 --> 00:21:12,923
+Okeydokey.
+
+469
+00:21:21,367 --> 00:21:23,238
+So what are you
+looking for?
+
+470
+00:21:23,325 --> 00:21:25,196
+[Jane]
+'Whatever's here to see.'
+
+471
+00:21:25,284 --> 00:21:26,981
+[Masterson]
+'We already went
+through the house.'
+
+472
+00:21:27,068 --> 00:21:29,592
+- 'We didn't find anything.'
+- I'm sure you didn't.
+
+473
+00:21:33,988 --> 00:21:37,252
+Pretty dull, yeah?
+
+474
+00:21:37,339 --> 00:21:39,776
+If you wanna get a coffee,
+I won't tell Haffner.
+
+475
+00:21:39,863 --> 00:21:41,300
+Yeah, I'm gonna go do that.
+
+476
+00:21:41,387 --> 00:21:42,431
+[scoffs]
+
+477
+00:21:43,693 --> 00:21:46,783
+Suit yourself.
+
+478
+00:21:46,870 --> 00:21:49,830
+Some more of this
+tottering around.
+
+479
+00:21:53,964 --> 00:21:55,836
+'See, me...uh..'
+
+480
+00:21:57,446 --> 00:21:59,579
+...I like to take
+a break now and then.
+
+481
+00:22:05,411 --> 00:22:09,066
+A moment to, uh, rest and relax.
+
+482
+00:22:10,546 --> 00:22:13,549
+Take it easy.
+
+483
+00:22:13,636 --> 00:22:16,683
+Close the eyes..
+
+484
+00:22:16,770 --> 00:22:20,164
+...and shut out the day.
+
+485
+00:22:20,251 --> 00:22:22,428
+'Rest..'
+
+486
+00:22:22,515 --> 00:22:23,820
+'...and relax.'
+
+487
+00:22:25,256 --> 00:22:28,172
+Try not to see anything..
+
+488
+00:22:28,259 --> 00:22:30,174
+...or hear anything.
+
+489
+00:22:31,567 --> 00:22:33,787
+'Let time stop.'
+
+490
+00:22:33,874 --> 00:22:35,136
+'Rest..'
+
+491
+00:22:36,659 --> 00:22:38,531
+...and relax.
+
+492
+00:22:40,663 --> 00:22:43,536
+[instrumental music]
+
+493
+00:22:48,758 --> 00:22:49,846
+[thud]
+
+494
+00:22:51,065 --> 00:22:53,023
+- What happened?
+- Huh? Nothing.
+
+495
+00:22:56,462 --> 00:22:58,333
+You did something to me,
+didn't you?
+
+496
+00:23:00,291 --> 00:23:01,858
+You hypnotized me.
+
+497
+00:23:01,945 --> 00:23:03,643
+[chuckles]
+
+498
+00:23:03,730 --> 00:23:05,645
+That's absurd.
+
+499
+00:23:05,732 --> 00:23:07,255
+You know that only weak-minded
+
+500
+00:23:07,342 --> 00:23:11,041
+and easily manipulated
+people can be hypnotized.
+
+501
+00:23:11,128 --> 00:23:12,956
+Yeah, we're leaving.
+
+502
+00:23:13,043 --> 00:23:15,132
+- I'm not finished.
+- Yes, you are.
+
+503
+00:23:15,219 --> 00:23:16,395
+Okay.
+
+504
+00:23:16,482 --> 00:23:19,398
+[instrumental music]
+
+505
+00:23:24,446 --> 00:23:27,362
+[intense music]
+
+506
+00:23:35,109 --> 00:23:37,067
+[beeping]
+
+507
+00:23:37,154 --> 00:23:39,374
+[phone rings]
+
+508
+00:23:39,461 --> 00:23:40,636
+- 'Hello?'
+- Laroche.
+
+509
+00:23:40,723 --> 00:23:42,464
+- 'Yes.'
+- Hi. It's Lisbon.
+
+510
+00:23:42,551 --> 00:23:44,945
+I wanted to ask a favor.
+
+511
+00:23:45,032 --> 00:23:46,425
+It's about Sally Carter.
+
+512
+00:23:48,035 --> 00:23:49,428
+Sir?
+
+513
+00:23:49,515 --> 00:23:50,864
+I'm busy, agent.
+
+514
+00:23:50,951 --> 00:23:52,561
+Sorry, but there's
+nothing unusual
+
+515
+00:23:52,648 --> 00:23:54,824
+in Kuzmenko's checking
+or savings accounts.
+
+516
+00:23:54,911 --> 00:23:56,870
+- I found something else though.
+- 'What?'
+
+517
+00:23:56,957 --> 00:23:59,307
+A couple days before he
+was killed, Kuzmenko made
+
+518
+00:23:59,394 --> 00:24:01,831
+four phone calls
+to an Oleg Mostovoi.
+
+519
+00:24:01,918 --> 00:24:04,355
+He's not with the gym,
+and it's the only time
+
+520
+00:24:04,443 --> 00:24:05,966
+Kuzmenko made the calls.
+
+521
+00:24:06,053 --> 00:24:08,011
+It's right before Kuzmenko
+started saying he had
+
+522
+00:24:08,098 --> 00:24:10,927
+a lotta cash. Maybe Mostovoi
+had something to do with it.
+
+523
+00:24:11,014 --> 00:24:13,974
+Or maybe he's a friend. Wanna
+find the money, track the money.
+
+524
+00:24:14,061 --> 00:24:16,106
+Find that, then we
+can talk about Mustavoi
+
+525
+00:24:16,193 --> 00:24:19,109
+Muscavoi, whatever his name is.
+
+526
+00:24:19,196 --> 00:24:21,068
+[cell phone ringing]
+
+527
+00:24:22,983 --> 00:24:24,593
+- Van Pelt.
+- 'Grace.'
+
+528
+00:24:24,680 --> 00:24:27,291
+- 'Time for the secret meeting.'
+- I'll be right there.
+
+529
+00:24:27,378 --> 00:24:30,643
+The way I see it, we got one
+shot at saving Lisbon's job.
+
+530
+00:24:30,730 --> 00:24:32,471
+[Rigsby]
+You think we can?
+
+531
+00:24:32,558 --> 00:24:35,952
+All we have to do is solve
+the murder without Haffner.
+
+532
+00:24:36,039 --> 00:24:37,824
+Then we take
+the murderer to Bertram
+
+533
+00:24:37,911 --> 00:24:40,087
+use our success as leverage
+to get Lisbon back.
+
+534
+00:24:40,174 --> 00:24:42,219
+- That's not gonna work.
+- Come on.
+
+535
+00:24:42,306 --> 00:24:44,483
+- When have I steered you wrong?
+- Recently?
+
+536
+00:24:44,570 --> 00:24:46,746
+How do we solve
+the murder without Haffner?
+
+537
+00:24:46,833 --> 00:24:49,226
+We catch the killer
+before he does.
+
+538
+00:24:49,313 --> 00:24:51,098
+'Kuzmenko was an athlete.'
+
+539
+00:24:51,185 --> 00:24:53,535
+He was a compulsive
+record keeper.
+
+540
+00:24:53,622 --> 00:24:56,320
+No doubt that included
+very detailed records
+
+541
+00:24:56,407 --> 00:25:00,107
+of his sexual partners...
+probably with a rating system.
+
+542
+00:25:00,194 --> 00:25:01,717
+'You gotta get into the house'
+
+543
+00:25:01,804 --> 00:25:04,807
+and you have to find
+that list of lovers.
+
+544
+00:25:04,894 --> 00:25:06,722
+It's probably in an address book
+
+545
+00:25:06,809 --> 00:25:08,942
+a calendar or a journal.
+
+546
+00:25:09,029 --> 00:25:11,118
+I don't like it.
+It's insubordination.
+
+547
+00:25:11,205 --> 00:25:14,251
+- 'We're already on the edge.'
+- It's for the boss.
+
+548
+00:25:14,338 --> 00:25:17,254
+This goes wrong, we're out. They
+won't give us another chance.
+
+549
+00:25:17,341 --> 00:25:18,952
+I don't care. I'm in.
+
+550
+00:25:21,607 --> 00:25:23,043
+Me too.
+
+551
+00:25:23,130 --> 00:25:26,002
+[intense music]
+
+552
+00:25:26,089 --> 00:25:27,569
+Okay.
+
+553
+00:25:27,656 --> 00:25:29,179
+That's the spirit.
+
+554
+00:25:29,266 --> 00:25:32,182
+[intense music]
+
+555
+00:25:35,098 --> 00:25:37,971
+[indistinct chattering]
+
+556
+00:25:46,240 --> 00:25:48,416
+You wanted to know
+if Jane is doing anything.
+
+557
+00:25:48,503 --> 00:25:51,288
+[music continues]
+
+558
+00:25:51,375 --> 00:25:53,247
+Take a seat.
+
+559
+00:26:03,605 --> 00:26:05,651
+[instrumental music]
+
+560
+00:26:07,087 --> 00:26:08,828
+Thank you for doing this.
+
+561
+00:26:08,915 --> 00:26:11,004
+I don't mind, Teresa.
+
+562
+00:26:11,091 --> 00:26:13,223
+Bertram has treated you poorly.
+
+563
+00:26:13,310 --> 00:26:15,965
+Not that he solicits
+my opinion on such matters.
+
+564
+00:26:18,141 --> 00:26:20,840
+Why do you wanna
+talk to Sally Carter?
+
+565
+00:26:20,927 --> 00:26:24,365
+I wanna ask her some
+questions about Red John.
+
+566
+00:26:24,452 --> 00:26:26,062
+Hmm.
+
+567
+00:26:26,149 --> 00:26:28,891
+She hasn't spoken since
+her arrest, not to anyone
+
+568
+00:26:28,978 --> 00:26:31,720
+so set your
+expectations accordingly.
+
+569
+00:26:31,807 --> 00:26:34,505
+Just so you know, um..
+
+570
+00:26:34,593 --> 00:26:37,073
+...I am leaving
+the Major Crimes Unit
+
+571
+00:26:37,160 --> 00:26:39,554
+returning to
+professional services.
+
+572
+00:26:39,641 --> 00:26:41,817
+Was always
+a temporary assignment.
+
+573
+00:26:41,904 --> 00:26:44,777
+Well, good luck to you.
+
+574
+00:26:44,864 --> 00:26:46,953
+Thank you.
+
+575
+00:26:47,040 --> 00:26:50,783
+It was...interesting..
+
+576
+00:26:50,870 --> 00:26:53,437
+...working with
+you and Jane.
+
+577
+00:26:53,524 --> 00:26:56,702
+I think that's the polite word
+for what it was, but thanks.
+
+578
+00:27:04,144 --> 00:27:05,145
+Open it up.
+
+579
+00:27:05,232 --> 00:27:06,363
+[clanks]
+
+580
+00:27:07,147 --> 00:27:09,453
+Mrs. Carter.
+
+581
+00:27:09,540 --> 00:27:10,846
+'Mrs. Carter.'
+
+582
+00:27:15,329 --> 00:27:17,418
+Get a medical team here!
+
+583
+00:27:17,505 --> 00:27:18,898
+[woman shouting indistinctly]
+
+584
+00:27:20,813 --> 00:27:23,816
+[woman on PA]
+'Medical team
+to cell C-38.'
+
+585
+00:27:23,903 --> 00:27:26,209
+'Medical team
+to cell C-3-8.'
+
+586
+00:27:26,296 --> 00:27:27,776
+[alarm blaring]
+
+587
+00:27:27,863 --> 00:27:30,039
+"All prisoners,
+return to your cells.'
+
+588
+00:27:30,126 --> 00:27:32,999
+[blaring continues]
+
+589
+00:27:35,088 --> 00:27:36,350
+How?
+
+590
+00:27:36,437 --> 00:27:37,960
+She got ahold of a spoon
+
+591
+00:27:38,047 --> 00:27:41,834
+sharpened the shaft
+slit her wrists and throat.
+
+592
+00:27:41,921 --> 00:27:43,270
+What are you doing here?
+
+593
+00:27:43,357 --> 00:27:45,838
+Came to ask her if her
+husband was Red John.
+
+594
+00:27:45,925 --> 00:27:48,014
+- Because you need convincing.
+- Nice try.
+
+595
+00:27:48,101 --> 00:27:51,582
+Turns out I didn't need to ask.
+She left a note.
+
+596
+00:27:51,670 --> 00:27:53,410
+"My life began the day I met
+
+597
+00:27:53,497 --> 00:27:56,065
+"the Lord and master
+of my heart, Red John.
+
+598
+00:27:56,152 --> 00:27:59,808
+Now that he is dead,
+all is shadows and silence."
+
+599
+00:27:59,895 --> 00:28:01,767
+She goes on.
+
+600
+00:28:01,854 --> 00:28:03,812
+Yeah, it's a bit purple.
+Let me see.
+
+601
+00:28:03,899 --> 00:28:05,553
+[intense music]
+
+602
+00:28:07,511 --> 00:28:10,036
+See?
+
+603
+00:28:10,123 --> 00:28:11,080
+You did it.
+
+604
+00:28:11,167 --> 00:28:13,343
+You killed Red John.
+
+605
+00:28:13,430 --> 00:28:15,345
+- Jane--
+- Shh! I'm reading.
+
+606
+00:28:15,432 --> 00:28:18,305
+[music continues]
+
+607
+00:28:20,002 --> 00:28:21,134
+[muttering indistinctly]
+
+608
+00:28:22,309 --> 00:28:24,920
+So how was the therapist?
+
+609
+00:28:25,007 --> 00:28:27,183
+Talking about what happened
+just makes me feel worse.
+
+610
+00:28:27,270 --> 00:28:28,750
+I'm not gonna
+see her anymore.
+
+611
+00:28:28,837 --> 00:28:30,752
+Grace, you need counseling.
+The job says so.
+
+612
+00:28:30,839 --> 00:28:32,580
+It could be
+a spiritual adviser.
+
+613
+00:28:32,667 --> 00:28:34,625
+You know, my godfather's
+a Presbyterian minister.
+
+614
+00:28:34,713 --> 00:28:37,759
+- He'll sign the forms for me.
+- You think that's a good idea?
+
+615
+00:28:37,846 --> 00:28:39,195
+Yeah, I do.
+
+616
+00:28:42,242 --> 00:28:43,417
+I got this.
+
+617
+00:28:43,504 --> 00:28:46,202
+[instrumental music]
+
+618
+00:28:46,289 --> 00:28:47,595
+[rattling]
+
+619
+00:28:49,902 --> 00:28:50,903
+Agents?
+
+620
+00:28:52,861 --> 00:28:54,210
+Looking for this?
+
+621
+00:28:55,864 --> 00:28:58,824
+So I found this hidden
+in Kuzmenko's bedroom.
+
+622
+00:28:58,911 --> 00:29:02,175
+Fourteen of his clients are
+named in it, with sexual details
+
+623
+00:29:02,262 --> 00:29:04,917
+'and some kind of
+coded rating system.'
+
+624
+00:29:05,004 --> 00:29:06,309
+There's a really good chance
+
+625
+00:29:06,396 --> 00:29:08,442
+that one of these
+women killed him.
+
+626
+00:29:08,529 --> 00:29:10,705
+But you weren't gonna
+tell me that, were you?
+
+627
+00:29:10,792 --> 00:29:12,663
+Probably not. No.
+
+628
+00:29:12,751 --> 00:29:14,056
+Right.
+
+629
+00:29:14,143 --> 00:29:16,972
+You wanted to solve
+this one yourself.
+
+630
+00:29:17,059 --> 00:29:20,759
+Uh...that was the plan.
+
+631
+00:29:20,846 --> 00:29:23,805
+[chuckles]
+Did you really think
+that was gonna happen?
+
+632
+00:29:23,892 --> 00:29:27,374
+Like I wasn't watching
+you every minute?
+
+633
+00:29:27,461 --> 00:29:29,158
+Jane, I would have
+worked with you
+
+634
+00:29:29,245 --> 00:29:31,117
+if you'd given me the chance.
+
+635
+00:29:34,947 --> 00:29:37,427
+I'm taking this to Bertram.
+Get out.
+
+636
+00:29:44,130 --> 00:29:46,045
+- He go for it?
+- Oh, did he.
+
+637
+00:29:46,132 --> 00:29:48,047
+Time to break the news.
+
+638
+00:29:48,134 --> 00:29:50,310
+[instrumental music]
+
+639
+00:29:51,398 --> 00:29:53,530
+Let me get this straight.
+
+640
+00:29:53,617 --> 00:29:56,055
+Haffner has the address book,
+but it's a fake?
+
+641
+00:29:56,142 --> 00:29:57,883
+Fake as a three dollar bill.
+
+642
+00:29:57,970 --> 00:30:00,494
+Then how'd he find it
+in Kuzmenko's house?
+
+643
+00:30:00,581 --> 00:30:02,061
+Well, I copied the names
+
+644
+00:30:02,148 --> 00:30:04,237
+from the list of
+Kuzmenko's clients.
+
+645
+00:30:04,324 --> 00:30:07,066
+Then I put the book
+where Haffner would find it.
+
+646
+00:30:13,507 --> 00:30:16,466
+I told Haffner Jane thought the
+address book was at the house.
+
+647
+00:30:16,553 --> 00:30:18,251
+- So he went to the house.
+- Why?
+
+648
+00:30:18,338 --> 00:30:19,426
+Haffner's all
+about surveillance.
+
+649
+00:30:19,513 --> 00:30:21,210
+I knew he'd be following us.
+
+650
+00:30:21,297 --> 00:30:23,517
+I had to do something
+to throw him off.
+
+651
+00:30:23,604 --> 00:30:26,041
+Now we can solve the case
+without Haffner watching us.
+
+652
+00:30:26,128 --> 00:30:28,087
+- No. No, no.
+- Don't be hasty.
+
+653
+00:30:28,174 --> 00:30:31,351
+I will deal
+with you in a minute!
+
+654
+00:30:31,438 --> 00:30:33,396
+When Bertram finds out,
+he'll have a coronary.
+
+655
+00:30:33,483 --> 00:30:34,963
+We knew there was a risk.
+
+656
+00:30:35,050 --> 00:30:36,965
+Which is why you
+shouldn't have done it!
+
+657
+00:30:39,098 --> 00:30:40,882
+'Go to Haffner and apologize.'
+
+658
+00:30:40,969 --> 00:30:43,493
+- Tell him it was Jane's fault.
+- That hardly seems fair.
+
+659
+00:30:43,580 --> 00:30:46,018
+Maybe you can convince him
+to give you another chance.
+
+660
+00:30:46,105 --> 00:30:49,108
+- It's not gonna happen.
+- She's right.
+
+661
+00:30:49,195 --> 00:30:53,286
+Oh, God. Why are you doing this?
+
+662
+00:30:53,373 --> 00:30:56,593
+You were okay. All you had
+to do was keep your heads down.
+
+663
+00:30:56,680 --> 00:30:58,595
+We wanna work for you.
+
+664
+00:30:58,682 --> 00:31:01,598
+[intense music]
+
+665
+00:31:07,517 --> 00:31:09,215
+Let me talk to Jane alone.
+
+666
+00:31:18,224 --> 00:31:20,356
+I could kill you
+with my bare hands.
+
+667
+00:31:20,443 --> 00:31:21,967
+Well, it's not
+the first time.
+
+668
+00:31:22,054 --> 00:31:23,794
+Come on.
+You don't have a choice.
+
+669
+00:31:23,882 --> 00:31:25,579
+You do nothing,
+they get fired.
+
+670
+00:31:25,666 --> 00:31:28,451
+You work with me,
+they keep their jobs.
+
+671
+00:31:28,538 --> 00:31:30,323
+And you might even
+get yours back.
+
+672
+00:31:30,410 --> 00:31:32,281
+Alright, but it's
+just you and me.
+
+673
+00:31:32,368 --> 00:31:35,154
+They don't do anything else.
+
+674
+00:31:35,241 --> 00:31:36,720
+What's the plan?
+
+675
+00:31:36,807 --> 00:31:40,420
+Plan is...
+we catch the killer.
+
+676
+00:31:40,507 --> 00:31:41,900
+Kind of obvious.
+
+677
+00:31:43,075 --> 00:31:44,554
+Jocelyn Chapin.
+Patrick Jane.
+
+678
+00:31:44,641 --> 00:31:46,600
+We're on the verge
+of catching the killer
+
+679
+00:31:46,687 --> 00:31:48,907
+but we'll need your
+help to pin him down.
+
+680
+00:31:48,994 --> 00:31:52,214
+Get a pen and paper. You gotta
+get some people to your gym.
+
+681
+00:31:52,301 --> 00:31:53,912
+We'll need
+some of the, shh
+
+682
+00:31:53,999 --> 00:31:57,132
+the-the glowy spray stuff
+the crime scene guys use.
+
+683
+00:31:57,219 --> 00:31:59,134
+- Glowy spray stuff?
+- Yes, the glowy spray stuff.
+
+684
+00:31:59,221 --> 00:32:00,962
+It's vital.
+Got a pen?
+
+685
+00:32:06,098 --> 00:32:07,664
+We appreciate your help.
+
+686
+00:32:07,751 --> 00:32:09,275
+Think this will work?
+
+687
+00:32:09,362 --> 00:32:11,494
+Oh, I'm about 68.2% sure.
+
+688
+00:32:13,061 --> 00:32:15,150
+Can I have everybody's
+attention, please?
+
+689
+00:32:15,237 --> 00:32:18,501
+Yes, everybody, you, those
+with the, uh, ear things.
+
+690
+00:32:18,588 --> 00:32:22,070
+Uh, yes, could you,
+thank you. Sir.
+
+691
+00:32:22,157 --> 00:32:24,333
+You too. Thank you.
+This won't hurt a bit.
+
+692
+00:32:24,420 --> 00:32:26,945
+My name is Patrick Jane.
+This is Teresa Lisbon.
+
+693
+00:32:27,032 --> 00:32:29,730
+We're investigating
+the death of Markus Kuzmenko.
+
+694
+00:32:29,817 --> 00:32:33,690
+'His killer is somewhere
+in this room right now.'
+
+695
+00:32:33,777 --> 00:32:36,215
+Kuzmenko was struck in
+the head with a heavy object.
+
+696
+00:32:36,302 --> 00:32:38,347
+We believe it was
+one of those weights
+
+697
+00:32:38,434 --> 00:32:42,221
+'from this gym, so we're
+gonna test them with a spray'
+
+698
+00:32:42,308 --> 00:32:45,920
+that can detect trace elements
+of blood on a surface by glowing
+
+699
+00:32:46,007 --> 00:32:47,574
+'even after it's been cleaned.'
+
+700
+00:32:47,661 --> 00:32:50,359
+We find the weight,
+we find our murderer.
+
+701
+00:32:50,446 --> 00:32:53,884
+So if you could all
+sit tight, be patient
+
+702
+00:32:53,972 --> 00:32:56,713
+the killer will soon
+be revealed. Thank you.
+
+703
+00:32:56,800 --> 00:32:58,280
+- 'Excuse me.'
+- Yes.
+
+704
+00:32:58,367 --> 00:33:00,587
+- Hi. I-I'm an attorney.
+- Oh.
+
+705
+00:33:00,674 --> 00:33:03,851
+Even if you do find blood
+on one of those weights
+
+706
+00:33:03,938 --> 00:33:06,636
+there's no way to connect it
+to anyone in this room.
+
+707
+00:33:06,723 --> 00:33:08,856
+- Ah, fingerprints, my friend.
+- 'Fingerprints?'
+
+708
+00:33:08,943 --> 00:33:10,989
+My fingerprints are
+on lots of those weights.
+
+709
+00:33:11,076 --> 00:33:13,774
+That doesn't mean I
+used them to kill anybody.
+
+710
+00:33:13,861 --> 00:33:15,471
+You make an interesting point.
+
+711
+00:33:15,558 --> 00:33:18,170
+Okay. Hypothetical.
+
+712
+00:33:18,257 --> 00:33:21,869
+What if I hid
+the weight in my car?
+
+713
+00:33:21,956 --> 00:33:24,959
+Or my office? My house?
+
+714
+00:33:25,046 --> 00:33:26,743
+Would that prove
+I was the killer?
+
+715
+00:33:26,830 --> 00:33:30,791
+I-if you found the murder
+weapon in my car, yeah.
+
+716
+00:33:30,878 --> 00:33:32,619
+- Is it in your car?
+- No.
+
+717
+00:33:32,706 --> 00:33:35,926
+No, I knew it wasn't in your
+car, because it's in her car.
+
+718
+00:33:36,014 --> 00:33:37,928
+- 'Right, Jocelyn?'
+- What?
+
+719
+00:33:38,016 --> 00:33:41,715
+The weight you
+used to kill Markus.
+
+720
+00:33:41,802 --> 00:33:45,240
+You hid it in your car when we
+told you we were coming over.
+
+721
+00:33:45,327 --> 00:33:47,155
+- No.
+- Oh, please.
+
+722
+00:33:47,242 --> 00:33:49,070
+You practically
+jumped out of your skin
+
+723
+00:33:49,157 --> 00:33:50,941
+at the mention of "car."
+
+724
+00:33:51,029 --> 00:33:52,465
+- No, I didn't.
+- 'Yes, you did.'
+
+725
+00:33:52,552 --> 00:33:54,771
+- No, I didn't.
+- Yes, you did.
+
+726
+00:33:54,858 --> 00:33:57,209
+Okay. There's only one
+way we can settle this.
+
+727
+00:33:57,296 --> 00:33:58,601
+Shall we?
+
+728
+00:34:05,391 --> 00:34:08,437
+What's this?
+
+729
+00:34:08,524 --> 00:34:10,526
+It's a kettlebell.
+
+730
+00:34:10,613 --> 00:34:13,225
+I keep it in my trunk
+for visits to clients' houses.
+
+731
+00:34:19,666 --> 00:34:20,623
+[hissing]
+
+732
+00:34:26,107 --> 00:34:28,283
+'Can you explain why
+it has blood on it?'
+
+733
+00:34:31,243 --> 00:34:34,811
+Ms. Chapin, I just spoke
+to a man named Oleg Mostovoi.
+
+734
+00:34:34,898 --> 00:34:36,422
+He's a loan shark.
+
+735
+00:34:36,509 --> 00:34:38,467
+He said a few days
+before the murder
+
+736
+00:34:38,554 --> 00:34:40,643
+he loaned Kuzmenko $75,000
+
+737
+00:34:40,730 --> 00:34:44,995
+and that Kuzmenko said he needed
+the money to start his own gym.
+
+738
+00:34:45,083 --> 00:34:48,042
+Is that why you killed him,
+he was gonna compete with you?
+
+739
+00:34:48,129 --> 00:34:49,435
+I heard from a realtor
+
+740
+00:34:49,522 --> 00:34:51,393
+that Markus was
+looking at gym spaces.
+
+741
+00:34:53,003 --> 00:34:55,702
+My gym isn't doing
+so well anymore
+
+742
+00:34:55,789 --> 00:34:58,922
+so if he would...would have
+left and...taken his clients
+
+743
+00:34:59,009 --> 00:35:00,968
+I wouldn't have
+been able to stay open.
+
+744
+00:35:01,055 --> 00:35:02,622
+You confronted him.
+
+745
+00:35:04,189 --> 00:35:06,930
+I begged him to stay.
+
+746
+00:35:07,017 --> 00:35:08,584
+I mean, it's embarrassing.
+
+747
+00:35:08,671 --> 00:35:11,805
+I...I said that
+he shouldn't leave
+
+748
+00:35:11,892 --> 00:35:14,068
+because of what
+we meant to each other.
+
+749
+00:35:17,158 --> 00:35:19,595
+And he just looked at me
+
+750
+00:35:19,682 --> 00:35:22,729
+like he had no idea
+what I was talking about.
+
+751
+00:35:22,816 --> 00:35:24,687
+I mean,
+he'd just forgotten.
+
+752
+00:35:26,950 --> 00:35:29,910
+I suppose there had been
+that many girls since.
+
+753
+00:35:32,739 --> 00:35:34,349
+Oh, and then
+he remembered later
+
+754
+00:35:34,436 --> 00:35:36,569
+and he was charming,
+of course, but..
+
+755
+00:35:40,312 --> 00:35:43,358
+...I just...I just couldn't
+help remember that look..
+
+756
+00:35:45,534 --> 00:35:48,015
+...like I'd been deleted.
+
+757
+00:35:48,102 --> 00:35:51,061
+And so I went to his house
+and I waited for him.
+
+758
+00:35:58,678 --> 00:36:00,070
+[grunts]
+
+759
+00:36:00,158 --> 00:36:03,073
+[panting]
+
+760
+00:36:07,252 --> 00:36:11,473
+You know, I-I don't
+know why I did it. I..
+
+761
+00:36:11,560 --> 00:36:14,346
+I've been on this
+super strict diet.
+
+762
+00:36:14,433 --> 00:36:16,304
+'You know, it messes
+with your blood sugar.'
+
+763
+00:36:18,828 --> 00:36:20,874
+Maybe that's it.
+
+764
+00:36:29,796 --> 00:36:32,364
+Ray, you told me
+
+765
+00:36:32,451 --> 00:36:34,540
+that this book
+contained the names
+
+766
+00:36:34,627 --> 00:36:37,064
+of many politically
+prominent women
+
+767
+00:36:37,151 --> 00:36:40,415
+who were carrying on affairs
+with the victim in your case
+
+768
+00:36:40,502 --> 00:36:42,678
+and your killer was
+likely one of these women.
+
+769
+00:36:42,765 --> 00:36:46,769
+Yeah, which is
+a PR nightmare. Right?
+
+770
+00:36:46,856 --> 00:36:50,469
+So I called the leadership
+of both parties to warn them
+
+771
+00:36:50,556 --> 00:36:53,559
+that we-we might have to act
+on this because the one thing
+
+772
+00:36:53,646 --> 00:36:56,953
+they hate more than bad news
+is being surprised by it.
+
+773
+00:36:57,040 --> 00:37:00,218
+But then...lo and behold
+
+774
+00:37:00,305 --> 00:37:05,919
+I find out that-that-that
+the names in here are forged.
+
+775
+00:37:06,006 --> 00:37:08,095
+'There's no scandal.'
+
+776
+00:37:08,182 --> 00:37:09,705
+'No, the book didn't even'
+
+777
+00:37:09,792 --> 00:37:11,794
+belong to the victim.
+
+778
+00:37:11,881 --> 00:37:13,318
+It's yours, I assume.
+
+779
+00:37:13,405 --> 00:37:16,625
+Uh, yeah, if I could.
+Uh, thank you.
+
+780
+00:37:16,712 --> 00:37:19,672
+'I hate raising false alarms.'
+
+781
+00:37:19,759 --> 00:37:22,327
+It makes me feel so foolish
+
+782
+00:37:22,414 --> 00:37:24,285
+which I suppose was the point.
+
+783
+00:37:24,372 --> 00:37:26,069
+- Well, maybe--
+- Okay, if I may, sir--
+
+784
+00:37:26,156 --> 00:37:29,203
+No, you may not.
+
+785
+00:37:29,290 --> 00:37:34,121
+Now, Ray, I-I thought
+that you could handle Jane.
+
+786
+00:37:34,208 --> 00:37:36,428
+'Well, we all make mistakes.'
+
+787
+00:37:36,515 --> 00:37:39,866
+But we'll find something else
+for you to do. Don't worry.
+
+788
+00:37:53,096 --> 00:37:54,968
+[sighs]
+
+789
+00:37:55,055 --> 00:37:57,927
+Now...I have a problem.
+
+790
+00:37:59,842 --> 00:38:04,369
+Because, uh, our urgent
+need for your skills
+
+791
+00:38:04,456 --> 00:38:08,460
+is precisely balanced
+by my desire to fire you
+
+792
+00:38:08,547 --> 00:38:10,766
+before you
+destroy the bureau
+
+793
+00:38:10,853 --> 00:38:13,378
+or my career.
+
+794
+00:38:13,465 --> 00:38:15,162
+Or both.
+
+795
+00:38:17,077 --> 00:38:19,471
+I understand.
+
+796
+00:38:19,558 --> 00:38:21,516
+Mm. You're in a tough spot.
+
+797
+00:38:23,866 --> 00:38:26,086
+You know who's always,
+uh, been a very, uh
+
+798
+00:38:26,173 --> 00:38:29,002
+healthy moderating
+influence on me?
+
+799
+00:38:29,089 --> 00:38:30,830
+[chuckles]
+
+800
+00:38:30,917 --> 00:38:33,354
+Yeah. Of course.
+
+801
+00:38:33,441 --> 00:38:35,182
+Lisbon.
+
+802
+00:38:35,269 --> 00:38:37,097
+I'm sorry.
+
+803
+00:38:37,184 --> 00:38:38,925
+Not possible.
+
+804
+00:38:39,012 --> 00:38:41,406
+Well, then..
+
+805
+00:38:41,493 --> 00:38:43,799
+...you will continue
+to have a problem.
+
+806
+00:38:43,886 --> 00:38:46,759
+[instrumental music]
+
+807
+00:38:54,593 --> 00:38:56,595
+- Hey.
+- Hey yourself.
+
+808
+00:38:56,682 --> 00:38:58,901
+- You settling back in?
+- Almost.
+
+809
+00:38:58,988 --> 00:39:01,513
+- Yeah.
+- How'd you do it?
+
+810
+00:39:01,600 --> 00:39:02,992
+Get Bertram to come around?
+
+811
+00:39:03,079 --> 00:39:05,212
+Oh, wasn't so hard.
+
+812
+00:39:05,299 --> 00:39:08,433
+Rational discussion
+between two reasonable men.
+
+813
+00:39:08,520 --> 00:39:11,566
+[chuckling]
+Rational discussion. I bet.
+
+814
+00:39:11,653 --> 00:39:13,046
+Mm-hmm.
+
+815
+00:39:13,133 --> 00:39:16,615
+But, uh...
+by all means...go ahead.
+
+816
+00:39:16,702 --> 00:39:18,530
+I'm sorry?
+
+817
+00:39:18,617 --> 00:39:20,270
+Say it.
+I won't get embarrassed.
+
+818
+00:39:20,358 --> 00:39:21,489
+Say what?
+
+819
+00:39:22,447 --> 00:39:23,404
+[whistling]
+
+820
+00:39:23,491 --> 00:39:25,232
+Oh. You mean say thank you?
+
+821
+00:39:25,319 --> 00:39:29,845
+Oh...you're welcome.
+Was it so hard?
+
+822
+00:39:29,932 --> 00:39:32,195
+The thing is,
+not dealing with you every day
+
+823
+00:39:32,282 --> 00:39:33,980
+has been very
+restful for me.
+
+824
+00:39:34,067 --> 00:39:36,330
+My back pain's gone.
+I sleep really well.
+
+825
+00:39:36,417 --> 00:39:40,116
+So, I'm actually not so sure
+I'm grateful to be back.
+
+826
+00:39:40,203 --> 00:39:41,988
+You're a terrible liar.
+
+827
+00:39:42,075 --> 00:39:44,991
+No offense. Good, honest
+people always bad liars.
+
+828
+00:39:45,078 --> 00:39:47,080
+Which makes you what?
+
+829
+00:39:47,167 --> 00:39:49,082
+Jane? Security just called.
+
+830
+00:39:49,169 --> 00:39:50,910
+They've got someone
+waiting for you downstairs.
+
+831
+00:39:50,997 --> 00:39:52,259
+Name's Rosalind Harker.
+
+832
+00:39:52,346 --> 00:39:53,347
+- Thanks, Grace.
+- No problem.
+
+833
+00:39:53,434 --> 00:39:54,740
+The woman that lived with
+
+834
+00:39:54,827 --> 00:39:56,568
+Red John three
+or four years ago?
+
+835
+00:39:56,655 --> 00:39:57,960
+They didn't actually
+live together.
+
+836
+00:39:58,047 --> 00:39:59,788
+Uh, he was more
+the gentleman caller.
+
+837
+00:39:59,875 --> 00:40:02,878
+- What are you seeing her for?
+- Great to have you back.
+
+838
+00:40:02,965 --> 00:40:04,880
+What are you doing, Jane?
+
+839
+00:40:09,058 --> 00:40:10,190
+[door squeaks]
+
+840
+00:40:10,277 --> 00:40:12,192
+Thanks for agreeing
+to this, Rosalind.
+
+841
+00:40:12,279 --> 00:40:15,151
+I wasn't busy.
+Besides, it sounded urgent.
+
+842
+00:40:15,238 --> 00:40:17,415
+It is, in a way.
+
+843
+00:40:17,502 --> 00:40:19,504
+Are you still playing piano?
+
+844
+00:40:19,591 --> 00:40:21,810
+Not really. I'm tired
+of playing for myself.
+
+845
+00:40:21,897 --> 00:40:24,378
+- I think I need an audience.
+- Okay, it's just here.
+
+846
+00:40:24,465 --> 00:40:26,772
+And through a doorway
+to the right.
+
+847
+00:40:29,514 --> 00:40:30,863
+Something the matter?
+
+848
+00:40:30,950 --> 00:40:33,126
+[inhales deeply]
+Just a chill.
+
+849
+00:40:34,649 --> 00:40:36,869
+- Let's go.
+- Okay.
+
+850
+00:40:47,357 --> 00:40:50,186
+[rattling]
+
+851
+00:40:55,888 --> 00:40:57,890
+No one claimed the body?
+
+852
+00:40:57,977 --> 00:41:00,153
+That's so sad.
+
+853
+00:41:00,240 --> 00:41:02,982
+You'd think they'd have
+done something with it.
+
+854
+00:41:03,069 --> 00:41:05,637
+There must be a waiting
+period or something.
+
+855
+00:41:05,724 --> 00:41:07,377
+Yeah, something like that.
+
+856
+00:41:09,075 --> 00:41:11,599
+You understand..
+
+857
+00:41:11,686 --> 00:41:15,821
+he never called himself
+Red John to me.
+
+858
+00:41:15,908 --> 00:41:20,652
+The man I knew
+was Roy Tagliaferro.
+
+859
+00:41:20,739 --> 00:41:23,568
+Roy and Red John
+are the same person.
+
+860
+00:41:23,655 --> 00:41:25,134
+I'm sure of it.
+
+861
+00:41:31,314 --> 00:41:32,751
+Is this him?
+
+862
+00:41:58,646 --> 00:42:00,300
+I never met this man.
+
+863
+00:42:00,387 --> 00:42:02,345
+I have no idea who he is.
+
+864
+00:42:04,783 --> 00:42:06,262
+Thank you.
+
+865
+00:42:06,349 --> 00:42:09,265
+[intense music]
+
+866
+00:42:11,572 --> 00:42:13,531
+[rattling]
+
+867
+00:42:25,891 --> 00:42:28,110
+[theme music]
+
