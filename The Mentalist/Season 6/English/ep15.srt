@@ -1,0 +1,3094 @@
+﻿1
+00:00:01,209 --> 00:00:03,711
+- "Previously on The mentalist..."
+- No!
+
+2
+00:00:08,341 --> 00:00:09,884
+"We believe the assailant
+is the same person"
+
+3
+00:00:10,092 --> 00:00:11,844
+"that killed attorney Osvaldo Ardiles"
+
+4
+00:00:12,094 --> 00:00:15,056
+"and former California Bureau
+of Investigation agent J.J. Laroche."
+
+5
+00:00:15,181 --> 00:00:16,224
+Good to see you, guys.
+
+6
+00:00:16,349 --> 00:00:18,226
+Just got word that the FBI
+has officially hired you
+
+7
+00:00:18,351 --> 00:00:19,393
+as consultants for the case.
+
+8
+00:00:19,519 --> 00:00:21,187
+You're the ones who first found out
+we were being tracked.
+
+9
+00:00:21,312 --> 00:00:22,939
+You know this case
+better than anybody.
+
+10
+00:00:23,189 --> 00:00:26,400
+- Anything on the other seven suspects?
+- A few leads. No breakthroughs.
+
+11
+00:00:26,609 --> 00:00:28,236
+Which leaves us with Haibach.
+
+12
+00:00:43,000 --> 00:00:44,585
+Hey. I fell asleep.
+
+13
+00:00:44,752 --> 00:00:46,337
+Oh, I'm sorry.
+I just wanted to check in.
+
+14
+00:00:46,462 --> 00:00:47,672
+I'm out having
+a drink with the guys.
+
+15
+00:00:48,005 --> 00:00:49,048
+What happened with Hutten?
+
+16
+00:00:49,215 --> 00:00:50,967
+It's not him.
+I'll explain later.
+
+17
+00:00:51,634 --> 00:00:52,677
+You go back to bed.
+
+18
+00:00:52,802 --> 00:00:54,679
+- You having fun?
+- Yeah. Yeah, I am.
+
+19
+00:00:54,971 --> 00:00:56,889
+- I'm glad. It's good for you.
+- Thank you.
+
+20
+00:00:58,057 --> 00:01:00,393
+- "I love you, babe. You know that, right?"
+- I love you, too.
+
+21
+00:01:00,851 --> 00:01:02,853
+- Okay, I'll see you soon.
+- Good night.
+
+22
+00:01:45,021 --> 00:01:46,314
+Well, she agreed with you.
+
+23
+00:01:46,981 --> 00:01:48,941
+She said I should be out having
+a drink with you guys
+
+24
+00:01:49,066 --> 00:01:50,192
+said it would be good for me.
+
+25
+00:01:50,318 --> 00:01:52,862
+- She's a smart woman.
+- Yeah. Yeah, she is.
+
+26
+00:01:53,154 --> 00:01:54,530
+I'm a lucky man.
+She's the best.
+
+27
+00:01:55,615 --> 00:01:56,782
+A price above rubies.
+
+28
+00:01:57,366 --> 00:01:58,868
+- To Grace.
+- To Grace. Thank you.
+
+29
+00:02:02,121 --> 00:02:04,165
+You know, Grace and I, we, uh...
+
+30
+00:02:05,291 --> 00:02:07,835
+Oh, we always thought
+that you and Lisbon would...
+
+31
+00:02:08,127 --> 00:02:09,170
+you know, get together.
+
+32
+00:02:10,546 --> 00:02:13,007
+- Jane and Lisbon... yeah, right.
+- I'm just saying.
+
+33
+00:02:13,591 --> 00:02:14,717
+Remember when
+you bought her a pony?
+
+34
+00:02:15,676 --> 00:02:17,928
+Yes, I do.
+I do remember that.
+
+35
+00:02:18,054 --> 00:02:19,096
+I wonder what happened to it.
+
+36
+00:02:19,347 --> 00:02:21,724
+Okay, two more lone stars
+and a club soda.
+
+37
+00:02:21,932 --> 00:02:24,185
+And the man at the pool table
+wants another game with you.
+
+38
+00:02:24,310 --> 00:02:25,770
+Well, can't he see
+I'm here with my friends?
+
+39
+00:02:25,895 --> 00:02:28,898
+He seemed pretty determined
+said he'd make it double or nothing.
+
+40
+00:02:29,607 --> 00:02:30,650
+Go and take the man's money.
+
+41
+00:02:31,817 --> 00:02:32,860
+I got to get back to my wife.
+
+42
+00:02:32,985 --> 00:02:34,028
+It's been a pleasure.
+
+43
+00:02:34,153 --> 00:02:35,696
+- Good night. Wish me luck.
+- Good luck.
+
+44
+00:02:37,114 --> 00:02:38,157
+Let's get something to eat.
+
+45
+00:02:38,282 --> 00:02:39,492
+Yeah, I think I saw
+a drive-through on the way over.
+
+46
+00:02:39,742 --> 00:02:40,785
+They had chimichangas.
+
+47
+00:02:41,577 --> 00:02:42,620
+Same old Rigsby.
+
+48
+00:02:57,093 --> 00:02:58,719
+"You ever thought about coming
+to work at the FBI?"
+
+49
+00:02:59,345 --> 00:03:00,388
+"You kidding me?"
+
+50
+00:03:00,763 --> 00:03:02,390
+"Been daydreaming about it
+for the past six months."
+
+51
+00:03:03,974 --> 00:03:05,017
+So why not join?
+
+52
+00:03:06,769 --> 00:03:08,813
+- You think they'd have me?
+- I know they would.
+
+53
+00:03:09,855 --> 00:03:11,273
+Abbott's the one
+that wanted me to ask you...
+
+54
+00:03:11,399 --> 00:03:12,441
+Both of you, actually.
+
+55
+00:03:12,608 --> 00:03:14,110
+Really? Both of us?
+
+56
+00:03:15,611 --> 00:03:16,654
+I don't know.
+
+57
+00:03:17,071 --> 00:03:18,948
+It's a pretty 24/7 type of gig.
+
+58
+00:03:19,532 --> 00:03:20,825
+Someone's got to look
+after the kids.
+
+59
+00:03:21,784 --> 00:03:23,536
+You should talk about it with Grace.
+The offer's there.
+
+60
+00:03:24,203 --> 00:03:25,496
+Nice. Okay.
+
+61
+00:03:26,497 --> 00:03:27,998
+Well, you want to come up for a drink
+discuss it with Grace?
+
+62
+00:03:28,624 --> 00:03:30,960
+No. Best you two
+talk about it alone.
+
+63
+00:03:31,627 --> 00:03:33,421
+Right. Yeah,
+you're probably right.
+
+64
+00:03:35,881 --> 00:03:37,007
+Hey. Why's the door to your room open?
+
+65
+00:03:38,884 --> 00:03:39,927
+I don't know.
+
+66
+00:03:55,985 --> 00:03:57,027
+Grace?
+
+67
+00:04:02,575 --> 00:04:03,617
+Grace?
+
+68
+00:04:06,871 --> 00:04:08,581
+Grace? Grace?!
+
+69
+00:04:16,338 --> 00:04:18,507
+Keys are still on the table.
+So is her wallet.
+
+70
+00:04:20,050 --> 00:04:21,927
+There's a perfectly reasonable
+explanation for this, right?
+
+71
+00:04:22,219 --> 00:04:23,929
+- Please tell me there's one.
+- Don't jump to conclusions.
+
+72
+00:04:24,054 --> 00:04:25,347
+- What are you doing?
+- Calling her cell.
+
+73
+00:04:39,987 --> 00:04:41,113
+Where are you, Grace?
+
+74
+00:05:10,808 --> 00:05:11,850
+Hello?
+
+75
+00:05:16,355 --> 00:05:17,397
+Is anybody there?
+
+76
+00:05:20,859 --> 00:05:21,902
+Hello!
+
+77
+00:05:22,861 --> 00:05:25,113
+{\an8}Rigsby and Jane are with a team
+combing through the motel room
+
+78
+00:05:25,280 --> 00:05:26,323
+{\an8}but we've got nothing yet.
+
+79
+00:05:26,448 --> 00:05:27,658
+{\an8}there's about a thousand
+different fingerprints
+
+80
+00:05:27,783 --> 00:05:29,117
+{\an8}and DNA
+all over everything.
+
+81
+00:05:29,409 --> 00:05:30,702
+{\an8}I hate hotel rooms.
+
+82
+00:05:31,620 --> 00:05:33,497
+{\an8}How's Wylie doing
+with the camera footage
+
+83
+00:05:33,622 --> 00:05:34,665
+{\an8}that we pulled
+from around town?
+
+84
+00:05:35,249 --> 00:05:37,125
+He's traced her whereabouts
+before she got to the motel.
+
+85
+00:05:37,793 --> 00:05:38,836
+Anything useful?
+
+86
+00:05:39,711 --> 00:05:40,963
+- No.
+- Well, what else?
+
+87
+00:05:41,672 --> 00:05:43,590
+{\an8}An S.U.V. leaving the area
+of the motel
+
+88
+00:05:43,715 --> 00:05:46,093
+{\an8}at the estimated time
+of Grace Van Pelt's abduction.
+
+89
+00:05:47,469 --> 00:05:49,054
+Was he able to get
+a license plate from it?
+
+90
+00:05:49,263 --> 00:05:50,305
+No.
+
+91
+00:05:55,936 --> 00:05:57,855
+{\an8}All right, people, listen up.
+
+92
+00:05:59,731 --> 00:06:03,360
+{\an8}We already know our prime suspect...
+Richard Haibach.
+
+93
+00:06:04,236 --> 00:06:06,446
+We were already looking at him
+for the murders
+
+94
+00:06:06,613 --> 00:06:10,617
+{\an8}of ex-CBI agent J.J. Laroche
+and D.A. Osvaldo Ardiles.
+
+95
+00:06:11,285 --> 00:06:13,829
+{\an8}Now Grace Van Pelt is gone.
+Where?
+
+96
+00:06:14,663 --> 00:06:15,706
+{\an8}We don't know.
+
+97
+00:06:16,164 --> 00:06:18,625
+But we're assuming
+that Haibach is responsible.
+
+98
+00:06:18,750 --> 00:06:19,793
+Excuse me, agent Abbott?
+
+99
+00:06:21,003 --> 00:06:23,297
+We got a bolo out.
+We alerted the media.
+
+100
+00:06:23,630 --> 00:06:26,633
+{\an8}But Haibach has already slipped
+our tail In Colorado.
+
+101
+00:06:27,718 --> 00:06:30,095
+{\an8}He's in the wind.
+He knows we're coming after him.
+
+102
+00:06:30,220 --> 00:06:31,805
+{\an8}And he will not be easy to find.
+
+103
+00:06:32,014 --> 00:06:33,348
+{\an8}Agent Abbott, there's someone
+to see you.
+
+104
+00:06:33,932 --> 00:06:36,101
+{\an8}But find him we will.
+
+105
+00:06:37,102 --> 00:06:41,106
+{\an8}Whatever it takes, people.
+Failure is not an option here.
+
+106
+00:06:42,149 --> 00:06:43,567
+{\an8}Find Richard Haibach.
+
+107
+00:06:49,031 --> 00:06:50,657
+Agent Wylie, what do you need?
+
+108
+00:06:50,866 --> 00:06:53,452
+{\an8}Well, there's a... There's a man
+who came to reception downstairs.
+
+109
+00:06:53,577 --> 00:06:55,454
+- An agent's bringing him up.
+- So?
+
+110
+00:06:55,704 --> 00:06:57,122
+{\an8}The man says
+he's Richard Haibach.
+
+111
+00:07:04,922 --> 00:07:06,089
+Go get Jane back here now.
+
+112
+00:07:21,188 --> 00:07:22,230
+{\an8}Hello?!
+
+113
+00:07:26,777 --> 00:07:27,945
+{\an8}Is anybody here?!
+
+114
+00:08:07,776 --> 00:08:09,611
+{\an8}Hello, agent Lisbon, Mr. Jane.
+
+115
+00:08:10,278 --> 00:08:11,321
+Sit down, please.
+
+116
+00:08:11,446 --> 00:08:12,489
+Why are you here,
+Mr. Haibach?
+
+117
+00:08:13,865 --> 00:08:14,908
+Is that some kind of joke?
+
+118
+00:08:16,118 --> 00:08:17,160
+I've been in fear of my life
+
+119
+00:08:17,285 --> 00:08:18,704
+since I learned you were
+stalking me again.
+
+120
+00:08:19,621 --> 00:08:21,415
+We're not stalking you,
+Mr. Haibach.
+
+121
+00:08:21,999 --> 00:08:24,418
+I knew the moment you started
+asking questions about me
+
+122
+00:08:24,543 --> 00:08:26,545
+behind my back
+to people at my job
+
+123
+00:08:26,837 --> 00:08:28,005
+that you were out to get me.
+
+124
+00:08:28,296 --> 00:08:29,923
+I already apologized
+to you for that.
+
+125
+00:08:30,507 --> 00:08:31,550
+Oh, you apologized
+
+126
+00:08:31,758 --> 00:08:33,427
+but that didn't stop
+your plotting, did it?
+
+127
+00:08:33,969 --> 00:08:35,345
+We just had
+a few questions for you.
+
+128
+00:08:35,679 --> 00:08:38,515
+Really? So I'm not
+your number-one suspect?
+
+129
+00:08:39,808 --> 00:08:40,851
+This a game?
+
+130
+00:08:41,768 --> 00:08:43,061
+No game, Mr. Jane.
+
+131
+00:08:43,895 --> 00:08:46,481
+I am, as I said,
+in fear for my life.
+
+132
+00:08:46,773 --> 00:08:47,899
+Think about what you're doing.
+
+133
+00:08:49,317 --> 00:08:50,902
+These are people
+I care a lot about.
+
+134
+00:08:52,112 --> 00:08:53,155
+Yes or no...
+
+135
+00:08:53,822 --> 00:08:56,158
+A warrant has been issued
+for my arrest, hasn't it?
+
+136
+00:08:56,366 --> 00:08:58,785
+- How did you know about that?
+- So one has.
+
+137
+00:08:59,745 --> 00:09:01,288
+I call that an execution order
+
+138
+00:09:01,830 --> 00:09:04,207
+a license to shoot me down
+in the street like a dog.
+
+139
+00:09:05,250 --> 00:09:08,086
+So I'm here to prove my innocence
+beyond any shadow of a doubt.
+
+140
+00:09:08,879 --> 00:09:09,921
+Do you have any knowledge
+
+141
+00:09:10,047 --> 00:09:11,339
+as to what's happened
+to Grace Van Pelt?
+
+142
+00:09:12,966 --> 00:09:14,760
+No. I don't.
+
+143
+00:09:15,385 --> 00:09:18,430
+- How could I?
+- Take a guess...for fun.
+
+144
+00:09:19,264 --> 00:09:20,307
+Okay. Sure.
+
+145
+00:09:21,850 --> 00:09:25,020
+I can make plenty of guesses
+but that's all it is... guesses.
+
+146
+00:09:26,104 --> 00:09:27,147
+But...
+
+147
+00:09:28,106 --> 00:09:29,149
+Let's see.
+
+148
+00:09:30,192 --> 00:09:32,694
+I'd guess she was...
+
+149
+00:09:33,570 --> 00:09:36,364
+Somewhere far away,
+out of the reach of your help
+
+150
+00:09:36,865 --> 00:09:38,033
+out of the reach
+of anyone's help...
+
+151
+00:09:39,159 --> 00:09:40,702
+alone and trapped...
+
+152
+00:09:41,661 --> 00:09:42,704
+with time running out...
+
+153
+00:09:44,039 --> 00:09:45,165
+if I were to guess, I mean.
+
+154
+00:09:47,959 --> 00:09:49,961
+Showing up like this
+is a bad sign.
+
+155
+00:09:50,754 --> 00:09:53,048
+90% of the time, it means
+the victim's already dead.
+
+156
+00:09:53,215 --> 00:09:55,133
+Well, I don't see any reason
+to jump to conclusions.
+
+157
+00:09:55,258 --> 00:09:57,427
+You've been through the Quantico
+profiling courses, too.
+
+158
+00:09:58,053 --> 00:10:00,972
+His performative aspect suggests
+that he's already killed her.
+
+159
+00:10:01,098 --> 00:10:02,849
+He's just here to gloat
+when we find the body.
+
+160
+00:10:08,021 --> 00:10:09,064
+Where's my wife?!
+
+161
+00:10:09,481 --> 00:10:10,524
+Rigsby!
+
+162
+00:10:10,649 --> 00:10:11,691
+What have you done with her?!
+
+163
+00:10:11,817 --> 00:10:12,859
+Come on, please.
+
+164
+00:10:12,984 --> 00:10:14,402
+If you hurt her, I'll kill you!
+You're an animal!
+
+165
+00:10:14,611 --> 00:10:17,447
+Hurt her?! Look at me!
+What about me?!
+
+166
+00:10:17,572 --> 00:10:18,615
+- I'll kill you!
+- No!
+
+167
+00:10:19,116 --> 00:10:20,200
+Stop! Not here!
+
+168
+00:10:20,450 --> 00:10:24,704
+I was tortured because you people
+thought I deserved it and I did nothing!
+
+169
+00:10:25,539 --> 00:10:26,581
+I did nothing!
+
+170
+00:10:26,706 --> 00:10:28,625
+My thumb was cut off
+because of you!
+
+171
+00:10:28,750 --> 00:10:31,253
+- You people are the animals!
+- Sit down, Mr. Haibach.
+
+172
+00:10:46,601 --> 00:10:47,644
+Okay, Rigsby, Listen.
+
+173
+00:10:47,894 --> 00:10:50,355
+I understand how you're feeling
+right now. Believe me.
+
+174
+00:10:50,647 --> 00:10:53,608
+But you are a father and you have
+children you need to see grow up.
+
+175
+00:10:54,568 --> 00:10:57,445
+- Besides, I think she's still alive.
+- You do?
+
+176
+00:10:57,696 --> 00:10:58,738
+Yes.
+
+177
+00:10:59,364 --> 00:11:01,324
+Haibach's revenge plan
+was disrupted by Grace
+
+178
+00:11:01,449 --> 00:11:02,826
+when she broke
+his phone hacks up.
+
+179
+00:11:03,702 --> 00:11:04,870
+He realized then
+
+180
+00:11:05,453 --> 00:11:07,956
+that it was only a matter of time
+before we tracked him down.
+
+181
+00:11:08,707 --> 00:11:11,251
+This is him making
+the best of the situation.
+
+182
+00:11:11,459 --> 00:11:12,502
+Then why did he come here?
+
+183
+00:11:12,878 --> 00:11:14,880
+To gloat and watch us squirm.
+
+184
+00:11:15,797 --> 00:11:18,091
+And he plans to make us
+let him go when he's done.
+
+185
+00:11:18,592 --> 00:11:19,676
+We won't let him
+get away with it.
+
+186
+00:12:19,527 --> 00:12:22,906
+I wonder if you'd mind telling us
+
+187
+00:12:23,031 --> 00:12:24,991
+where you've been
+for the last 24 hours.
+
+188
+00:12:26,076 --> 00:12:28,620
+Do you own an S.U.V....
+Maybe gray?
+
+189
+00:12:28,870 --> 00:12:29,913
+No, I don't.
+
+190
+00:12:30,455 --> 00:12:36,419
+But this is a video of me
+on the bus from Denver to Austin.
+
+191
+00:12:38,505 --> 00:12:39,714
+This is my bus ticket.
+
+192
+00:12:42,217 --> 00:12:43,260
+And these are the names
+
+193
+00:12:43,385 --> 00:12:45,387
+of three of the other passengers
+on the bus and the bus driver.
+
+194
+00:12:45,512 --> 00:12:47,764
+They can confirm I was on the bus
+during the entire trip.
+
+195
+00:12:48,890 --> 00:12:50,850
+And in this envelope
+
+196
+00:12:51,184 --> 00:12:53,770
+is everything you need to know
+about my whereabouts
+
+197
+00:12:53,937 --> 00:12:56,273
+during the time of the murders
+of Osvaldo Ardiles
+
+198
+00:12:56,398 --> 00:12:57,440
+and J.J. Laroche.
+
+199
+00:12:57,565 --> 00:12:59,150
+It's tabulated and cross-referenced.
+
+200
+00:13:00,318 --> 00:13:04,614
+Now, my attorney is scheduled
+to arrive, well, anytime now.
+
+201
+00:13:06,908 --> 00:13:09,911
+Okay, Haibach's attorney
+is gonna be here at any second
+
+202
+00:13:10,453 --> 00:13:11,955
+and we have no reason
+to hold him.
+
+203
+00:13:12,330 --> 00:13:13,373
+This is his alibi.
+
+204
+00:13:14,416 --> 00:13:17,794
+I want it turned inside out
+and torn apart.
+
+205
+00:13:17,919 --> 00:13:19,587
+Find the holes
+and see where they lead.
+
+206
+00:13:21,381 --> 00:13:23,049
+In any event,
+the evidence suggests
+
+207
+00:13:23,174 --> 00:13:25,218
+that Haibach is working
+with an accomplice.
+
+208
+00:13:26,177 --> 00:13:27,220
+Find out who that is...
+
+209
+00:13:27,679 --> 00:13:29,848
+Somebody he hangs out with
+at work
+
+210
+00:13:30,181 --> 00:13:32,100
+somebody that he met
+on the internet
+
+211
+00:13:33,018 --> 00:13:35,061
+old friend, new friend.
+
+212
+00:13:35,437 --> 00:13:37,397
+Find the accomplice.
+
+213
+00:13:37,897 --> 00:13:39,941
+And do it quickly.
+We don't have the luxury of time.
+
+214
+00:13:54,789 --> 00:13:55,832
+Oh, damn it.
+
+215
+00:14:12,640 --> 00:14:14,976
+Okay, here's the bus route
+from Denver to Austin.
+
+216
+00:14:15,435 --> 00:14:16,478
+How many miles is that?
+
+217
+00:14:16,811 --> 00:14:19,606
+Um... let me see.
+
+218
+00:14:22,609 --> 00:14:25,153
+It's a little over
+916 miles.
+
+219
+00:14:26,279 --> 00:14:27,989
+"Daddy, are you coming home?"
+
+220
+00:14:30,075 --> 00:14:31,618
+Not for a little while longer, buddy.
+
+221
+00:14:32,702 --> 00:14:34,287
+You're having a good time
+with your mom, though, right?
+
+222
+00:14:34,454 --> 00:14:36,623
+"I guess. She works a lot."
+
+223
+00:14:37,582 --> 00:14:38,750
+"Is Grace there?"
+
+224
+00:14:40,502 --> 00:14:43,380
+No. She's... she's not here right now.
+
+225
+00:14:44,172 --> 00:14:46,966
+"She always tells me a story
+before my nap."
+
+226
+00:14:47,384 --> 00:14:48,426
+A story?
+
+227
+00:14:48,593 --> 00:14:51,096
+"About a nice bull
+who has to go to the bull fight."
+
+228
+00:14:51,262 --> 00:14:54,015
+Ferdinand.
+Well, he gets to go home.
+
+229
+00:14:54,391 --> 00:14:56,684
+- "And smell the flowers."
+- Yeah.
+
+230
+00:14:57,644 --> 00:15:00,605
+And he's very happy,
+sitting under a big tree.
+
+231
+00:15:00,939 --> 00:15:01,981
+"Yeah."
+
+232
+00:15:02,690 --> 00:15:05,735
+Okay, look, I...
+I have to go, buddy.
+
+233
+00:15:06,903 --> 00:15:09,697
+We'll speak very soon, okay?
+Daddy loves you.
+
+234
+00:15:10,323 --> 00:15:13,493
+- "Love you, too. Bye, dad."
+- Bye, son.
+
+235
+00:15:19,290 --> 00:15:20,333
+Excuse me.
+
+236
+00:15:25,088 --> 00:15:26,131
+Hey.
+
+237
+00:15:29,426 --> 00:15:30,885
+Haibach's lawyer is here.
+
+238
+00:15:31,511 --> 00:15:33,888
+Abbott's gonna try and stall her
+for as long as he can
+
+239
+00:15:34,055 --> 00:15:36,766
+but we're probably
+gonna have to let Haibach go.
+
+240
+00:15:37,684 --> 00:15:39,978
+We don't have enough concrete
+evidence to hold him on.
+
+241
+00:15:44,983 --> 00:15:46,025
+Okay.
+
+242
+00:16:01,166 --> 00:16:03,543
+Jane, whatever it takes.
+
+243
+00:16:04,169 --> 00:16:06,504
+Please. I'm begging you.
+We have to get Grace back.
+
+244
+00:16:14,012 --> 00:16:15,138
+I should have been contacted
+
+245
+00:16:15,263 --> 00:16:17,640
+the moment my client
+arrived at your offices.
+
+246
+00:16:17,807 --> 00:16:20,435
+Well, he came
+on his own volition.
+
+247
+00:16:20,560 --> 00:16:21,853
+We simply met him
+as he asked.
+
+248
+00:16:22,395 --> 00:16:24,731
+Well, I'd like to speak to my client alone.
+
+249
+00:16:26,191 --> 00:16:29,027
+Look at me. You know me.
+You know what I am capable of.
+
+250
+00:16:29,277 --> 00:16:31,446
+So if you have done anything
+to Grace Van Pelt
+
+251
+00:16:31,654 --> 00:16:32,780
+I am gonna make you pay.
+
+252
+00:16:32,906 --> 00:16:35,074
+Excuse me. The law says you
+can't just charge in here...
+
+253
+00:16:35,200 --> 00:16:36,242
+Oh, don't you worry
+about the law.
+
+254
+00:16:36,367 --> 00:16:37,452
+You need to worry
+about me.
+
+255
+00:16:37,577 --> 00:16:38,620
+Is this man completely insane?
+
+256
+00:16:38,745 --> 00:16:41,706
+And no matter where you go
+I will find you, and I will make you pay.
+
+257
+00:16:41,831 --> 00:16:44,459
+Agent Abbott, in all my years,
+I have never witnessed...
+
+258
+00:16:44,584 --> 00:16:45,877
+- All right, that's enough, Jane.
+- Okay.
+
+259
+00:16:46,544 --> 00:16:48,922
+See, what you don't understand
+about me, Rich is I don't care.
+
+260
+00:16:49,214 --> 00:16:50,256
+I've got nothing to lose.
+
+261
+00:16:50,381 --> 00:16:51,925
+I've been playing
+with the house money for years.
+
+262
+00:16:52,217 --> 00:16:54,719
+And if I go to prison for what
+I do to you, I don't care.
+
+263
+00:16:54,844 --> 00:16:56,804
+- Okay, come on. That's enough.
+- If your friend dies, it's your fault.
+
+264
+00:16:56,930 --> 00:16:58,056
+- That's enough.
+- You can't blame me!
+
+265
+00:16:58,890 --> 00:17:00,808
+I had nothing to do with it...
+Nothing at all!
+
+266
+00:17:01,392 --> 00:17:04,979
+- What in the hell were you doing?
+- The unexpected.
+
+267
+00:17:05,104 --> 00:17:06,147
+Yeah, it was that.
+
+268
+00:17:06,272 --> 00:17:08,691
+Well, we want Haibach
+out of his comfort zone
+
+269
+00:17:09,275 --> 00:17:10,944
+so we push him
+to make a mistake.
+
+270
+00:17:12,237 --> 00:17:15,615
+Okay, now, we both know I give
+you a lot of latitude
+
+271
+00:17:15,990 --> 00:17:18,326
+but you just criminally
+threatened a suspect
+
+272
+00:17:18,451 --> 00:17:20,119
+in front of his lawyer
+on video.
+
+273
+00:17:20,453 --> 00:17:21,788
+It's admissible in court.
+
+274
+00:17:22,372 --> 00:17:25,041
+He came here with a plan,
+and we don't know what that plan is
+
+275
+00:17:25,166 --> 00:17:26,209
+but he does.
+
+276
+00:17:26,334 --> 00:17:27,752
+So he knows the pattern
+in advance.
+
+277
+00:17:28,670 --> 00:17:30,672
+We need to break
+that pattern.
+
+278
+00:18:27,284 --> 00:18:28,327
+Do you have a minute?
+
+279
+00:18:29,453 --> 00:18:31,747
+Just waiting for my client.
+Knock yourself out.
+
+280
+00:18:33,065 --> 00:18:34,775
+We just need
+a little more time.
+
+281
+00:18:36,611 --> 00:18:37,653
+Really?
+
+282
+00:18:38,321 --> 00:18:40,156
+My firm is already in the process
+of getting
+
+283
+00:18:40,281 --> 00:18:42,992
+the depositions of the bus's
+passengers and the driver.
+
+284
+00:18:43,618 --> 00:18:45,119
+We'll have them all
+by this evening.
+
+285
+00:18:46,245 --> 00:18:49,957
+Richard Haibach's whereabouts
+during the abduction of your associate
+
+286
+00:18:50,082 --> 00:18:52,209
+can be stated with absolute certainty.
+
+287
+00:18:54,253 --> 00:18:55,838
+You have no reason
+to hold my client.
+
+288
+00:18:56,422 --> 00:18:59,258
+Not yet, but the reason is there.
+
+289
+00:19:00,384 --> 00:19:01,886
+Now, even you
+have to see that.
+
+290
+00:19:02,845 --> 00:19:04,513
+He took her.
+We all know that he did.
+
+291
+00:19:05,431 --> 00:19:06,474
+Then prove it.
+
+292
+00:19:07,016 --> 00:19:08,768
+Otherwise, you have to let my client go.
+
+293
+00:19:09,060 --> 00:19:10,811
+That's the way the law works.
+
+294
+00:19:10,936 --> 00:19:13,397
+He'll kill her if we let him go,
+if he hasn't already.
+
+295
+00:19:13,522 --> 00:19:14,565
+Do you realize that?
+
+296
+00:19:14,690 --> 00:19:16,984
+Look, don't try
+and make me feel guilty.
+
+297
+00:19:17,485 --> 00:19:18,861
+I've been doing this
+a long time
+
+298
+00:19:18,986 --> 00:19:21,656
+and my job as a lawyer
+is to defend my client.
+
+299
+00:19:22,031 --> 00:19:23,866
+That's why people pay me.
+
+300
+00:19:24,450 --> 00:19:26,827
+So you can give me
+whatever sob story you want
+
+301
+00:19:26,952 --> 00:19:28,537
+but we both know
+you've got nothing.
+
+302
+00:19:28,704 --> 00:19:30,665
+Whatever happens
+is on your head.
+
+303
+00:19:31,499 --> 00:19:36,337
+That is inaccurate
+unprofessional, and disrespectful.
+
+304
+00:19:36,545 --> 00:19:38,839
+I'm doing my job.
+Don't make me do yours.
+
+305
+00:19:43,678 --> 00:19:44,720
+Hello?!
+
+306
+00:19:47,223 --> 00:19:48,265
+Is anybody out here?!
+
+307
+00:19:50,226 --> 00:19:51,519
+Anybody out here?!
+
+308
+00:20:17,920 --> 00:20:19,630
+Hey. Hey.
+
+309
+00:20:20,297 --> 00:20:21,340
+Hey!
+
+310
+00:20:22,466 --> 00:20:23,509
+Hey.
+
+311
+00:20:26,220 --> 00:20:27,263
+Are you okay?
+
+312
+00:20:27,388 --> 00:20:29,223
+- Do you have a phone? I just...
+- Well, look, were you in an accident?
+
+313
+00:20:29,348 --> 00:20:30,683
+just need a phone.
+Please, do you have a phone?
+
+314
+00:20:30,808 --> 00:20:32,601
+Okay, okay, okay.
+Okay, here. Here it is.
+
+315
+00:20:33,102 --> 00:20:34,145
+Thank you.
+
+316
+00:20:37,690 --> 00:20:38,774
+- Is there coverage?
+- I don't know.
+
+317
+00:20:38,899 --> 00:20:39,942
+It's kind of spotty out here.
+
+318
+00:20:40,067 --> 00:20:41,444
+You're half-frozen.
+Where's your car?
+
+319
+00:20:41,819 --> 00:20:42,862
+Where's the police station?
+
+320
+00:20:43,612 --> 00:20:46,323
+Taos, I guess.
+That's 45 minutes north of here.
+
+321
+00:20:46,532 --> 00:20:48,284
+Or there's a ranger station
+about a half an hour south.
+
+322
+00:20:48,409 --> 00:20:49,452
+Where's the nearest phone?
+
+323
+00:20:49,910 --> 00:20:51,036
+Well, my cabin, I guess.
+
+324
+00:20:51,579 --> 00:20:53,205
+Okay, okay.
+I need you to take me there.
+
+325
+00:20:53,330 --> 00:20:54,665
+Can you take me there? It's important.
+Just take me there right now.
+
+326
+00:20:54,874 --> 00:20:56,375
+Yeah, yeah. All right.
+Get in, get in, get in.
+
+327
+00:20:56,959 --> 00:20:58,002
+Okay.
+
+328
+00:20:59,712 --> 00:21:00,755
+Oh, you must be frozen.
+
+329
+00:21:01,088 --> 00:21:02,131
+Yeah.
+
+330
+00:21:06,719 --> 00:21:09,847
+I've looked into Haibach's known
+associates. It's a short list.
+
+331
+00:21:10,055 --> 00:21:12,391
+He was a loner at work
+and in his private life.
+
+332
+00:21:12,767 --> 00:21:15,936
+He's got an older sister named Hazel
+that I haven't been able to contact.
+
+333
+00:21:16,103 --> 00:21:18,397
+I sent local P.D. to check her address.
+Should be hearing soon.
+
+334
+00:21:18,647 --> 00:21:20,983
+Dubin knows we don't have enough
+to charge Haibach.
+
+335
+00:21:21,817 --> 00:21:22,860
+We have to let him walk.
+
+336
+00:21:25,154 --> 00:21:26,197
+I'll tell Rigsby.
+
+337
+00:21:26,322 --> 00:21:27,364
+Keep him together, okay?
+
+338
+00:21:31,035 --> 00:21:32,787
+You think if I talk
+to this lawyer woman to woman
+
+339
+00:21:32,912 --> 00:21:34,455
+it would have any effect?
+
+340
+00:21:35,456 --> 00:21:36,540
+Don't waste your time.
+
+341
+00:21:45,341 --> 00:21:47,760
+Okay, here we are.
+Home sweet home.
+
+342
+00:21:49,804 --> 00:21:51,013
+Come on, darling,
+let's get you inside.
+
+343
+00:21:51,138 --> 00:21:53,432
+- Get you something warm.
+- Okay. Thanks.
+
+344
+00:22:05,611 --> 00:22:07,863
+Okay, now, mind those steps,
+'cause those are slippery.
+
+345
+00:22:14,036 --> 00:22:15,955
+Hey, shut the door behind you.
+Don't let the heat out.
+
+346
+00:22:16,413 --> 00:22:17,748
+Phone's in the bedroom.
+I'll go get it.
+
+347
+00:22:21,460 --> 00:22:24,296
+- No electricity, huh?
+- Oh, lord. Bless your heart. No.
+
+348
+00:22:24,421 --> 00:22:25,631
+The poles don't come out this far.
+
+349
+00:22:26,882 --> 00:22:29,176
+- Then how do you have a phone?
+- I don't.
+
+350
+00:22:30,344 --> 00:22:31,387
+I lied.
+
+351
+00:22:51,323 --> 00:22:54,159
+Okay, kids, time's up.
+Put your pencils down.
+
+352
+00:22:55,202 --> 00:22:56,787
+We're processing
+your client right now.
+
+353
+00:22:57,621 --> 00:22:59,164
+I'll tell my car to pull around.
+
+354
+00:23:04,587 --> 00:23:06,839
+Okay, that's right.
+Pull it tight.
+
+355
+00:23:08,132 --> 00:23:09,174
+Use your teeth.
+
+356
+00:23:14,972 --> 00:23:16,015
+Okay.
+
+357
+00:23:16,849 --> 00:23:18,350
+So you just stay here
+and you don't cause trouble.
+
+358
+00:23:18,475 --> 00:23:19,977
+Richard's gonna know what to do
+with you when he gets here.
+
+359
+00:23:21,478 --> 00:23:22,980
+Please, do you have
+anything hot to drink?
+
+360
+00:23:27,359 --> 00:23:28,444
+I got some coffee
+I can heat up.
+
+361
+00:23:29,445 --> 00:23:31,030
+That'd be great. Thanks.
+
+362
+00:23:31,572 --> 00:23:32,615
+And no tricks.
+
+363
+00:23:33,699 --> 00:23:34,742
+No tricks.
+
+364
+00:23:44,627 --> 00:23:45,920
+My name's Grace,
+by the way.
+
+365
+00:23:46,462 --> 00:23:48,422
+Don't you try and make friends,
+'cause I'm not stupid.
+
+366
+00:23:48,923 --> 00:23:50,925
+Okay. Sorry.
+
+367
+00:24:00,142 --> 00:24:01,602
+Richard's your brother,
+isn't he?
+
+368
+00:24:07,441 --> 00:24:08,817
+It was just the two of you,
+wasn't it?
+
+369
+00:24:09,860 --> 00:24:11,403
+- No other sisters or brothers?
+- Yep.
+
+370
+00:24:15,282 --> 00:24:17,660
+- You're older?
+- Three years.
+
+371
+00:24:23,582 --> 00:24:25,584
+Something happened
+when you were kids, didn't it?
+
+372
+00:24:27,294 --> 00:24:28,337
+Something bad.
+
+373
+00:24:31,757 --> 00:24:34,843
+Richard had it
+so hard growing up.
+
+374
+00:24:36,345 --> 00:24:37,513
+You people
+didn't understand that.
+
+375
+00:24:38,973 --> 00:24:40,015
+It wasn't his fault.
+
+376
+00:24:41,475 --> 00:24:42,518
+What was so hard?
+
+377
+00:24:44,728 --> 00:24:48,399
+Our mother run away
+left us both with a drunk.
+
+378
+00:24:49,608 --> 00:24:50,985
+And he did things
+to Richard.
+
+379
+00:24:53,946 --> 00:24:54,989
+Things he shouldn't have.
+
+380
+00:24:58,951 --> 00:24:59,994
+Wasn't his fault.
+
+381
+00:25:02,204 --> 00:25:03,247
+I didn't protect him.
+
+382
+00:25:05,332 --> 00:25:07,960
+His big sister...
+Didn't protect him.
+
+383
+00:25:09,378 --> 00:25:11,380
+You were just a little girl.
+It's not your fault.
+
+384
+00:25:11,964 --> 00:25:13,257
+Don't you pretend sympathy.
+
+385
+00:25:14,508 --> 00:25:17,594
+You people are bad as my father...
+What you did to Richard.
+
+386
+00:25:18,929 --> 00:25:21,682
+He wasn't hurting nobody,
+but you pushed and you pushed.
+
+387
+00:25:22,182 --> 00:25:24,268
+And now, miss cutie pie,
+it is you who's gonna be hurt.
+
+388
+00:25:25,144 --> 00:25:26,186
+'cause that's only fair.
+
+389
+00:25:33,819 --> 00:25:35,904
+"The next step will be
+taking the FBI to court."
+
+390
+00:25:36,280 --> 00:25:38,407
+"We have grounds
+for a strong suit."
+
+391
+00:25:39,992 --> 00:25:41,410
+Will they all lose their jobs?
+
+392
+00:25:42,411 --> 00:25:45,831
+Well, sure, but there's potential
+for a large settlement, as well...
+
+393
+00:25:46,665 --> 00:25:49,418
+- Eight-figures large.
+- I don't care about money.
+
+394
+00:25:50,252 --> 00:25:52,296
+I just want to make sure
+Patrick Jane suffers.
+
+395
+00:25:52,880 --> 00:25:54,465
+I want him to suffer a lot.
+
+396
+00:25:58,177 --> 00:26:01,013
+Hey, you missed he on-ramp.
+This is the wrong way.
+
+397
+00:26:02,181 --> 00:26:04,641
+No, you don't have to stop.
+You can just take the next right.
+
+398
+00:26:13,275 --> 00:26:14,318
+Hello, again.
+
+399
+00:26:14,568 --> 00:26:16,278
+Haibach, counselor.
+
+400
+00:26:26,486 --> 00:26:28,446
+Jane and Rigsby
+are missing.
+
+401
+00:26:29,864 --> 00:26:33,451
+We found Dubin's livery driver
+locked up in a downstairs closet.
+
+402
+00:26:33,919 --> 00:26:36,838
+Sir, honestly, I didn't know
+anything about this.
+
+403
+00:26:37,130 --> 00:26:38,173
+We had nothing
+to do with it.
+
+404
+00:26:38,965 --> 00:26:40,217
+But we would have,
+if they asked.
+
+405
+00:26:40,675 --> 00:26:43,428
+Now, I'm sure you
+find that brave and noble
+
+406
+00:26:44,387 --> 00:26:45,430
+but it's not.
+
+407
+00:26:45,972 --> 00:26:48,934
+You're federal agents,
+and I expect you to behave as such.
+
+408
+00:26:49,142 --> 00:26:50,852
+Otherwise, I have no use for you.
+
+409
+00:26:52,646 --> 00:26:53,688
+Now get out of my office.
+
+410
+00:27:02,030 --> 00:27:03,073
+Fischer.
+
+411
+00:27:05,033 --> 00:27:07,244
+Find them. Right now.
+
+412
+00:27:16,586 --> 00:27:17,629
+Get out.
+
+413
+00:27:17,879 --> 00:27:18,922
+Oh, you people are insane.
+
+414
+00:27:19,047 --> 00:27:20,132
+You're never gonna
+get away with this.
+
+415
+00:27:20,257 --> 00:27:22,926
+Listen, he took my wife.
+Whatever he gets, he deserves.
+
+416
+00:27:23,093 --> 00:27:24,136
+Now go.
+
+417
+00:27:26,346 --> 00:27:27,389
+Counselor.
+
+418
+00:27:29,516 --> 00:27:30,559
+Here.
+
+419
+00:27:31,059 --> 00:27:33,019
+You should probably think
+about your choice of clients
+
+420
+00:27:33,145 --> 00:27:34,563
+on your little walk back to Austin.
+
+421
+00:27:40,610 --> 00:27:41,653
+Looks good.
+
+422
+00:28:02,883 --> 00:28:03,925
+I'm a mother, you know.
+
+423
+00:28:05,385 --> 00:28:07,679
+I have a baby girl.
+Her name's Maddy.
+
+424
+00:28:09,097 --> 00:28:10,390
+Cut it out.
+I don't want to hear about it.
+
+425
+00:28:12,142 --> 00:28:13,476
+We named her
+after my grandmother.
+
+426
+00:28:14,102 --> 00:28:15,187
+Her name's really Madeleine
+
+427
+00:28:15,312 --> 00:28:17,189
+but she looks more
+like a Maddy, you know?
+
+428
+00:28:19,441 --> 00:28:21,318
+She shouldn't have to grow up
+without a mother, should she?
+
+429
+00:28:23,486 --> 00:28:24,571
+You just don't get it, do you?
+
+430
+00:28:25,030 --> 00:28:27,574
+This isn't about you.
+This is about me and Richard.
+
+431
+00:28:27,949 --> 00:28:30,744
+Everybody has looked down on us.
+It's like we were nothing.
+
+432
+00:28:31,411 --> 00:28:32,454
+But now they'll see.
+
+433
+00:28:32,704 --> 00:28:34,789
+Hazel and Richard are gonna
+get the attention they deserve.
+
+434
+00:28:37,375 --> 00:28:38,418
+Hey.
+
+435
+00:28:39,836 --> 00:28:40,879
+Hey.
+
+436
+00:28:41,630 --> 00:28:42,672
+Wait a minute.
+
+437
+00:28:44,216 --> 00:28:45,258
+What were you just doing?
+
+438
+00:28:46,927 --> 00:28:47,969
+Put your hands up.
+
+439
+00:28:49,095 --> 00:28:50,138
+Put 'em up!
+
+440
+00:28:51,306 --> 00:28:52,432
+Oh, you little bitch!
+
+441
+00:28:54,017 --> 00:28:56,895
+You were, oh, just making all nice.
+
+442
+00:28:57,270 --> 00:29:00,774
+And the whole time
+you're just lying, lying, lying to me.
+
+443
+00:29:01,274 --> 00:29:02,901
+Aah! Hazel, that's too tight.
+You're hurting me.
+
+444
+00:29:03,068 --> 00:29:05,362
+Well, that's what you deserve,
+isn't it, you big liar?!
+
+445
+00:29:05,904 --> 00:29:07,614
+And you know what...
+when Richard gets here
+
+446
+00:29:07,864 --> 00:29:11,368
+I'm gonna tell him all about this
+and he's gonna be so mad.
+
+447
+00:29:11,993 --> 00:29:13,036
+You know what?
+
+448
+00:29:13,328 --> 00:29:15,956
+I don't want to hear
+any more of your words!
+
+449
+00:29:26,424 --> 00:29:28,134
+Where is she?!
+Where's my wife?
+
+450
+00:29:28,260 --> 00:29:29,302
+You're wasting your time.
+
+451
+00:29:31,263 --> 00:29:34,099
+- Where is she?!
+- I won't tell you where she is.
+
+452
+00:29:36,142 --> 00:29:37,727
+You can kill me.
+It won't make a difference.
+
+453
+00:29:40,939 --> 00:29:42,148
+- I'm gonna die! I'm gonna die!
+- Whoa, whoa.
+
+454
+00:29:42,274 --> 00:29:43,316
+Does that change anything?
+
+455
+00:29:44,359 --> 00:29:46,069
+No! Stop! Stop!
+
+456
+00:30:00,458 --> 00:30:02,210
+Answer me.
+Where is she?
+
+457
+00:30:03,378 --> 00:30:04,421
+Rigsby.
+
+458
+00:30:04,713 --> 00:30:05,755
+Where's my wife?!
+
+459
+00:30:05,880 --> 00:30:08,049
+Whoa, Rigsby! Calm down,
+calm down. Just count to 10.
+
+460
+00:30:08,466 --> 00:30:11,303
+- Just count to 10. Count to 10.
+- Where's my wife?
+
+461
+00:30:12,679 --> 00:30:13,722
+No, we don't
+want to kill him.
+
+462
+00:30:13,888 --> 00:30:15,807
+We just want to make him talk.
+I have a plan.
+
+463
+00:30:16,266 --> 00:30:17,684
+This isn't about
+one of your plans.
+
+464
+00:30:17,809 --> 00:30:20,562
+See, you need to just stop
+and just talk to me, okay?
+
+465
+00:30:20,687 --> 00:30:23,481
+Talk to me, Rigsby.
+There's another way.
+
+466
+00:30:23,982 --> 00:30:25,025
+I'm gonna make him talk.
+
+467
+00:30:26,735 --> 00:30:28,194
+No, Rigsby.
+
+468
+00:30:28,570 --> 00:30:31,072
+No! No, Rigsby.
+You don't want to do this.
+
+469
+00:30:34,492 --> 00:30:35,910
+I got no time
+to play games here.
+
+470
+00:30:36,369 --> 00:30:37,412
+I want answers!
+
+471
+00:30:39,956 --> 00:30:42,667
+Answer me!
+Where's my wife?!
+
+472
+00:30:43,543 --> 00:30:44,586
+Last chance!
+
+473
+00:30:47,047 --> 00:30:49,174
+Okay, you need
+to let me handle this.
+
+474
+00:30:49,632 --> 00:30:51,426
+No, there's no time.
+I have to find Grace.
+
+475
+00:30:51,801 --> 00:30:54,387
+You're gonna set fire to the only person
+that can tell us where she is.
+
+476
+00:30:54,512 --> 00:30:55,930
+What is the point of that?
+
+477
+00:30:56,639 --> 00:30:57,682
+What is that gonna prove?
+
+478
+00:30:58,183 --> 00:30:59,225
+Drop something?
+
+479
+00:31:01,770 --> 00:31:02,854
+- No, don't.
+- Drop the flare.
+
+480
+00:31:02,979 --> 00:31:04,064
+- Get rid of the flare!
+- Okay, okay.
+
+481
+00:31:04,856 --> 00:31:05,899
+Give me your coat.
+
+482
+00:31:07,609 --> 00:31:09,110
+Put the vest in the trunk.
+
+483
+00:31:09,694 --> 00:31:11,946
+You, Jane, you're gonna drive.
+
+484
+00:31:13,573 --> 00:31:14,616
+Let's go.
+
+485
+00:31:15,408 --> 00:31:16,451
+Easy.
+
+486
+00:31:18,161 --> 00:31:19,579
+Man was curious
+about his wife.
+
+487
+00:31:20,580 --> 00:31:22,207
+I'm gonna satisfy
+that curiosity.
+
+488
+00:31:22,374 --> 00:31:23,416
+Get in.
+
+489
+00:31:37,553 --> 00:31:39,472
+They found Dubin
+on old highway 29.
+
+490
+00:31:40,473 --> 00:31:42,558
+Maybe they're headed for hill country.
+Haibach could have a place out there.
+
+491
+00:31:42,767 --> 00:31:43,851
+Yeah, I don't think so.
+
+492
+00:31:44,018 --> 00:31:45,770
+I've had agents searching
+every inch of the state.
+
+493
+00:31:45,895 --> 00:31:47,105
+I think they're out of Texas.
+
+494
+00:31:48,189 --> 00:31:49,232
+I have an idea.
+
+495
+00:31:49,899 --> 00:31:52,485
+Maybe. New Mexico.
+
+496
+00:31:52,735 --> 00:31:54,195
+Up in the Sangre de Cristo mountains.
+
+497
+00:31:54,570 --> 00:31:55,613
+Why do you think that?
+
+498
+00:31:55,738 --> 00:31:58,074
+Well, I thought I'd try coming
+from a different angle, you know?
+
+499
+00:31:58,199 --> 00:31:59,242
+'cause everyone kept saying
+
+500
+00:31:59,367 --> 00:32:01,244
+How Haibach was being
+so careful and stuff.
+
+501
+00:32:01,369 --> 00:32:03,746
+So first I looked into where Haibach
+was born and grew up.
+
+502
+00:32:03,913 --> 00:32:04,956
+Oh, let me guess...
+New Mexico?
+
+503
+00:32:05,081 --> 00:32:07,875
+No, but he had grandparents there
+spent time there as a child.
+
+504
+00:32:08,000 --> 00:32:09,585
+He liked it, returned whenever he could.
+
+505
+00:32:10,086 --> 00:32:13,131
+In fact, he wrote his thesis in college
+
+506
+00:32:13,256 --> 00:32:15,967
+on the pueblo people culture,
+which is centered in New Mexico.
+
+507
+00:32:16,217 --> 00:32:18,803
+He... he didn't actually do too
+well on the paper, actually...
+
+508
+00:32:18,928 --> 00:32:19,971
+We don't need to know that.
+
+509
+00:32:20,596 --> 00:32:21,848
+Oh, okay. Right.
+
+510
+00:32:22,098 --> 00:32:24,684
+So... so then I started looking
+into his shopping profile
+
+511
+00:32:24,809 --> 00:32:28,479
+focusing on travel, books,
+camping gear, stuff like that.
+
+512
+00:32:28,813 --> 00:32:31,232
+And there were purchases
+designed for cold and snow.
+
+513
+00:32:31,441 --> 00:32:33,526
+But he lives in Colorado.
+That's cold and snowy.
+
+514
+00:32:33,693 --> 00:32:36,279
+Right, but he also bought travel
+books for Taos and Albuquerque
+
+515
+00:32:36,404 --> 00:32:37,447
+both in New Mexico.
+
+516
+00:32:37,655 --> 00:32:39,240
+Okay, you may be
+onto something.
+
+517
+00:32:39,365 --> 00:32:40,616
+- We'll look into it.
+- Wait. That's not all.
+
+518
+00:32:40,867 --> 00:32:43,995
+On a hunch, I called the new tenant who
+moved into Hazel Haibach's apartment.
+
+519
+00:32:44,203 --> 00:32:47,123
+I asked her if she'd forgotten
+anything, needed it mailed. Turn out she did.
+
+520
+00:32:47,373 --> 00:32:49,542
+The address she gave
+was a P.O. box in Santa Fe.
+
+521
+00:32:49,876 --> 00:32:50,918
+New Mexico.
+
+522
+00:32:51,043 --> 00:32:52,170
+At the foot of the Sangre de Cristo
+mountains.
+
+523
+00:32:52,295 --> 00:32:53,379
+- Yeah.
+- Great.
+
+524
+00:32:53,588 --> 00:32:55,423
+Get the satellites
+looking in the area.
+
+525
+00:32:55,548 --> 00:32:57,341
+I'll put in a request to get a drone up.
+
+526
+00:32:57,467 --> 00:32:59,385
+If they are out there,
+I think we can find them.
+
+527
+00:33:05,057 --> 00:33:07,226
+She got away.
+That's my girl.
+
+528
+00:33:10,605 --> 00:33:12,398
+That's all right.
+Bet I can find her.
+
+529
+00:33:13,191 --> 00:33:14,233
+Get back out to the car.
+
+530
+00:33:52,396 --> 00:33:53,439
+Richard's coming.
+
+531
+00:33:53,981 --> 00:33:55,983
+Hey, do you think it was by chance
+that I picked you up?
+
+532
+00:33:56,734 --> 00:33:57,902
+That told me
+when you escaped.
+
+533
+00:33:59,862 --> 00:34:01,280
+I was coming for you, stupid.
+
+534
+00:34:05,159 --> 00:34:07,954
+We think we may have found the place
+that Grace Van Pelt is being held.
+
+535
+00:34:08,287 --> 00:34:11,123
+It's a seasonal cabin up
+near the edge of the tree line.
+
+536
+00:34:11,707 --> 00:34:14,168
+You have evidence of occupation?
+Firm evidence?
+
+537
+00:34:14,293 --> 00:34:16,170
+Smoke coming out of the chimney,
+going back six weeks.
+
+538
+00:34:17,547 --> 00:34:19,549
+Same time Hazel Haibach
+left Sacramento.
+
+539
+00:34:19,715 --> 00:34:21,217
+And there's a gray S.U.V.
+parked next to the building.
+
+540
+00:34:21,467 --> 00:34:23,553
+- It all matches up.
+- This must be the place.
+
+541
+00:34:24,929 --> 00:34:25,972
+Okay.
+
+542
+00:34:27,306 --> 00:34:29,016
+I'll call the chopper.
+We'll be there in an hour.
+
+543
+00:34:43,406 --> 00:34:44,448
+Pull over and stop.
+
+544
+00:34:51,664 --> 00:34:53,207
+We're here. Get out.
+
+545
+00:34:53,833 --> 00:34:54,875
+That's where Grace is?
+
+546
+00:34:56,794 --> 00:34:57,837
+Get out and see.
+
+547
+00:34:58,087 --> 00:35:00,298
+And your sister, Hazel, right?
+She's there, too?
+
+548
+00:35:01,507 --> 00:35:02,550
+What?
+
+549
+00:35:02,717 --> 00:35:03,759
+Well, you didn't think
+we knew?
+
+550
+00:35:04,302 --> 00:35:05,595
+Do we look
+that stupid to you?
+
+551
+00:35:06,596 --> 00:35:07,722
+Shut up
+and get out of the car.
+
+552
+00:35:10,308 --> 00:35:11,350
+No.
+
+553
+00:35:13,728 --> 00:35:15,771
+Out of the car now.
+
+554
+00:35:19,066 --> 00:35:20,109
+Think you're a big man,
+do you?
+
+555
+00:35:20,901 --> 00:35:22,862
+You really think I'd let you get away
+with what you've done?
+
+556
+00:35:26,032 --> 00:35:27,617
+I will shoot you
+if you don't do what I say.
+
+557
+00:35:27,742 --> 00:35:28,784
+Believe me.
+
+558
+00:35:29,785 --> 00:35:30,828
+Go ahead.
+
+559
+00:35:31,162 --> 00:35:32,330
+I don't think
+you have it in you.
+
+560
+00:35:42,673 --> 00:35:43,841
+Now who looks stupid?
+
+561
+00:35:44,717 --> 00:35:47,303
+The bullet Rigsby fired next to you
+was the only one in the gun.
+
+562
+00:35:47,428 --> 00:35:50,306
+Not a particularly strong trick,
+but it got the job done.
+
+563
+00:35:51,599 --> 00:35:52,850
+What you're gonna do now
+is get your sister
+
+564
+00:35:53,100 --> 00:35:55,186
+to come out of the house
+and put her hands on her head.
+
+565
+00:35:59,899 --> 00:36:02,109
+Come on. Get out.
+
+566
+00:36:12,953 --> 00:36:13,996
+Come on.
+
+567
+00:36:15,539 --> 00:36:17,083
+- Let's go.
+- Call out to your sister
+
+568
+00:36:17,249 --> 00:36:19,126
+and tell her to let Grace go
+and come out here.
+
+569
+00:36:22,254 --> 00:36:23,297
+Hazel?
+
+570
+00:36:23,756 --> 00:36:24,799
+"Hazel!"
+
+571
+00:36:24,924 --> 00:36:25,966
+"The police have me."
+
+572
+00:36:26,175 --> 00:36:28,010
+They say you have
+to let the girl go and come out.
+
+573
+00:36:29,345 --> 00:36:30,721
+"Everything's gonna be fine,
+Hazel"
+
+574
+00:36:31,597 --> 00:36:32,682
+"exactly as your brother says."
+
+575
+00:36:33,349 --> 00:36:35,351
+No, now you shut up.
+No, shut up!
+
+576
+00:36:50,991 --> 00:36:52,034
+Call out to her again.
+
+577
+00:36:53,160 --> 00:36:54,203
+Hazel?
+
+578
+00:36:57,581 --> 00:37:00,918
+I don't know where she is.
+Maybe she went out.
+
+579
+00:37:01,043 --> 00:37:02,086
+Her S.U.V.'s right there.
+
+580
+00:37:03,045 --> 00:37:04,088
+Hazel!
+
+581
+00:37:06,549 --> 00:37:08,342
+I don't know where she is.
+I don't know.
+
+582
+00:37:10,511 --> 00:37:12,138
+- That's Grace.
+- Rigsby.
+
+583
+00:37:12,555 --> 00:37:14,557
+- But, Jane, it's Grace.
+- Jjust don't panic.
+
+584
+00:37:15,558 --> 00:37:16,600
+You go.
+
+585
+00:37:17,101 --> 00:37:18,144
+Be careful.
+
+586
+00:37:48,883 --> 00:37:49,925
+Stay there.
+
+587
+00:37:51,260 --> 00:37:53,679
+Grace. It's okay.
+Everything's gonna be okay.
+
+588
+00:37:54,722 --> 00:37:55,765
+I'm gonna
+get you out of here.
+
+589
+00:37:56,432 --> 00:37:57,475
+Where is she?
+
+590
+00:37:58,851 --> 00:37:59,894
+Behind you!
+
+591
+00:38:01,771 --> 00:38:02,813
+Nice shot, Hazel!
+
+592
+00:38:04,440 --> 00:38:05,483
+Don't move.
+
+593
+00:38:06,066 --> 00:38:07,318
+It's gonna be all right.
+I promise.
+
+594
+00:38:08,235 --> 00:38:10,070
+- Wayne!
+- This isn't a trick gun, is it?
+
+595
+00:38:10,404 --> 00:38:11,739
+- No!
+- If I shoot this one
+
+596
+00:38:12,114 --> 00:38:13,407
+a real bullet will come out,
+won't it?
+
+597
+00:38:15,951 --> 00:38:16,994
+Wayne!
+
+598
+00:38:17,620 --> 00:38:18,913
+No. No.
+
+599
+00:38:19,955 --> 00:38:22,458
+No! No, Wayne!
+
+600
+00:38:24,168 --> 00:38:25,211
+- Wayne?
+- Well...
+
+601
+00:38:25,711 --> 00:38:26,754
+there was at least one.
+
+602
+00:38:28,088 --> 00:38:31,008
+Let's go have some fun.
+Untie her and bring her along.
+
+603
+00:38:31,675 --> 00:38:32,718
+Come on.
+
+604
+00:38:46,565 --> 00:38:47,608
+Go on.
+
+605
+00:38:49,610 --> 00:38:50,653
+Go left.
+
+606
+00:38:55,324 --> 00:38:56,367
+Left again.
+
+607
+00:38:57,576 --> 00:39:00,496
+Why so quiet, Mr. Smarty?
+Cat got your tongue?
+
+608
+00:39:02,456 --> 00:39:04,750
+You always have an answer
+for everything, usually, don't you?
+
+609
+00:39:06,293 --> 00:39:08,379
+Go on. Go ahead.
+Kneel down.
+
+610
+00:39:10,631 --> 00:39:12,007
+Right here.
+Go ahead.
+
+611
+00:39:19,598 --> 00:39:21,517
+I thought we could play
+a little game.
+
+612
+00:39:22,726 --> 00:39:23,769
+Like a quiz show.
+
+613
+00:39:25,604 --> 00:39:26,647
+I'd ask questions...
+
+614
+00:39:28,148 --> 00:39:30,484
+and you get to keep a finger
+for every right answer.
+
+615
+00:39:30,734 --> 00:39:32,945
+- I'd rather not.
+- Okay, first question...
+
+616
+00:39:33,821 --> 00:39:34,864
+Who's smarter now?
+
+617
+00:39:35,197 --> 00:39:36,907
+- I don't want to.
+- You or me?
+
+618
+00:39:37,032 --> 00:39:38,075
+I don't... I don't want to.
+
+619
+00:39:38,200 --> 00:39:39,743
+No answer? Okay.
+
+620
+00:39:42,955 --> 00:39:43,998
+Wayne!
+
+621
+00:39:48,085 --> 00:39:49,962
+Wayne. Oh, God, Wayne.
+
+622
+00:40:17,740 --> 00:40:19,408
+- We need to get to a hospital.
+- Yeah.
+
+623
+00:40:22,202 --> 00:40:24,246
+And then Haibach shot you
+a second time?
+
+624
+00:40:24,413 --> 00:40:25,956
+Yeah. That one hurt.
+
+625
+00:40:26,749 --> 00:40:28,542
+But you got back up,
+disarmed the sister
+
+626
+00:40:28,667 --> 00:40:29,710
+and stopped Haibach.
+
+627
+00:40:30,377 --> 00:40:31,420
+Nice work, Wayne.
+
+628
+00:40:31,545 --> 00:40:33,005
+He said he was gonna save me,
+and he did.
+
+629
+00:40:34,089 --> 00:40:35,716
+You do realize you got shot
+with your own gun.
+
+630
+00:40:36,050 --> 00:40:38,385
+Oh, please, Cho, no jokes.
+It hurts when I laugh.
+
+631
+00:40:38,594 --> 00:40:40,554
+No, I'm just saying, if you tell
+that story in the future
+
+632
+00:40:40,679 --> 00:40:41,847
+you might want to leave
+that part out.
+
+633
+00:40:41,972 --> 00:40:43,474
+Seriously, I'm gonna split a stitch.
+
+634
+00:40:45,476 --> 00:40:46,936
+We should go,
+let you get some rest.
+
+635
+00:40:48,604 --> 00:40:50,940
+I don't know what we would have
+done if we'd lost you.
+
+636
+00:40:51,357 --> 00:40:52,608
+I knew you guys would come.
+
+637
+00:40:53,567 --> 00:40:54,610
+Bye.
+
+638
+00:40:59,782 --> 00:41:02,034
+You two take very good care
+of each other.
+
+639
+00:41:06,830 --> 00:41:07,873
+Didn't mean to interrupt.
+
+640
+00:41:07,998 --> 00:41:10,376
+Oh, we were, uh...
+Just leaving.
+
+641
+00:41:11,168 --> 00:41:12,211
+Bye.
+
+642
+00:41:16,340 --> 00:41:18,342
+I wanted to come by and see
+how you're doing.
+
+643
+00:41:18,801 --> 00:41:19,843
+Thank you.
+
+644
+00:41:20,052 --> 00:41:22,638
+And to let you know that you
+impressed the hell out of us.
+
+645
+00:41:23,222 --> 00:41:24,765
+Not too many people
+can do what you did.
+
+646
+00:41:25,933 --> 00:41:27,643
+Thank you. Really.
+
+647
+00:41:28,227 --> 00:41:29,561
+We're just glad
+that you're both okay.
+
+648
+00:41:30,187 --> 00:41:31,230
+Yeah.
+
+649
+00:41:32,898 --> 00:41:33,941
+Yeah.
+
+650
+00:41:35,317 --> 00:41:39,571
+And if you two ever think about
+getting back to our side of the business
+
+651
+00:41:40,280 --> 00:41:41,323
+give me a call.
+
+652
+00:41:42,658 --> 00:41:43,701
+I don't think so.
+
+653
+00:41:44,660 --> 00:41:46,120
+Civilian life, here we come.
+
+654
+00:41:47,079 --> 00:41:48,122
+Well, that's too bad.
+
+655
+00:41:49,039 --> 00:41:50,582
+Anyhow, the offer's still open.
+
+656
+00:41:51,250 --> 00:41:52,292
+- Thank you.
+- Thank you.
+
+657
+00:41:52,459 --> 00:41:53,502
+- Take care.
+- Bye.
+
+658
+00:41:55,504 --> 00:41:56,964
+Okay. I'm gonna head out, too.
+
+659
+00:41:57,881 --> 00:42:00,634
+Oh, don't go yet, buddy.
+Got lunch coming up.
+
+660
+00:42:01,427 --> 00:42:02,469
+I can get you your own.
+
+661
+00:42:03,345 --> 00:42:04,388
+Hospital lunch?
+
+662
+00:42:04,513 --> 00:42:08,183
+It's really not that bad.
+They got cherry cobbler.
+
+663
+00:42:13,063 --> 00:42:15,149
+I was really angry
+at you for doing what you did
+
+664
+00:42:15,315 --> 00:42:16,734
+but then I thought better of it.
+
+665
+00:42:16,859 --> 00:42:19,153
+It was a stupid idea,
+but, hey, it worked.
+
+666
+00:42:19,278 --> 00:42:21,363
+Whoa. Stupid?
+Not necessarily stupid.
+
+667
+00:42:21,488 --> 00:42:22,990
+Simple. Not stupid.
+
+668
+00:42:23,115 --> 00:42:24,199
+But I am still angry at you
+
+669
+00:42:24,324 --> 00:42:25,659
+for not telling me
+what you were gonna do.
+
+670
+00:42:25,868 --> 00:42:26,910
+I thought you'd gone nuts.
+
+671
+00:42:27,036 --> 00:42:29,496
+Oh, come on, please. It's not like I haven't
+abducted people before.
+
+672
+00:42:29,830 --> 00:42:31,665
+It's not funny.
+I was really scared.
+
+673
+00:42:32,624 --> 00:42:34,001
+- I'm sorry.
+- No, you're not.
+
+674
+00:42:34,710 --> 00:42:36,837
+I can tell when
+you're not being sincere now.
+
+675
+00:42:37,046 --> 00:42:39,006
+Well, clearly, you can't,
+because I am sorry.
+
+676
+00:42:39,131 --> 00:42:41,008
+I can tell just by looking
+at you, okay?
+
+677
+00:42:41,133 --> 00:42:42,593
+But you can't see
+what I'm feeling.
+
